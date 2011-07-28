@@ -23,7 +23,7 @@ for i in `ls tmp/*.jpg` ; do
 done
 
 echo  " " 
-sed '/^$/d' $1/data.txt > tmp/data.txt
+sed '/^$/d' $1/it.txt > tmp/data.txt
 exec 3<&0
 exec 0<tmp/data.txt
 while read line
