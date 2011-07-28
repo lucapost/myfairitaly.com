@@ -1,6 +1,6 @@
 notextile. <script type="text/javascript">
 <!--
-window.location = "home.html"
+window.location = "/home.html"
 //-->
 </script>
 
