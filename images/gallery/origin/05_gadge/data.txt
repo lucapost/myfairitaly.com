@@ -1,0 +1,19 @@
+01.jpg:t-shirts personalizzabili con logo:t-shirt
+02.jpg:penne personalizzabili con logo:penne a sfera
+03.jpg:penna mini personalizzabile:penna con laccetto
+04.jpg:penna metallo personalizzabile:penna metallo
+05.jpg:orologio personalizzabile con marchio:orologio
+06.jpg:portapenne con orologio da tavolo:portapenne
+07.jpg:orologio portafoto digitali:orologio da scrivania
+08.jpg:laccetti multicolor personalizzabili:laccetti per cellulare
+09.jpg:calzette portacellulari multicolor personalizzabili:portacellulari
+10.jpg:astuccio sommelier deluxe in legno:set sommelier
+11.jpg:astuccio sommelier deluxe in pelle:confezione vino 
+12.jpg:penna usb personalizzabile:penna usb
+13.jpg:portachiavi in gomma personalizzabili:portachiavi
+14.jpg:cappellino colorato per stampa logo:cappellino
+15.jpg:ombrelli bicolore per stampa marchio:ombrelli
+16.jpg:astuccio in legno personalizzabile:matite colorate
+17.jpg:borsa in tela stampabile:shop in tela
+18.jpg:zainetto bicolor stampabile:zainetto
+19.jpg:porta cd nero personalizzabile:porta cd
