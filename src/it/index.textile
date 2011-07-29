@@ -4,4 +4,4 @@ window.location = "home.html"
 //-->
 </script>
 
-"home":home.html  "en":/en/home.html
+"it":home.html  "en":/en/home.html
