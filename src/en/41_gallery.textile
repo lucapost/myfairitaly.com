@@ -1,80 +1,22 @@
-<!DOCTYPE html>
-<html lang="it">
-	<head>
-		<title>My Fair Italy - gallerie</title>
-		<meta name="keywords" content="my fair italy, toscana, san miniato, organizzazione, progettazione, feste private, inaugurazioni, cerimonie, matrimoni, comunioni, battesimi, compleanni, agriturismo, degustazioni, stand, azienda, agenzia, italia, gallerie" /> 
-		<meta name="description" content="Organizzazione eventi aziendali, cerimonie e feste; agenzia di viaggi a San Miniato in Toscana, gallerie" /> 
-		<meta name="author" content="Luca Postregna" />
-		<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW"> 
-		<meta content="text/html; charset=UTF-8" http-equiv="content-type" />
-		<link rel="stylesheet" type="text/css" media="all" href="/css/style.css" /> 
-		<link rel="icon" type="image/x-icon" href="/images/girasole.ico" />
-		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
-		<script type="text/javascript" src="/js/hashgrid.js"></script>  
-		<script type="text/javascript" src="/js/flux.min.js"></script>
-		<script type="text/javascript" src="/js/block.js"></script>  
-		<script type="text/javascript" src="/js/slider.js"></script> 
-		<script type="text/javascript"> 
-			var _gaq = _gaq || [];
-			_gaq.push(['_setAccount', 'UA-15308846-1']);
-			_gaq.push(['_trackPageview']);
-			(function() {
-				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-			 })();
-		</script> 
-	</head>
-	<body>
-		<div id="container" class="container_12">
-			<div class="grid_8 prefix_1">
-				<div id="subtitle">	
-					<p>Agenzia di viaggio ed organizzazione eventi in Toscana</p>
-				</div>
-			</div>
-			<a href="/home.html" title="lingua italiana">
-				<div id="flagit" class="grid_1"></div>
-			</a>
-			<a href="/en/home.html" title="english language">
-				<div id="flagen" class="grid_1"></div>
-			</a>
-			<header class="grid_10 prefix_1 suffix_1"><a href="/home.html" title="home">
-				<div id="title">
-					<h1 class="hide">My Fair Italy</h1>
-					<p>&reg;</p>
-				</div></a>	
-				<div class="barra">
-					<p>Dio manda gli uomini buoni in Paradiso e quelli molto, molto buoni in Toscana</p>
-				</div>
-				<div id="top"></div>
-			</header>
-			<div class="clear"></div>
-			<div id="boxsx" class="grid_6 prefix_1">
-	<h2>gallerie</h2>
+h2. gallerie
 
-	<ul class="tabs">
-		<li><a href="#strutture" title="galleria strutture">strutture ricettive</a></li>
-	</ul>
+*(tabs) "accommodation (accomodation)":#strutture
 
-<div class="twocolumn">
+notextile. <div class="twocolumn">
 
-	<h3>Cerimonie</h3>
+h3. Cerimonies
 
-	<ul class="tabs">
-		<li><a href="#matrimonio" title="Galleria Matrimoni">Matrimoni</a></li>
-		<li><a href="#ideas" title="Galleria Idee per allestimenti">Idee</a></li>
-		<li><a href="#locationsmat" title="Galleria locations per cerimonie">Locations</a></li>
-	</ul>
+*(tabs) "Weddings(Weddings gallery)":#matrimonio
+* "Ideas(Ideas gallerys)":#ideas
+* "Locations(Locations gallery)":#locationsmat
 
-	<h3>Aziendali</h3>
+h3. Businness
 
-	<ul class="tabs">
-		<li><a href="#gadgets" title="Galleria gadgets">Gadgets</a></li>
-		<li><a href="#renderings" title="Galleria renderings">Renderings</a></li>
-		<li><a href="#locationscorp" title="Galleria locations aziendali">Locations</a></li>
-	</ul>
+*(tabs) "Gadgets(Gadgets gallery)":#gadgets
+* "Renderings(Renderings gallery)":#renderings
+* "Locations(Locations gallery)":#locationscorp
 
-</div><!-- end twocolumn -->
+notextile. </div><!-- end twocolumn -->
 <div id="strutture" class="block">
 	<div class="controls">
 		<a href="#" onclick="window.slider1.start();return false;">play</a> |
@@ -239,68 +181,3 @@
 		<img src="/images/gallery/07_corlo/15.jpg" alt="panoramica struttura per meetings a San Miniato" title="Villa Sonnino" />
 	</div>
 </div><!-- end locationscorp-->
-			<p><a href="#top" title="back to top">top</a></p>
-			</div><!-- end boxsx -->
-			<div id="boxdx" class="grid_4 suffix_1">
-				<a href="/contatti.html" title="contatti"><div id="contacts"></div></a>
-				<menu>
-					<ul>
-	<li><a href="home.html">home</a></li>
-	<li><a href="eventi.html">eventi</a></li>
-	<li><a href="viaggi.html">viaggi</a></li>
-	<li><a href="proposte.html">proposte</a></li>
-	<li><a href="gallerie.html" class="current">gallerie</a></li>
-	<li><a href="chi_siamo.html">chi siamo</a></li>
-</ul>
-				</menu>
-				<a href="http://www.booking.com/index.html?aid=339074"><div id="booking"></div></a>
-				<div id="twitter">
-					<script src="http://widgets.twimg.com/j/2/widget.js"></script>
-					<script>
-					new TWTR.Widget({
-					  version: 2,
-					  type: 'profile',
-					  rpp: 5,
-					  interval: 6000,
-					  width: 'auto',
-					  height: 300,
-					  theme: {
-					    shell: {
-					      background: '#dcdcdc',
-					      color: '#000000'
-					    },
-					    tweets: {
-					      background: '#ffffff',
-					      color: '#000000',
-					      links: '#6e5a00'
-					    }	
-					  },
-					  features: {
-					    scrollbar: false,
-					    loop: false,
-					    live: false,
-					    hashtags: true,
-					    timestamp: true,
-					    avatars: false,
-					    behavior: 'all'
-					  }
-					}).render().setUser('myfairitaly').start();
-					</script>
-				</div>
-				<a href="https://www.facebook.com/pages/My-Fair-Italy/102008026501737"><div id="facebook"></div></a>
-			</div><!-- end boxdx -->
-			<div class="clear"></div>
-			<footer class="grid_10 prefix_1 suffix_1 clearfix">
-				<div class="barra"></div>
-				<p> My Fair Italy di Feel Italy snc di Giuditta Presenti, Allegra La Rosa, Paola Barsanti &amp; C. ::
-				    Registered Office: v. 25 Aprile 1/A 56024 Ponte a Egola (Pi) :: C.F. 01956590507 :: REA: PI - 0168615 ::
-				    Logo design: Arch. Pietro Dani - DNA STUDIO :: <a href="privacy.html">privacy</a> ::
-				    <a href="/info.html">info</a><br/>
-					&copy; 2011 <a href="http://luca.postregna.name">Luca Postregna</a> ::
-					update: 20110729 ::
-				<a href="http://validator.w3.org/check?uri=referer">xhtml</a> <a href="http://jigsaw.w3.org/css-validator/check/referer">css</a>
-			</footer>
-			<div class="clear"></div>
-		</div>
-	</body>
-</html>

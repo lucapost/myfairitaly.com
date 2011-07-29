@@ -1,7 +1,7 @@
 notextile. <script type="text/javascript">
 <!--
-window.location = "/home.html"
+window.location = "home.html"
 //-->
 </script>
 
-"it":/home.html  "en":/en/home.html
+"home":home.html  "en":/en/home.html
