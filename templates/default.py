@@ -18,7 +18,6 @@ def header(node):
 		<meta name="keywords" content="''' + keywords + ', ' + node.name + '''" /> 
 		<meta name="description" content="''' + description + ', ' + node.name + '''" /> 
 		<meta name="author" content="''' + author + '''" />
-		<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW"> 
 		<meta content="text/html; charset=UTF-8" http-equiv="content-type" />
 		<link rel="stylesheet" type="text/css" media="all" href="/css/style.css" /> 
 		<link rel="icon" type="image/x-icon" href="/images/girasole.ico" />

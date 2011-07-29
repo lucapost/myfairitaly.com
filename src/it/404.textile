@@ -1,1 +1,7 @@
-This page is not available, please visit "home":/home.html.
+notextile. <script type="text/javascript">
+<!--
+window.location = "/home.html"
+//-->
+</script>
+
+"home":home.html  "en":/en/home.html
