@@ -1,6 +1,6 @@
 h2. gallerie
 
-*(tabs) "strutture ricettive(galleria strutture)":#strutture
+*(tabs) "Strutture ricettive(galleria strutture)":#strutture
 
 notextile. <div class="twocolumn">
 
