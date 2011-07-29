@@ -1,6 +1,6 @@
-h2. gallerie
+h2. Galleries
 
-*(tabs) "accommodation (accomodation)":#strutture
+*(tabs) "Accommodation(Accomodation)":#strutture
 
 notextile. <div class="twocolumn">
 
