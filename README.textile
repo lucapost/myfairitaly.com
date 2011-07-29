@@ -6,17 +6,17 @@ h2. gestione galleria
 
 Le immagini delle gallerie si trovato nella cartella /images/gallery/.
 
-Le immagini originali devono avere dimensione 420x300 oppure 300x420 e formato *.jpg.
+Le immagini originali devono avere dimensione 420x300 oppure 300x420 in formato *.jpg.
 
 Ciascuna galleria deve avere le sue immagini originali posizionate nella cartella /images/gallery/origin/XX_nomegalleria.
 
-All'interno della cartella /images/gallery/origin/XX_nomegalleria/, oltre alle immagini jpg, devono essere presenti i file it.txt ed en.txt.
+All'interno della cartella /images/gallery/origin/XX_nomegalleria/, oltre alle immagini jpg, deve essere presente il file data.txt.
 
-I file it.txt ed en.txt contengono le informazione sulle immagini: descrizione e titolo.
+Il file data.txt contiene le informazione sulle immagini: descrizione e titolo nelle due lingua italiano ed inglese.
 
-Ogni riga di questi files corrisponde ad una immagine. Il primo campo è il nome dell'immagine, il secondo la descrizione, il terzo il titolo. Ciuscun campo deve essere separato dai due punti. Un esempio di riga è:
+Ogni riga di questi files corrisponde ad una immagine, questa è la struttura di ogni riga
 
-	01.jpg:questa è la descrizione:questo è il titolo
+	01.jpg:desc ita:titolo ita:desc eng:titolo eng
 
 Il file /images/gallery/generate.sh è lo script che genera le immagini per le gallerie ed il codice html da inserire dentro [...]/gallerie.textile.
 
