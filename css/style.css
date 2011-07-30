@@ -48,6 +48,7 @@ a {
 #flagit,
 #flagen {
 	height: 18px;
+	width: 58px;
 	border-radius: 10px;
 	border: 1px solid #757575;
 }
@@ -218,6 +219,16 @@ menu {
 	text-transform: capitalize;
 }
 
+menu a {
+	display: block;
+	text-decoration: none;
+	line-height: 39px;
+	background-color: #dcdcdc;
+	border-bottom: 1px solid #7a7a7a;
+	border-left: 1px solid #7a7a7a;
+	border-right: 1px solid #7a7a7a;
+}
+
 menu ul {
 	margin:0;
 	padding:0;
@@ -228,16 +239,6 @@ menu li {
 	margin:0;
 	padding:0;
 	list-style-type:none;
-}
-
-menu a {
-	display: block;
-	text-decoration: none;
-	line-height: 39px;
-	background-color: #dcdcdc;
-	border-bottom: 1px solid #7a7a7a;
-	border-left: 1px solid #7a7a7a;
-	border-right: 1px solid #7a7a7a;
 }
 
 menu li:nth-child(1) > a {
