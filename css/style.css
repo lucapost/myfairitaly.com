@@ -82,7 +82,7 @@ header {
 	margin-bottom: 20px;
 	border-radius: 10px;
 	border: 1px solid #757575;
-	background: url('/images/myfairitaly.png') 79px center no-repeat, url('/images/italia.png') no-repeat 479px center;
+	background: url('/images/header.png') center no-repeat;
 	background-color: #dcdcdc;
 	text-align: right;
 }
