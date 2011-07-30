@@ -269,3 +269,7 @@ footer {
 footer p {
 	margin-top:20px;
 }
+
+footer a {
+	text-decoration: underline;
+}
