@@ -186,6 +186,10 @@ header {
 	background-color: #dcdcdc;
 }
 
+#contacts:hover {
+	background-color: #ffd71d;
+}
+
 #facebook {
 	width: 298px;
 	height: 98px;
@@ -209,6 +213,10 @@ header {
 	border: 1px solid #757575;
 	margin-bottom: 20px;
 	background-color: #dcdcdc;
+}
+
+#booking:hover {
+	background-color: #ffd71d;
 }
 
 menu {
