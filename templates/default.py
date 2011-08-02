@@ -44,17 +44,23 @@ def header(node):
 					<p>''' + subtitle + '''</p>
 				</div>
 			</div>
-			<a href="/home.html" title="lingua italiana">
-				<div id="flagit" class="grid_1"></div>
-			</a>
-			<a href="/en/home.html" title="english language">
-				<div id="flagen" class="grid_1"></div>
-			</a>
-			<header class="grid_10 prefix_1 suffix_1"><a href="''' + prefix + '''home.html" title="home">
+			<div id="flagit" class="grid_1">
+				<a href="/home.html" title="lingua italiana">
+					<p class="hide">lingua italiana</p>
+				</a>
+			</div>
+			<div id="flagen" class="grid_1">
+				<a href="/en/home.html" title="english language">
+					<p class="hide">english language</p>
+				</a>
+			</div>
+			<header class="grid_10 prefix_1 suffix_1">
 				<div id="title">
-					<h1 class="hide">''' + site_name + '''</h1>
-					<p>&reg;</p>
-				</div></a>	
+					<a href="''' + prefix + '''home.html" title="home">
+						<h1 class="hide">''' + site_name + '''</h1>
+						<p>&reg;</p>
+					</a>
+				</div>
 				<div class="barra">
 					<p>''' + site_desc + '''</p>
 				</div>
@@ -69,11 +75,15 @@ def footer(node):
 			<p><a href="#top" title="back to top">top</a></p>
 			</div><!-- end boxsx -->
 			<div id="boxdx" class="grid_4 suffix_1">
-				<a href="''' + prefix + linkcontacts + '''.html" title="''' + linkcontacts + '''"><div id="contacts"></div></a>
+				<a href="''' + prefix + linkcontacts + '''.html" id="contacts" title="''' + linkcontacts + '''">
+					<p class="hide">''' + linkcontacts + '''</p>
+				</a>
 				<menu>
 					%%%MENU%%%
 				</menu>
-				<a href="http://www.booking.com/index.html?aid=339074"><div id="booking"></div></a>
+				<a href="http://www.booking.com/index.html?aid=339074" id="booking" title="booking">
+					<p class="hide">booking</p>
+				</a>
 				<div id="twitter">
 					<script src="http://widgets.twimg.com/j/2/widget.js"></script>
 					<script>
@@ -107,7 +117,9 @@ def footer(node):
 					}).render().setUser('myfairitaly').start();
 					</script>
 				</div>
-				<a href="https://www.facebook.com/pages/My-Fair-Italy/102008026501737"><div id="facebook"></div></a>
+				<a href="https://www.facebook.com/pages/My-Fair-Italy/102008026501737" id="facebook" title="facebook">
+					<p class="hide">facebook</p>
+				</a>
 			</div><!-- end boxdx -->
 			<div class="clear"></div>
 			<footer class="grid_10 prefix_1 suffix_1 clearfix">

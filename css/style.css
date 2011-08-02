@@ -176,55 +176,49 @@ header {
 	text-align: center;
 }
 
-#contacts {
+a#contacts {
+	background:url(/images/contacts.png) no-repeat center center;
+	margin-bottom: 20px;
+}
+
+a#booking {
+	background:url(/images/booking.png) no-repeat center center;
+	margin-bottom: 20px;
+}
+
+a#facebook {
+	background:url(/images/facebook.jpg) no-repeat center center;
+	margin: 0;
+}
+
+a#contacts,
+a#booking,
+a#facebook {
+	display: block;
 	width: 298px;
 	height: 98px;
-	background:url(/images/contacts.png) no-repeat center center;
 	border-radius: 10px;
-	border: 1px solid #757575;
-	margin-bottom: 20px;
+	border: 1px solid #757575; 
 	background-color: #dcdcdc;
 }
 
-#contacts:hover {
+a#contacts:hover,
+a#booking:hover {
 	background-color: #ffd71d;
-}
-
-#facebook {
-	width: 298px;
-	height: 98px;
-	background:url(/images/facebook.jpg);
-	border-radius: 10px;
-	border: 1px solid #757575; 
-	margin-top: 20px;
 }
 
 #twitter {
 	border-radius: 10px;
 	border: 1px solid #757575;
-	margin-top: 20px;
-}
-
-#booking {
-	width: 298px;
-	height: 98px;
-	background:url(/images/booking.png) no-repeat center center;
-	border-radius: 10px;
-	border: 1px solid #757575;
 	margin-bottom: 20px;
-	background-color: #dcdcdc;
-}
-
-#booking:hover {
-	background-color: #ffd71d;
 }
 
 menu {
 	width: 300px;
-	margin-bottom:20px;
 	color: #000;
 	text-align:center;
 	text-transform: capitalize;
+	margin-bottom: 20px;
 }
 
 menu a {
