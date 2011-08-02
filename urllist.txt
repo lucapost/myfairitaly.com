@@ -12,7 +12,7 @@ http://myfairitaly.com/info.html
 http://myfairitaly.com/en/contacts.html
 http://myfairitaly.com/en/events.html
 http://myfairitaly.com/en/travels.html
-http://myfairitaly.com/en/proposal.html
+http://myfairitaly.com/en/proposals.html
 http://myfairitaly.com/en/galleries.html
 http://myfairitaly.com/en/who_we_are.html
 http://myfairitaly.com/en/privacy.html

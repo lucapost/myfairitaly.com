@@ -7,7 +7,7 @@
 <item>
      <link>http://myfairitaly.com/</link>
      <title>My Fair Italy - index</title>
-     <description>Organizzazione eventi aziendali, cerimonie e feste; agenzia di viaggi a San Miniato in Toscana, index</description>
+     <description>My Fair Italy - index</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>0</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
@@ -25,7 +25,7 @@
      <title>My Fair Italy - home</title>
      <description>Organization of holiday's accomodations, tasting tours, weddings and events in Tuscany, home</description>
      <ror:updatePeriod></ror:updatePeriod>
-     <ror:sortOrder>1</ror:sortOrder>
+     <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
@@ -33,7 +33,7 @@
      <title>My Fair Italy - contatti</title>
      <description>Organizzazione eventi aziendali, cerimonie e feste; agenzia di viaggi a San Miniato in Toscana, contatti</description>
      <ror:updatePeriod></ror:updatePeriod>
-     <ror:sortOrder>1</ror:sortOrder>
+     <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
@@ -41,7 +41,7 @@
      <title>My Fair Italy - eventi</title>
      <description>Organizzazione eventi aziendali, cerimonie e feste; agenzia di viaggi a San Miniato in Toscana, eventi</description>
      <ror:updatePeriod></ror:updatePeriod>
-     <ror:sortOrder>1</ror:sortOrder>
+     <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
@@ -49,7 +49,7 @@
      <title>My Fair Italy - viaggi</title>
      <description>Organizzazione eventi aziendali, cerimonie e feste; agenzia di viaggi a San Miniato in Toscana, viaggi</description>
      <ror:updatePeriod></ror:updatePeriod>
-     <ror:sortOrder>1</ror:sortOrder>
+     <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
@@ -57,7 +57,7 @@
      <title>My Fair Italy - proposte</title>
      <description>Organizzazione eventi aziendali, cerimonie e feste; agenzia di viaggi a San Miniato in Toscana, proposte</description>
      <ror:updatePeriod></ror:updatePeriod>
-     <ror:sortOrder>1</ror:sortOrder>
+     <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
@@ -65,7 +65,7 @@
      <title>My Fair Italy - gallerie</title>
      <description>Organizzazione eventi aziendali, cerimonie e feste; agenzia di viaggi a San Miniato in Toscana, gallerie</description>
      <ror:updatePeriod></ror:updatePeriod>
-     <ror:sortOrder>1</ror:sortOrder>
+     <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
@@ -73,7 +73,7 @@
      <title>My Fair Italy - chi siamo</title>
      <description>Organizzazione eventi aziendali, cerimonie e feste; agenzia di viaggi a San Miniato in Toscana, chi siamo</description>
      <ror:updatePeriod></ror:updatePeriod>
-     <ror:sortOrder>1</ror:sortOrder>
+     <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
@@ -81,7 +81,7 @@
      <title>My Fair Italy - privacy</title>
      <description>Organizzazione eventi aziendali, cerimonie e feste; agenzia di viaggi a San Miniato in Toscana, privacy</description>
      <ror:updatePeriod></ror:updatePeriod>
-     <ror:sortOrder>1</ror:sortOrder>
+     <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
@@ -89,7 +89,7 @@
      <title>My Fair Italy - info</title>
      <description>Organizzazione eventi aziendali, cerimonie e feste; agenzia di viaggi a San Miniato in Toscana, info</description>
      <ror:updatePeriod></ror:updatePeriod>
-     <ror:sortOrder>1</ror:sortOrder>
+     <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
@@ -97,7 +97,7 @@
      <title>My Fair Italy - contacts</title>
      <description>Organization of holiday's accomodations, tasting tours, weddings and events in Tuscany, contacts</description>
      <ror:updatePeriod></ror:updatePeriod>
-     <ror:sortOrder>2</ror:sortOrder>
+     <ror:sortOrder>3</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
@@ -105,7 +105,7 @@
      <title>My Fair Italy - events</title>
      <description>Organization of holiday's accomodations, tasting tours, weddings and events in Tuscany, events</description>
      <ror:updatePeriod></ror:updatePeriod>
-     <ror:sortOrder>2</ror:sortOrder>
+     <ror:sortOrder>3</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
@@ -113,15 +113,15 @@
      <title>My Fair Italy - travels</title>
      <description>Organization of holiday's accomodations, tasting tours, weddings and events in Tuscany, travels</description>
      <ror:updatePeriod></ror:updatePeriod>
-     <ror:sortOrder>2</ror:sortOrder>
+     <ror:sortOrder>3</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>http://myfairitaly.com/en/proposal.html</link>
-     <title>My Fair Italy - proposal</title>
-     <description>Organization of holiday's accomodations, tasting tours, weddings and events in Tuscany, proposal</description>
+     <link>http://myfairitaly.com/en/proposals.html</link>
+     <title>My Fair Italy - proposals</title>
+     <description>Organization of holiday's accomodations, tasting tours, weddings and events in Tuscany, proposals</description>
      <ror:updatePeriod></ror:updatePeriod>
-     <ror:sortOrder>2</ror:sortOrder>
+     <ror:sortOrder>3</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
@@ -129,7 +129,7 @@
      <title>My Fair Italy - galleries</title>
      <description>Organization of holiday's accomodations, tasting tours, weddings and events in Tuscany, galleries</description>
      <ror:updatePeriod></ror:updatePeriod>
-     <ror:sortOrder>2</ror:sortOrder>
+     <ror:sortOrder>3</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
@@ -137,7 +137,7 @@
      <title>My Fair Italy - who we are</title>
      <description>Organization of holiday's accomodations, tasting tours, weddings and events in Tuscany, who we are</description>
      <ror:updatePeriod></ror:updatePeriod>
-     <ror:sortOrder>2</ror:sortOrder>
+     <ror:sortOrder>3</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
@@ -145,7 +145,7 @@
      <title>My Fair Italy - privacy</title>
      <description>Organization of holiday's accomodations, tasting tours, weddings and events in Tuscany, privacy</description>
      <ror:updatePeriod></ror:updatePeriod>
-     <ror:sortOrder>2</ror:sortOrder>
+     <ror:sortOrder>3</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
@@ -153,7 +153,7 @@
      <title>My Fair Italy - info</title>
      <description>Organization of holiday's accomodations, tasting tours, weddings and events in Tuscany, info</description>
      <ror:updatePeriod></ror:updatePeriod>
-     <ror:sortOrder>2</ror:sortOrder>
+     <ror:sortOrder>3</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 </channel>
