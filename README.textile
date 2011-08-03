@@ -1,6 +1,6 @@
 h1. Readme
 
-Please visit "www.myfairitaly.com":http://www.myfairitaly.com
+Please visit "www.myfairitaly.com":http://www.myfairitaly.com.
 
 h2. gestione galleria
 
