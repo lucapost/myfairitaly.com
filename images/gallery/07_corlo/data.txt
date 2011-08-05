@@ -1,0 +1,15 @@
+01.jpg:sala meetings Hotel San Miniato:San Martino:meeting room hotel san miniato:san martino
+03.jpg:sala meetings maxischermo:meeting a Firenze:meeting room with maxi screen::meeting in Florenz
+04.jpg:sala conferenze a Firenze:sala conferenze:meeting room in Florence:meeting room
+05.jpg:sala meetings circolare:sala meetings aziendali:circular meeting room:corporate meeting
+06.jpg:sala meeting agriturismo in Toscana:meeting in agriturismo:meeting room in a farmhouse in Tuscany:farmhouse meeting room
+07.jpg:sala conferenze interno hotel in toscana:meeting in hotel:Meeting room in a hotel in Tuscany:hotel meeting room
+08.jpg:allestimento sala workshop:sala riunioni:set up of a workshop room:assembly room
+09.jpg:meeting aziendale sala moderna:sala conferenze:Modern meeting room:meeting room
+10.jpg:allestimento sala riunioni:sala riunioni:set up of a meeting room:assembly room
+11.jpg:sala meeting Villa Sonnino a San Miniato:Villa Sonnino :meeting room in Villa Sonnino in San Miniato area:villa sonnino
+12.jpg:panorama dalla terrazza panoramica:vista su Roma:landscape from an observation platform:roman landscape
+13.jpg:reception struttura per meetings a San Miniato:hotel San Miniato:reception of a business hotel in San Miniato:hotel san miniato
+14.jpg:location per meetings a San Miniato:Hotel Miravalle:meetings area in San Miniato:hotel miravalle
+15.jpg:panoramica struttura per meetings a San Miniato:Villa Sonnino:wide shot of a meeting room in San Miniato:villa sonnino
+
