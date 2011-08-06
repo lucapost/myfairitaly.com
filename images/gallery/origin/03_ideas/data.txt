@@ -1,10 +1,10 @@
-01.jpg:allestimento tavolo fucsia:comunione
-02.jpg:allestimento tavolo frutti di bosco:compleanno
-03.jpg:bandiera con palloni ad elio:rivoluzione francese
-04.jpg:disposizione piatti di carta:rosa di piatti
-05.jpg:piatti arancio e neri:halloween
-06.jpg:allestimento festa bambini:ragnatele
-07.jpg:festa di halloween:fantasma
-08.jpg:animatori per ragazzi:dottore pazzo
-09.jpg:creazione divano patchwork:fiori e bottoni
-10.jpg:installazione mostra fotografica:bolle di vetro
+01.jpg:allestimento tavolo fucsia:comunione:fuchsia table mounting:holy communion
+02.jpg:allestimento tavolo frutti di bosco:compleanno:soft fruit table mounting:birthday
+03.jpg:bandiera con palloni ad elio:rivoluzione francese:balloned flag:french revolution
+04.jpg:disposizione piatti di carta:rosa di piatti:paper dish mounting:a rose
+05.jpg:piatti arancio e neri:halloween:black and orang dish:halloween
+06.jpg:allestimento festa bambini:ragnatele:children party mounting:cobweb
+07.jpg:festa di halloween:fantasma:halloween party:gost
+08.jpg:animatori per ragazzi:dottore pazzo:children animators:crazy doctor
+09.jpg:creazione divano patchwork:fiori e botton:patchwork sofa:buttons and flowers
+10.jpg:installazione mostra fotografica:bolle di vetro:photos exhibition:glass bubbles
