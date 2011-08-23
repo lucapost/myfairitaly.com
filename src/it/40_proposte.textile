@@ -1,17 +1,18 @@
 h2. proposte
 
-*My Fair Italy®* è capace di rendere reale il vostro desiderio!
+*My Fair Italy®* può aiutarti a rendere reale il tuo sogno quando, durante il tuo soggiorno in Toscana, vorrai regalarti un momento di relax, una giornata indimenticabile, o trovare un modo particolare per scoprirla. Le nostre proposte comprendono sia attività giornaliere, sia tour in Toscana di più giorni.
 
-*(tabs) "Weekend di benessere per la coppia(Weekend in centro benessere)":#benessere
-* "Nel Chianti in bici(Tour in bici nel Chianti)":#chianti
-* "S. Miniato/Volterra in bici(Tour in bici tra San Miniato e Volterra)":#volterra
-* "S. Miniato/S. Gimignano in bici(tour in bici tra San Miniato e San Gimignano)":#gimignano
-* "Solo per due(Weekend romantico)":#soloperdue
+*(tabs) "Solo per due(momenti romantici)":#soloperdue
 * "Un giro in Ferrari(Guidare una Ferrari)":#ferrari
 * "Volarci su(Volo in mongolfiera)":#mongolfiera
 * "Caccia al Tartufo(Cercare tartufi)":#tartufo
 * "Degustazioni di vino e olio(Degustaziono Olio e Vino in Toscana)":#degustazioni
 * "Corsi di cucina(Corsi di Cucina Toscana)":#cookingclasses
+
+*(tabs) "Weekend di benessere(Weekend in centro benessere)":#benessere
+* "Nel Chianti in bici(Tour in bici nel Chianti)":#chianti
+* "S.Miniato/Volterra in bici(Tour in bici tra San Miniato e Volterra)":#volterra
+* "S.Miniato/S.Gimignano in bici(Tour in bici tra San Miniato e San Gimignano)":#gimignano
 
 notextile. <div id="soloperdue" class="block">
 
@@ -40,6 +41,8 @@ notextile. </div><!-- end mongolfiera -->
 
 !(thumb)/images/proposal/tartufo.jpg(Tartufo bianco)!
 
+Attività di ricerca del Tartufo e degustazione a San Miniato in Toscana. Sia per singoli che per gruppi. Periodo: tutto l'anno.
+
 Le colline di San Miniato sono famose per il tartufo bianco e *My Fair Italy®* può organizzare una vera caccia al tartufo con un tartufaio e il suo cane. Il Tuber Magnatum Pico è il tesoro sotterraneo principale del territorio di San Miniato. Ogni anno si svolge, in novembre, la Mostra Mercato Nazionale del Tartufo bianco di San Miniato. *My Fair Italy®* organizza attività  di mezza giornata che saranno un'esperienza per il tuo naso e la tua bocca!
 su richiesta è possibile avere una degustazione a base di tartufo dopo l'esperienza della ricerca del magnifico tubero.
 
@@ -47,6 +50,8 @@ notextile. </div><!-- end tartufo -->
 <div id="degustazioni" class="block">
 
 !(thumb)/images/proposal/degustazioni.jpg(Cantina toscana)!
+
+Attività di degustazione di vino e olio a San Miniato in Toscana. Sia per singoli che per gruppi. Periodo: tutto l'anno.
 
 La Toscana è la patria del vino. Gli italiani bevono un po' a pranzo e un pochino di più a cena, il vino è una presenza quotidiana, come il pane, pasta o olio d'oliva. Si impara a conoscere il vino tramite la degustazione e l'esperienza. Perchè non concedersi questo piacere direttamente nelle fattorie  dove i vini vengono prodotti? *My Fair Italy®* organizza tours con transfer privato che passerà a prendervi all'orario stabilito e vi porterà alla fattoria dove passerete mezza giornata o tutta godendovi la natura e scoprendo i vini e la loro produzione. Sarete a contatto con la vera fattoria toscana e i veri contadini che lavorano e vivono lì.
 
@@ -60,6 +65,8 @@ notextile. </div><!-- end degustazioni -->
 <div id="cookingclasses" class="block">
 
 !(thumb)/images/proposal/cucina.jpg(Sottoli in barattolo)!
+
+Corsi di cucina per principianti ed esperti a San Miniato in Toscana. Durata: da un minimo di mezza giornata fino ad una settimana. Sia per singoli che per gruppi. Periodo: tutto l'anno.
 
 La cucina toscana è apprezzata da tutti coloro che si occupano di cibo. I piatti toscani sono deliziosi e vengono cucinati usando erbe aromatiche, olio extravergine d'oliva, verdure, pesce, carne e ovviamente pasta. Se siete in Toscana e gustate questi piatti vorrete sicuramente imparare i segreti e l'essenza della cucina italiana e, se avrete solo poche ore libere, la nostra scuola di cucina vi farà imparare esattamente quello che desiderate in una singola sessione.
 
