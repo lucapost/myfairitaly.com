@@ -4,8 +4,8 @@ h2. contatti
 "reservations@myfairitaly.com(email reservations)":mailto:reservations@myfairitaly.com
 "weddings@myfairitaly.com(email weddings)":mailto:weddings@myfairitaly.com
 
-tel: (+39)0571 49571
-fax: (+39)0571 451059
+Tel: (+39)0571 49571
+Fax: (+39)0571 451059
 
 Via 25 Aprile 1/a, Ponte a Egola, Pisa (IT).
 
