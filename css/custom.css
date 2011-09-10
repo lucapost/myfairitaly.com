@@ -1,0 +1,283 @@
+@import url(/css/960.css);
+@import url(http://fonts.googleapis.com/css?family=Playfair+Display&v1);
+@import url(http://fonts.googleapis.com/css?family=Droid+Serif);
+@import url(/css/hashgrid.css);
+@import url(/css/accordion.css);
+
+* {
+  	margin:0;
+	padding:0;
+}
+
+html,
+body {
+	font-size: 16px;
+	line-height:20px;
+	font-family: 'Droid Serif', arial, serif;
+	width: 100%;
+	height: 100%;
+	background-color: #dcdcdc;
+}
+
+h2, h3, h4 {
+	color: black;
+	font-family: 'Playfair Display', arial, serif;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+a:visited {
+	color: black;
+}
+
+.hide {
+	visibility:hidden;
+}
+
+#container {
+	background-color: white;
+	padding: 20px 0 20px 0;
+}
+
+.barra {
+	font-size: 16px;
+	line-height: 18px;
+	height: 18px;
+	text-align:center;
+	background-color: #ffd71d;
+	border-radius: 10px;
+	border: 1px solid #757575;
+	text-align:center;
+	margin: 0 0 20px 0;
+}
+
+#flagit,
+#flagen {
+	height: 18px;
+	width: 58px;
+	border-radius: 10px;
+	border: 1px solid #757575;
+}
+
+#flagit {
+	background:url(/images/it.jpg) no-repeat center center;
+}
+
+#flagen {
+	background:url(/images/en.jpg) no-repeat center center;
+}
+
+#title {
+	height: 278px;
+	width: 778px;
+	margin: 0 0 20px 0;
+	border-radius: 10px;
+	border: 1px solid #757575;
+	background: url('/images/header.png') center no-repeat;
+	background-color: #dcdcdc;
+	text-align: right;
+}
+
+#title p {
+	padding-top: 200px;
+	padding-right: 80px;
+	color: #7a7a7a;
+}
+
+#boxsx h2,
+#boxsx h3,
+#boxsx h4 {
+	font-size: 40px;
+	line-height: 40px;
+	text-transform: uppercase;
+}
+
+#boxsx h3 {
+	font-size: 24px;
+	margin-top: 20px;
+}
+
+#boxsx h4 {
+	font-size: 20px;
+	margin-top: 20px;
+}
+
+#boxsx img {
+	width: 460px;
+	height:300px;
+	border-radius: 10px;
+}
+
+#boxsx img.thumb {
+	float: left;
+	margin: 0 20px 20px 0;
+	height: 140px;
+	width: 140px;
+}
+
+#boxsx p {
+	margin-top: 20px;
+}
+
+#boxsx a {
+	color: #000000;
+	text-decoration: underline;
+	transition: #400020;
+	transition-duration: 4000ms;
+	-webkit-transition: color; 
+	-webkit-transition-duration: 4000ms;
+	-moz-transition: color; 
+	-moz-transition-duration: 4000ms;
+	-o-transition: color; 
+	-o-transition-duration: 4000ms;
+}
+
+#boxsx a:hover {
+	color: #ffd71d;
+	transition: color;
+	transition-duration: 400ms;
+	-webkit-transition: color;
+	-webkit-transition-duration: 400ms;
+	-moz-transition: color;
+	-moz-transition-duration: 400ms;
+	-o-transition: color;
+	-o-transition-duration: 400ms;
+}
+
+#boxsx ul {
+	margin: 20px;
+	padding: 0 0 0 20px;
+}
+
+#boxsx ul li.active {
+	font-weight:bold;
+}
+
+.twocolumn {
+	height: 140px;
+	column-count: 2;
+	-moz-column-count: 2;
+        -webkit-column-count: 2;
+}
+
+#slider1,
+#slider2,
+#slider3,
+#slider4,
+#slider5,
+#slider6,
+#slider7 {
+	width: 460px;
+}
+
+.controls {
+	text-align: center;
+}
+
+a#contacts {
+	background:url(/images/contacts.png) no-repeat center center;
+	margin-bottom: 20px;
+}
+
+a#booking {
+	background:url(/images/booking.png) no-repeat center center;
+	margin-bottom: 20px;
+}
+
+a#facebook {
+	background:url(/images/facebook.jpg) no-repeat center center;
+	margin: 0;
+}
+
+a#contacts,
+a#booking,
+a#facebook {
+	display: block;
+	width: 298px;
+	height: 98px;
+	border-radius: 10px;
+	border: 1px solid #757575; 
+	background-color: #dcdcdc;
+}
+
+a#contacts:hover,
+a#booking:hover {
+	background-color: #ffd71d;
+}
+
+#twitter {
+	border-radius: 10px;
+	border: 1px solid #757575;
+	margin-bottom: 20px;
+}
+
+menu {
+	width: 300px;
+	color: #000;
+	text-align:center;
+	text-transform: capitalize;
+	margin-bottom: 20px;
+}
+
+menu a {
+	display: block;
+	text-decoration: none;
+	line-height: 39px;
+	background-color: #dcdcdc;
+	border-bottom: 1px solid #7a7a7a;
+	border-left: 1px solid #7a7a7a;
+	border-right: 1px solid #7a7a7a;
+}
+
+menu ul {
+	margin:0;
+	padding:0;
+	display: block;
+}
+
+menu li {
+	margin:0;
+	padding:0;
+	list-style-type:none;
+}
+
+menu li:nth-child(1) > a {
+	line-height: 38px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	border-top: 1px solid #7a7a7a;
+}
+
+menu li:nth-child(6) > a {
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+menu a:hover {
+	text-decoration: underline;
+}
+
+menu a.current {
+	background-color: #ffd71d;
+	text-decoration: none;
+}
+
+footer {
+	text-align: center;
+	font-size: 12px;
+	line-height: 20px;
+}
+
+footer p {
+	margin-top:20px;
+}
+
+footer a {
+	text-decoration: underline;
+}
+
+.top20 {
+	margin: 20px 0 0 0;
+}
