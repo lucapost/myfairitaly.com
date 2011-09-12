@@ -6,7 +6,7 @@ home = "/"
 path_separator = "/"
 src_ext = {"textile": "textile"}
 dst_ext = "html"
-hidden = set(["404.textile", "privacy.textile", "info.textile", "contacts.textile", "contatti.textile"])
+hidden = set(["404.textile", "privacy.textile", "info.textile"])
 current_time = datetime.datetime.now()
 
 def header(node):
@@ -83,14 +83,14 @@ def footer(node):
 	return '''<p><a href="#top" title="back to top">top</a></p>
 			</div><!-- end boxsx -->
 			<div id="boxdx" class="grid_4 suffix_1">
-				<a href="''' + prefix + linkcontacts + '''.html" id="contacts" title="''' + linkcontacts + '''">
-					<p class="hide">''' + linkcontacts + '''</p>
-				</a>
 				<menu>
 					%%%MENU%%%
 				</menu>
 				<a href="http://www.booking.com/index.html?aid=339074" id="booking" title="booking">
 					<p class="hide">booking</p>
+				</a>
+				<a href="https://www.facebook.com/pages/My-Fair-Italy/102008026501737" id="facebook" title="facebook">
+					<p class="hide">facebook</p>
 				</a>
 				<div id="twitter">
 					<script src="http://widgets.twimg.com/j/2/widget.js"></script>
@@ -125,9 +125,6 @@ def footer(node):
 					}).render().setUser('myfairitaly').start();
 					</script>
 				</div>
-				<a href="https://www.facebook.com/pages/My-Fair-Italy/102008026501737" id="facebook" title="facebook">
-					<p class="hide">facebook</p>
-				</a>
 			</div><!-- end boxdx -->
 			<div class="clear"></div>
 			<footer class="grid_10 prefix_1 suffix_1 clearfix">

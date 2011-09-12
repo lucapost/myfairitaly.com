@@ -152,13 +152,15 @@ a:visited {
 
 #boxsx ul li.active {
 	font-weight:bold;
+	text-transform:uppercase;
 }
 
-.twocolumn {
-	height: 140px;
-	column-count: 2;
-	-moz-column-count: 2;
-        -webkit-column-count: 2;
+#boxsx ul li.active a {
+	text-decoration: none;
+}
+
+#boxsx ul li.active a:hover {
+	color: black;
 }
 
 #slider1,
@@ -175,41 +177,29 @@ a:visited {
 	text-align: center;
 }
 
-a#contacts {
-	background:url(/images/contacts.png) no-repeat center center;
-	margin-bottom: 20px;
-}
-
 a#booking {
 	background:url(/images/booking.png) no-repeat center center;
-	margin-bottom: 20px;
+	background-color: #dcdcdc;
 }
 
 a#facebook {
 	background:url(/images/facebook.jpg) no-repeat center center;
-	margin: 0;
+	background-color: #3b5999;
 }
 
-a#contacts,
 a#booking,
 a#facebook {
 	display: block;
 	width: 298px;
-	height: 98px;
+	height: 38px;
 	border-radius: 10px;
 	border: 1px solid #757575; 
-	background-color: #dcdcdc;
-}
-
-a#contacts:hover,
-a#booking:hover {
-	background-color: #ffd71d;
+	margin-bottom: 20px;
 }
 
 #twitter {
 	border-radius: 10px;
 	border: 1px solid #757575;
-	margin-bottom: 20px;
 }
 
 menu {
@@ -230,6 +220,15 @@ menu a {
 	border-right: 1px solid #7a7a7a;
 }
 
+menu a:hover {
+	text-decoration: underline;
+}
+
+menu a.current {
+	background-color: #ffd71d;
+	text-decoration: none;
+}
+
 menu ul {
 	margin:0;
 	padding:0;
@@ -244,22 +243,21 @@ menu li {
 
 menu li:nth-child(1) > a {
 	line-height: 38px;
+	border-radius: 10px;
+	border: 1px solid #7a7a7a;
+	margin-bottom: 20px;
+}
+
+menu li:nth-child(2) > a {
+	line-height: 38px;
 	border-top-left-radius: 10px;
 	border-top-right-radius: 10px;
 	border-top: 1px solid #7a7a7a;
 }
 
-menu li:nth-child(6) > a {
+menu li:nth-child(7) > a {
 	border-bottom-left-radius: 10px;
 	border-bottom-right-radius: 10px;
-}
-menu a:hover {
-	text-decoration: underline;
-}
-
-menu a.current {
-	background-color: #ffd71d;
-	text-decoration: none;
 }
 
 footer {
