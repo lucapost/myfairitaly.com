@@ -14,3 +14,4 @@
   Standards: HTML5, CSS3
   Components: Modernizr, jQuery
   Software: minimalsite
+  IDE: Vim
