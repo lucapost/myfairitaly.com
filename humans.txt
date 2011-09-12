@@ -1,0 +1,16 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+
+/* TEAM */
+  Chef: Luca Postregna
+  Twitter: @lucapost
+  Location: Italy
+
+/* THANKS */
+  Names (& URL): lavish (minimalblue.com), equilibrium (ineluttabile.com)
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: Modernizr, jQuery
+  Software: minimalsite

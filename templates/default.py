@@ -27,6 +27,7 @@ def header(node):
 
 		<title>''' + site_name + ' - ' + node.name + '''</title>
 		<meta name="author" content="''' + author + '''" />
+		<link rel="author" href="/humans.txt" /> 
 		<meta name="description" content="''' + description + ', ' + node.name + '''" /> 
   		<meta name="keywords" content="''' + keywords + ', ' + node.name + '''" /> 
 
@@ -153,10 +154,10 @@ def footer(node):
 	  	<script defer src="js/script.js"></script>
 	 	<!-- end scripts -->
 
-		<script type="text/javascript" src="/js/hashgrid.js"></script>  
-		<script type="text/javascript" src="/js/flux.min.js"></script>
-		<script type="text/javascript" src="/js/block.js"></script>  
-		<script type="text/javascript" src="/js/slider.js"></script> 
+		<script type="text/javascript" src="/js/mylibs/hashgrid.js"></script>  
+		<script type="text/javascript" src="/js/mylibs/flux.min.js"></script>
+		<script type="text/javascript" src="/js/mylibs/block.js"></script>  
+		<script type="text/javascript" src="/js/mylibs/slider.js"></script> 
 			
   		<!-- Asynchronous Google Analytics snippet. Change UA-XXXXX-X to be your site's ID.
 	       	mathiasbynens.be/notes/async-analytics-snippet -->

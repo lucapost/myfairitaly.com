@@ -24,12 +24,10 @@ h2, h3, h4 {
 	font-family: 'Playfair Display', arial, serif;
 }
 
-a {
-	text-decoration: none;
-	color: black;
-}
-
+a,
+a:hover,
 a:visited {
+	text-decoration: none;
 	color: black;
 }
 

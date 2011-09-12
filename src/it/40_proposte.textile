@@ -2,7 +2,7 @@ h2. proposte
 
 *My Fair Italy®* può aiutarti a rendere reale il tuo sogno quando, durante il tuo soggiorno in Toscana, vorrai regalarti un momento di relax, una giornata indimenticabile, o trovare un modo particolare per scoprirla. 
 
-Le nostre proposte comprendono sia attività giornaliere:
+Le nostre proposte comprendono sia *attività giornaliere*:
 
 *(tabs) "Solo per due(momenti romantici)":#soloperdue
 * "Un giro in Ferrari(Guidare una Ferrari)":#ferrari
@@ -11,12 +11,14 @@ Le nostre proposte comprendono sia attività giornaliere:
 * "Degustazioni di vino e olio(Degustaziono Olio e Vino in Toscana)":#degustazioni
 * "Corsi di cucina(Corsi di Cucina Toscana)":#cookingclasses
 
-sia tour in Toscana di più giorni:
+sia tour in Toscana di *più giorni*:
 
 *(tabs) "Weekend di benessere(Weekend in centro benessere)":#benessere
 * "Nel Chianti in bici(Tour in bici nel Chianti)":#chianti
 * "S.Miniato/Volterra in bici(Tour in bici tra San Miniato e Volterra)":#volterra
 * "S.Miniato/S.Gimignano in bici(Tour in bici tra San Miniato e San Gimignano)":#gimignano
+
+<hr/>
 
 notextile. <div id="soloperdue" class="block">
 
@@ -138,4 +140,4 @@ Tour di tre giorni tra "San Miniato(San Miniato su wikipedia)":http://it.wikiped
 
 *Il livello di difficoltà del tour proposto è INTERMEDIO.*
 
-notextile. </div>
+notextile. </div><hr/>
