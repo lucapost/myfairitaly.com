@@ -1,0 +1,43 @@
+h1. Readme
+
+Please visit "www.myfairitaly.com":http://www.myfairitaly.com.
+
+h2. gestione galleria
+
+Le immagini delle gallerie si trovato nella cartella /images/gallery/.
+
+Le immagini originali devono avere dimensione 420x300 oppure 300x420 in formato *.jpg.
+
+Ciascuna galleria deve avere le sue immagini originali posizionate nella cartella /images/gallery/origin/XX_nomegalleria.
+
+All'interno della cartella /images/gallery/origin/XX_nomegalleria/, oltre alle immagini jpg, deve essere presente il file data.txt.
+
+Il file data.txt contiene le informazione sulle immagini: descrizione e titolo nelle due lingua italiano ed inglese.
+
+Ogni riga di questi files corrisponde ad una immagine, questa è la struttura di ogni riga
+
+	01.jpg:desc ita:titolo ita:desc eng:titolo eng
+
+Il file /images/gallery/generate.sh è lo script che genera le immagini per le gallerie ed il codice html da inserire dentro [...]/gallerie.textile.
+
+Per eseguilrlo si deve entrare con la shell nella certella /images/gallery/, identificare la galleria che si vuole generare (ad esempio origin/XX_nomegalleria/ ) ed eseguire lo script,
+
+	./generate.sh origin/XX_nomegalleria
+
+Una volta eseguito lo script, sul terminale comparirà il testo html da inserire nel file *.textile.
+
+Capit?!
+
+h2. comandi utili
+
+rimuovere branch remote
+
+	git push origin :branchremota
+
+rimuovere btanch locale
+
+	git br -D branchlocale
+
+creare branch remote
+
+	git push --all
