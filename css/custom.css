@@ -202,7 +202,7 @@ a#facebook {
 	border: 1px solid #757575;
 }
 
-menu {
+nav {
 	width: 300px;
 	color: #000;
 	text-align:center;
@@ -210,7 +210,7 @@ menu {
 	margin-bottom: 20px;
 }
 
-menu a {
+nav a {
 	display: block;
 	text-decoration: none;
 	line-height: 39px;
@@ -220,42 +220,42 @@ menu a {
 	border-right: 1px solid #7a7a7a;
 }
 
-menu a:hover {
+nav a:hover {
 	text-decoration: underline;
 }
 
-menu a.current {
+nav a.current {
 	background-color: #ffd71d;
 	text-decoration: none;
 }
 
-menu ul {
+nav ul {
 	margin:0;
 	padding:0;
 	display: block;
 }
 
-menu li {
+nav li {
 	margin:0;
 	padding:0;
 	list-style-type:none;
 }
 
-menu li:nth-child(1) > a {
+nav li:nth-child(1) > a {
 	line-height: 38px;
 	border-radius: 10px;
 	border: 1px solid #7a7a7a;
 	margin-bottom: 20px;
 }
 
-menu li:nth-child(2) > a {
+nav li:nth-child(2) > a {
 	line-height: 38px;
 	border-top-left-radius: 10px;
 	border-top-right-radius: 10px;
 	border-top: 1px solid #7a7a7a;
 }
 
-menu li:nth-child(7) > a {
+nav li:nth-child(7) > a {
 	border-bottom-left-radius: 10px;
 	border-bottom-right-radius: 10px;
 }
