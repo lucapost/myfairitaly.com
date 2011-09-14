@@ -1,3 +1,12 @@
+---
+layout: base
+lang: it
+title: Eventi
+eventi: current
+description: My Fair Italy per i suoi clienti organizza cerimonie ed eventi aziendali
+keywords: San Miniato, Toscana, Italia, Matrimonio, Battesimo, Comunioni, Compleanni, Addio al celibato e nubilato
+---
+
 h2. my fair events
 
 h3. Cerimonie

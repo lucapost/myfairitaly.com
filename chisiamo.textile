@@ -1,3 +1,12 @@
+---
+layout: base
+lang: it
+title: Chi Siamo
+chisiamo: current
+description: My Fair Italy ed i suoi colloaboratori, le socie
+keywords: San Miniato, Toscana, Italia, soci, persone
+---
+
 h2. chi siamo
 
 *My Fair Italy®* è la nostra azienda. Siamo tre donne e abbiamo una vita assai movimentata. Lavoriamo da sempre nel turismo, con i turisti. Forse perché siamo abituate a farlo con noi stesse, siamo bravissime a risolvere problemi, organizzare il tempo ai disorganizzati, e a gestire eventi di qualsiasi tipo, dimensione, costo. Noi chi?

@@ -14,7 +14,7 @@
 	<meta name="keywords" content="{{ page.keywords }}" /> 
 	<meta name="viewport" content="width=device-width,initial-scale=1">
 	<link rel="stylesheet" href="/css/style.css">
-	<link rel="stylesheet" "/css/custom.css" /> 
+	<link rel="stylesheet" href="/css/custom.css" /> 
   	<script src="js/libs/modernizr-2.0.6.min.js"></script>
 </head>
 <body>
@@ -29,12 +29,12 @@
 			</div>
 		</div>
 		<div id="flagit" class="grid_1">
-			<a href="/home.html" title="lingua italiana">
+			<a href="/" title="lingua italiana">
 				<p class="hide">lingua italiana</p>
 			</a>
 		</div>
 		<div id="flagen" class="grid_1">
-			<a href="/en/home.html" title="english language">
+			<a href="/en" title="english language">
 				<p class="hide">english language</p>
 			</a>
 		</div>
@@ -72,6 +72,7 @@
 			<nav>
 				<ul> 
 					{% if page.lang == 'en' %}
+						<li><a href="contacts.html" class="{{ page.contacts }}">contacts</a></li> 
 						<li><a href="index.html" class="{{ page.home }}">home</a></li> 
 						<li><a href="events.html" class="{{ page.events }}">events</a></li> 
 						<li><a href="travels.html" class="{{ page.travels }}">travels</a></li> 
@@ -79,11 +80,12 @@
 						<li><a href="gallery.html" class="{{ page.gallery }}">gallery</a></li> 
 						<li><a href="whoweare.html" class="{{ page.whoweare }}">who we are</a></li> 
 					{% else%}
+						<li><a href="contatti.html" class="{{ page.contatti }}">contatti</a></li> 
 						<li><a href="index.html" class="{{ page.home }}">home</a></li> 
 						<li><a href="eventi.html" class="{{ page.eventi }}">eventi</a></li> 
 						<li><a href="viaggi.html" class="{{ page.viaggi }}">viaggi</a></li> 
 						<li><a href="proposte.html" class="{{ page.proposte }}">proposte</a></li> 
-						<li><a href="gallerie.html" class="{{ page.gallerie }}">gallerie</a></li> 
+						<li><a href="galleria.html" class="{{ page.galleria }}">galleria</a></li> 
 						<li><a href="chisiamo.html" class="{{ page.chisiamo }}">chi siamo</a></li> 
 					{% endif %}
 				</ul> 
@@ -154,7 +156,6 @@
   	<script defer src="/js/script.js"></script>
 	<script defer src="/js/mylibs/hashgrid.js"></script>  
 	<script defer src="/js/mylibs/flux.min.js"></script>
-	<script defer src="/js/mylibs/block.js"></script>  
 	<script defer src="/js/mylibs/slider.js"></script> 
   	<script>
     		var _gaq=[['_setAccount','UA-6164762-11'],['_trackPageview'],['_trackPageLoadTime']];

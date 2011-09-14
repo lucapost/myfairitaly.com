@@ -1,3 +1,12 @@
+---
+layout: base
+lang: it
+title: Contatti
+contatti: current
+description: My Fair Italy può essere contattata per telefono ed email, inoltre puoi raggiungerci presso i nostri uffici
+keywords: San Miniato, Toscana, Italia, Turismo, Viaggi, Gruppi, Eventi, Cerimonie, Recapiti
+---
+
 h2. contatti
 
 "info@myfairitaly.com(email info)":mailto:info@myfairitaly.com

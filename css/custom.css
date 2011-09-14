@@ -35,9 +35,15 @@ a:visited {
 	visibility:hidden;
 }
 
-#container {
+#top,
+#middle,
+#bottom {
 	background-color: white;
-	padding: 20px 0 20px 0;
+	padding-top: 20px;
+}
+
+#bottom {
+	padding-bottom: 20px;
 }
 
 .barra {
@@ -49,7 +55,6 @@ a:visited {
 	border-radius: 10px;
 	border: 1px solid #757575;
 	text-align:center;
-	margin: 0 0 20px 0;
 }
 
 #flagit,
@@ -68,10 +73,13 @@ a:visited {
 	background:url(/images/en.jpg) no-repeat center center;
 }
 
+header {
+	margin: 20px 0 20px 0;
+}
+
 #title {
 	height: 278px;
 	width: 778px;
-	margin: 0 0 20px 0;
 	border-radius: 10px;
 	border: 1px solid #757575;
 	background: url('/images/header.png') center no-repeat;
