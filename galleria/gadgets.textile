@@ -1,13 +1,13 @@
 ---
 layout: base
 lang: it
-title: galleria
+title: Galleria
 galleria: current
 description: My Fair Italy ed il suo album fotografico per aiutarti nelle tue scelte
 keywords: San Miniato, Toscana, Italia, Foto, Immagini, Galleria
 ---
 
-"!(back)/images/back.png(back)! ritorna alla lista delle gallerie":./#middle 
+"!(back)/images/back.png(back)! ritorna all'elenco delle gallerie":./#middle 
 
 h3=. gadgets
 
@@ -36,6 +36,6 @@ notextile. <div class="controls">
 	<img src="/images/gallery/05_gadge/16.jpg" alt="astuccio in legno personalizzabile" title="matite colorate" />
 	<img src="/images/gallery/05_gadge/17.jpg" alt="borsa in tela stampabile" title="shop in tela" />
 	<img src="/images/gallery/05_gadge/18.jpg" alt="zainetto bicolor stampabile" title="zainetto" />
-	<img src="/images/gallery/05_gadge/19.jpg" alt="porta cd nero personalizzabile" title="porta cd" />
+	<img src="/images/gallery/05_gadge/19.jpg" alt="porta cd nero personalizzabile" title="porta cd" /> 
 </div>
 
