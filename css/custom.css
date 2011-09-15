@@ -188,6 +188,27 @@ header {
 	margin-bottom: 20px;
 }
 
+#slider .pagination {
+    	list-style:none outside none;
+    	padding: 0 15px 0 0 !important;
+	overflow:hidden;
+}
+
+#slider .pagination li {
+    	cursor:pointer;
+	display:inline-block;
+	margin-left:0;
+	background-color:#7a7a7a;
+	border-radius:10px 10px 10px 10px;
+	height:8px;
+	text-indent:10000px;
+	width:8px;
+}
+
+#slider .pagination li.current {
+	background-color:#ffd71d;
+}
+
 nav {
 	width: 300px;
 	color: #000;
