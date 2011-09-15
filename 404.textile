@@ -1,0 +1,14 @@
+---
+layout: base
+lang: it
+title: Error 404
+home: current
+description: My Fair Italy
+keywords: San Miniato, Toscana, Italia, Turismo, Viaggi, Gruppi, Soggiorno, Privati, Aziende, Eventi, Cerimonie
+---
+
+h3. Error 404
+
+La pagina non è stata trovata, risulta quindi inesistente.
+
+"Back to home":/

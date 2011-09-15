@@ -1,0 +1,16 @@
+---
+layout: base
+lang: it
+proposte: current
+title: Un giro in Ferrari
+description: My Fair Italy propone soggiorni di una giornata oppure più giorni
+keywords: San Miniato, Toscana, Italia, Vacanza, Relax
+---
+
+"!(back)/images/back.png(back)! ritorna all'elenco delle proposte":./#middle 
+
+h3. Un giro in Ferrari?
+
+!(thumb)/images/proposal/ferrari.jpg(Ferrari)!
+
+Una pista, una Ferrari, un pilota al vostro fianco. Ci avete mai pensato? Se la risposta è sì, non esitate a scriverci per chiederci di prenotarvi un tour a Maranello dedicato interamente al cavallino rampante. Sceglieremo l'hotel che fa per voi, prenoteremo pranzi e cene, ma soprattutto realizzeremo il vostro sogno: essere piloti di una ferrari per un giorno.

@@ -1,0 +1,18 @@
+---
+layout: base
+lang: it
+proposte: current
+title: Tour in Mongolfiera
+description: My Fair Italy propone soggiorni di una giornata oppure più giorni
+keywords: San Miniato, Toscana, Italia, Vacanza, Relax
+---
+
+"!(back)/images/back.png(back)! ritorna all'elenco delle proposte":./#middle 
+
+h3. Tour in mongolfiera
+
+!(thumb)/images/proposal/mongolfiere.jpg(Mongolfiere in volo)!
+
+Volete provare l'esperienza unica di un volo sopra le terre di Toscana? Scoprire con occhi diversi le città storiche e le splendide vigne che costellano il paesaggio? *My Fair Italy®* può offrirvi il potere dell'immaginazione che si avvera!
+
+Grazie alla collaborazione con professionisti esperti potrete volare con un mezzo che conserva tutto il romanticismo e lo spirito d'avventura dell'arte del volo: la Mongolfiera! Se poi la giornata può concludersi con una degustazione di vini e prodotti tipici in una delle località che hanno reso famosa la nostra regione, o con il soggiorno adatto alle tue esigenze, beh....il piacere è garantito!

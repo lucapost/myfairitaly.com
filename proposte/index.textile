@@ -1,0 +1,28 @@
+---
+layout: base
+lang: it
+title: Proposte
+proposte: current
+description: My Fair Italy propone soggiorni di una giornata oppure più giorni
+keywords: San Miniato, Toscana, Italia, Vacanza, Relax
+---
+
+h2. proposte
+
+*My Fair Italy®* può aiutarti a rendere reale il tuo sogno quando, durante il tuo soggiorno in Toscana, vorrai regalarti un momento di relax, una giornata indimenticabile, o trovare un modo particolare per scoprirla. 
+
+Le nostre proposte comprendono sia *attività giornaliere*:
+
+* "Solo per due(momenti romantici)":soloperdue.html#middle
+* "Un giro in Ferrari(Guidare una Ferrari)":ferrari.html#middle
+* "Tour in mongolfiera(Volo in mongolfiera)":mongolfiera.html#middle
+* "Caccia al Tartufo(Cercare tartufi)":tartufo.html#middle
+* "Degustazioni di vino e olio(Degustaziono Olio e Vino in Toscana)":degustazioni.html#middle
+* "Corsi di cucina(Corsi di Cucina Toscana)":cookingclasses.html#middle
+
+sia tour in Toscana di *più giorni*:
+
+* "Weekend di benessere(Weekend in centro benessere)":benessere.html#middle
+* "Nel Chianti in bici(Tour in bici nel Chianti)":chianti.html#middle
+* "S.Miniato/Volterra in bici(Tour in bici tra San Miniato e Volterra)":volterra.html#middle
+* "S.Miniato/S.Gimignano in bici(Tour in bici tra San Miniato e San Gimignano)":gimignano.html#middle
