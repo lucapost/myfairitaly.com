@@ -1,0 +1,33 @@
+---
+layout: base
+lang: it
+title: Locations Cerimonie
+gallerie: current
+description: My Fair Italy ed il suo album fotografico per aiutarti nelle tue scelte
+keywords: San Miniato, Toscana, Italia, Foto, Immagini, Galleria
+---
+
+!(back)/images/back.png(back)!:./#middle "ritorna all'elenco delle gallerie":./#middle 
+
+h3=. {{ page.title }}
+
+notextile. <div class="controls">
+	<a href="#" onclick="window.slider.start();return false;">play</a> |
+	<a href="#" onclick="window.slider.stop();return false;">stop</a> | 
+	<a href="#" onclick="window.slider.prev();return false;">prev</a> |
+	<a href="#" onclick="window.slider.prev();return false;">next</a> 
+</div>
+<div id="slider">
+	<img src="/images/gallery/04_cerlo/01.jpg" alt="disposizione tavoli in giardino" title="ricevimento all'aperto" />
+	<img src="/images/gallery/04_cerlo/02.jpg" alt="allestimento tavolo girasoli e palloncini" title="matrimonio in giallo" />
+	<img src="/images/gallery/04_cerlo/03.jpg" alt="faretti ingresso Villa in Toscana" title="viale illuminato" />
+	<img src="/images/gallery/04_cerlo/04.jpg" alt="angolo aperitivo location all'aperto" title="ricevimento nel parco" />
+	<img src="/images/gallery/04_cerlo/05.jpg" alt="allestimento matrimonio bianco e vimini" title="Cerimonia in giardino" />
+	<img src="/images/gallery/04_cerlo/06.jpg" alt="allestimento tavoli in bianco e rosso" title="ricevimento nella villa" />
+	<img src="/images/gallery/04_cerlo/07.jpg" alt="zona relax villa Dianella" title="interni villa" />
+	<img src="/images/gallery/04_cerlo/09.jpg" alt="sala cerimonie Comune San Miniato" title="Sala degli stemmi" />
+	<img src="/images/gallery/04_cerlo/10.jpg" alt="sala cerimonie Comune San Miniato" title="Sala delle sette Virtù" />
+	<img src="/images/gallery/04_cerlo/11.jpg" alt="chiesa a San Miniato" title="Santissimo Crocifisso" />
+	<img src="/images/gallery/04_cerlo/12.jpg" alt="cattedrale a San Miniato" title="Duomo" />
+	<img src="/images/gallery/04_cerlo/13.jpg" alt="Duomo a San Miniato" title="Interno Cattedrale" />
+</div>

@@ -1,0 +1,31 @@
+---
+layout: base
+lang: it
+title: Idee
+gallerie: current
+description: My Fair Italy ed il suo album fotografico per aiutarti nelle tue scelte
+keywords: San Miniato, Toscana, Italia, Foto, Immagini, Galleria
+---
+
+!(back)/images/back.png(back)!:./#middle "ritorna all'elenco delle gallerie":./#middle 
+
+h3=. {{ page.title }}
+
+notextile. <div class="controls">
+	<a href="#" onclick="window.slider.start();return false;">play</a> |
+	<a href="#" onclick="window.slider.stop();return false;">stop</a> | 
+	<a href="#" onclick="window.slider.prev();return false;">prev</a> |
+	<a href="#" onclick="window.slider.prev();return false;">next</a> 
+</div>
+<div id="slider">
+	<img src="/images/gallery/03_ideas/01.jpg" alt="allestimento tavolo fucsia" title="comunione" />
+	<img src="/images/gallery/03_ideas/02.jpg" alt="allestimento tavolo frutti di bosco" title="compleanno" />
+	<img src="/images/gallery/03_ideas/03.jpg" alt="bandiera con palloni ad elio" title="rivoluzione francese" />
+	<img src="/images/gallery/03_ideas/04.jpg" alt="disposizione piatti di carta" title="rosa di piatti" />
+	<img src="/images/gallery/03_ideas/05.jpg" alt="piatti arancio e neri" title="halloween" />
+	<img src="/images/gallery/03_ideas/06.jpg" alt="allestimento festa bambini" title="ragnatele" />
+	<img src="/images/gallery/03_ideas/07.jpg" alt="festa di halloween" title="fantasma" />
+	<img src="/images/gallery/03_ideas/08.jpg" alt="animatori per ragazzi" title="dottore pazzo" />
+	<img src="/images/gallery/03_ideas/09.jpg" alt="creazione divano patchwork" title="fiori e bottoni" />
+	<img src="/images/gallery/03_ideas/10.jpg" alt="installazione mostra fotografica" title="bolle di vetro" />
+</div>
