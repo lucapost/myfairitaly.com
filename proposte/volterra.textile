@@ -2,10 +2,12 @@
 layout: proposte
 lang: it
 proposte: current
-title: S. Miniato/Volterra in bibi
+title: S. Miniato/Volterra in bici
 description: My Fair Italy propone soggiorni di una giornata oppure più giorni
 keywords: San Miniato, Toscana, Italia, Vacanza, Relax
 ---
+
+h3. {{ page.title }}
 
 !(thumb)/images/proposal/bicivolterra.jpg(Palazzo dei Priori a Volterra)!
 

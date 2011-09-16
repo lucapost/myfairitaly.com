@@ -1,7 +1,7 @@
 ---
 layout: base
 lang: it
-title: gallerie
+title: Gallerie
 gallerie: current
 description: My Fair Italy ed il suo album fotografico per aiutarti nelle tue scelte
 keywords: San Miniato, Toscana, Italia, Foto, Immagini, Galleria
