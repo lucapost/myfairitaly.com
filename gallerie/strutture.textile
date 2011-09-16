@@ -1,6 +1,6 @@
 ---
 layout: gallery
-title: Strutture
+title: Strutture ricettive
 lang: it
 path: accomodations
 ---
