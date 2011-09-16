@@ -1,0 +1,18 @@
+---
+layout: base
+---
+
+<a href="./#middle">
+	<div id="back">
+		<img src="/images/back.png" title="back" alt="back" />
+			{% if page.lang == 'en' %}
+				<p>proposals list</p>
+			{% else %}
+				<p>elenco delle proposte</p>
+			{% endif %}
+	</div>
+</a>
+
+<h3>{{ page.title }}</h3>
+
+{{ content }} 

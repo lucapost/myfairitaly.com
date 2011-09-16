@@ -1,41 +1,6 @@
 ---
-layout: base
-lang: it
+layout: gallery
 title: Gadgets
-gallerie: current
-description: My Fair Italy ed il suo album fotografico per aiutarti nelle tue scelte
-keywords: San Miniato, Toscana, Italia, Foto, Immagini, Galleria
+path: gadgets
+lang: it
 ---
-
-!(back)/images/back.png(back)!:./#middle "ritorna all'elenco delle gallerie":./#middle 
-
-h3=. {{ page.title }}
-
-notextile. <div class="controls">
-	<a href="#" onclick="window.slider.start();return false;">play</a> |
-	<a href="#" onclick="window.slider.stop();return false;">stop</a> | 
-	<a href="#" onclick="window.slider.prev();return false;">prev</a> |
-	<a href="#" onclick="window.slider.prev();return false;">next</a> 
-</div>
-<div id="slider">
-	<img src="/images/gallery/05_gadge/01.jpg" alt="t-shirts personalizzabili con logo" title="t-shirt" />
-	<img src="/images/gallery/05_gadge/02.jpg" alt="penne personalizzabili con logo" title="penne a sfera" />
-	<img src="/images/gallery/05_gadge/03.jpg" alt="penna mini personalizzabile" title="penna con laccetto" />
-	<img src="/images/gallery/05_gadge/04.jpg" alt="penna metallo personalizzabile" title="penna metallo" />
-	<img src="/images/gallery/05_gadge/05.jpg" alt="orologio personalizzabile con marchio" title="orologio" />
-	<img src="/images/gallery/05_gadge/06.jpg" alt="portapenne con orologio da tavolo" title="portapenne" />
-	<img src="/images/gallery/05_gadge/07.jpg" alt="orologio portafoto digitali" title="orologio da scrivania" />
-	<img src="/images/gallery/05_gadge/08.jpg" alt="laccetti multicolor personalizzabili" title="laccetti per cellulare" />
-	<img src="/images/gallery/05_gadge/09.jpg" alt="calzette portacellulari multicolor personalizzabili" title="portacellulari" />
-	<img src="/images/gallery/05_gadge/10.jpg" alt="astuccio sommelier deluxe in legno" title="set sommelier" />
-	<img src="/images/gallery/05_gadge/11.jpg" alt="astuccio sommelier deluxe in pelle" title="confezione vino" />
-	<img src="/images/gallery/05_gadge/12.jpg" alt="penna usb personalizzabile" title="penna usb" />
-	<img src="/images/gallery/05_gadge/13.jpg" alt="portachiavi in gomma personalizzabili" title="portachiavi" />
-	<img src="/images/gallery/05_gadge/14.jpg" alt="cappellino colorato per stampa logo" title="cappellino" />
-	<img src="/images/gallery/05_gadge/15.jpg" alt="ombrelli bicolore per stampa marchio" title="ombrelli" />
-	<img src="/images/gallery/05_gadge/16.jpg" alt="astuccio in legno personalizzabile" title="matite colorate" />
-	<img src="/images/gallery/05_gadge/17.jpg" alt="borsa in tela stampabile" title="shop in tela" />
-	<img src="/images/gallery/05_gadge/18.jpg" alt="zainetto bicolor stampabile" title="zainetto" />
-	<img src="/images/gallery/05_gadge/19.jpg" alt="porta cd nero personalizzabile" title="porta cd" /> 
-</div>
-

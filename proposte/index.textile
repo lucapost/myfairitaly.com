@@ -18,7 +18,7 @@ Le nostre proposte comprendono sia *attività giornaliere*:
 * "Tour in mongolfiera(Volo in mongolfiera)":mongolfiera.html#middle
 * "Caccia al Tartufo(Cercare tartufi)":tartufo.html#middle
 * "Degustazioni di vino e olio(Degustaziono Olio e Vino in Toscana)":degustazioni.html#middle
-* "Corsi di cucina(Corsi di Cucina Toscana)":cookingclasses.html#middle
+* "Corsi di cucina(Corsi di Cucina Toscana)":corsidicucina.html#middle
 
 sia tour in Toscana di *più giorni*:
 

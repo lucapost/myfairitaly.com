@@ -11,16 +11,16 @@ h2. gallerie
 
 h3. Turismo
 
-* "Strutture ricettive(galleria strutture)":strutture-ricettive.html#middle
+* "Strutture ricettive(galleria strutture)":strutture.html#middle
 
 h3. Cerimonie
 
 * "Matrimoni(Galleria Matrimoni)":matrimonio.html#middle
 * "Idee per le cerimonie(Galleria Idee per allestimenti)":idee.html#middle
-* "Locations cerimonie(Galleria locations per cerimonie)":locations-cerimonie.html#middle
+* "Locations cerimonie(Galleria locations per cerimonie)":locationscerimonie.html#middle
 
 h3. Aziendali
 
 * "Gadgets(Galleria gadgets)":gadgets.html#middle
 * "Renderings(Galleria renderings)":renderings.html#middle
-* "Locations aziendali(Galleria locations aziendali)":locations-corporation.html#middle
+* "Locations aziendali(Galleria locations aziendali)":locationsaziende.html#middle

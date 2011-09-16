@@ -1,38 +1,6 @@
 ---
-layout: base
-lang: it
+layout: gallery
 title: Matrimonio
-gallerie: current
-description: My Fair Italy ed il suo album fotografico per aiutarti nelle tue scelte
-keywords: San Miniato, Toscana, Italia, Foto, Immagini, Galleria
+path: weddings
+lang: it
 ---
-
-!(back)/images/back.png(back)!:./#middle "ritorna all'elenco delle gallerie":./#middle 
-
-h3=. {{ page.title }}
-
-notextile. <div class="controls">
-	<a href="#" onclick="window.slider.start();return false;">play</a> |
-	<a href="#" onclick="window.slider.stop();return false;">stop</a> | 
-	<a href="#" onclick="window.slider.prev();return false;">prev</a> |
-	<a href="#" onclick="window.slider.prev();return false;">next</a> 
-</div>
-<div id="slider">
-	<img src="/images/gallery/02_weddi/01.jpg" alt="location medievale servizio fotografico" title="matrimonio a San Miniato" />
-	<img src="/images/gallery/02_weddi/02.jpg" alt="bomboniera tulle e capodimonte" title="bomboniera romantica" />
-	<img src="/images/gallery/02_weddi/03.jpg" alt="acconciatura e bouquet in bianco" title="sposa classica" />
-	<img src="/images/gallery/02_weddi/04.jpg" alt="allestimento auto matrimonio con girasoli" title="maggiolone rosso" />
-	<img src="/images/gallery/02_weddi/05.jpg" alt="bacio e bouquet di rose bianche" title="matrimonio in uniforme" />
-	<img src="/images/gallery/02_weddi/06.jpg" alt="calesse e ombrellino" title="sposarsi in carrozza" />
-	<img src="/images/gallery/02_weddi/07.jpg" alt="particolare servizio fotografico" title="chitarra" />
-	<img src="/images/gallery/02_weddi/08.jpg" alt="location matrimonio in Toscana" title="balcone fiorito" />
-	<img src="/images/gallery/02_weddi/09.jpg" alt="girotondo durante il ricevimento" title="matrimonio sull'aia" />
-	<img src="/images/gallery/02_weddi/10.jpg" alt="servizio fotografico campagna toscana" title="sposi e grano" />
-	<img src="/images/gallery/02_weddi/11.jpg" alt="foto matrimonio vintage" title="sposi in bianco e nero" />
-	<img src="/images/gallery/02_weddi/12.jpg" alt="auto bianca per la sposa" title="new beetle" />
-	<img src="/images/gallery/02_weddi/13.jpg" alt="invitati al matrimonio" title="maggiolino bianco" />
-	<img src="/images/gallery/02_weddi/14.jpg" alt="servizio fotografico all'aperto" title="Rocca di San Miniato" />
-	<img src="/images/gallery/02_weddi/15.jpg" alt="sposi in riva al lago" title="Salice sul lago" />
-	<img src="/images/gallery/02_weddi/16.jpg" alt="sposa in bianco a San Miniato" title="sposa al tramonto" />
-	<img src="/images/gallery/02_weddi/17.jpg" alt="vialetto accesso Rocca di San Miniato" title="sposi a San Miniato" />
-</div>

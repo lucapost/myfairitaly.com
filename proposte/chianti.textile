@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: proposte
 lang: it
 proposte: current
 title: Nel Chianti in bici
@@ -8,8 +8,6 @@ keywords: San Miniato, Toscana, Italia, Vacanza, Relax
 ---
 
 "!(back)/images/back.png(back)! ritorna all'elenco delle proposte":./#middle 
-
-h3. Nel Chianti in bici
 
 !(thumb)/images/proposal/bicichianti.jpg(Bici verso Monteriggioni)!
 

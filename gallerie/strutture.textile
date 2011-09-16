@@ -1,0 +1,6 @@
+---
+layout: gallery
+title: Strutture
+lang: it
+path: accomodations
+---

@@ -179,6 +179,20 @@ header {
 	color: black;
 }
 
+#back img {
+	width: 40px;
+	height: 40px;
+	float: left;
+}
+
+#back p {
+	line-height: 40px;
+}
+
+.center {
+	text-align: center;
+}
+
 .controls {
 	text-align: center;
 }
