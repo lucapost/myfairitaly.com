@@ -204,7 +204,7 @@ header {
 
 #slider .pagination {
     	list-style:none outside none;
-    	padding: 0 15px 0 0 !important;
+    	padding: 0 15px 0 0;
 	overflow:hidden;
 }
 

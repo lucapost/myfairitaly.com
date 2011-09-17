@@ -1,7 +1,11 @@
-auto: true
-markdown: rdiscount
+auto:           true
+markdown:       rdiscount
 rdiscount
-  extensions: [smart]
+  extensions:   [smart]
 
-source: .
-destination: _site
+source:         .
+destination:    _site
+
+exclude: 
+- generate.sh
+- README.textile

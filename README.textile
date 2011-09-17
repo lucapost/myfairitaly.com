@@ -1,24 +1,27 @@
 h1. Readme
 
-Please visit "www.myfairitaly.com":http://www.myfairitaly.com
+"www.myfairitaly.com":http://www.myfairitaly.com.
 
-h2. gestione galleria
+h2. Gallery
 
-Le immagini delle gallerie si trovato nella cartella /images/gallery/.
+Le immagini originali di input devono avere dimensione 420x300 oppure 300x420 in formato *.jpg.
 
-Le immagini originali devono avere dimensione 420x300 oppure 300x420 in formato *.jpg.
+Per elaborare le immagini seguire la seguente procedura:
 
-Ciascuna galleria deve avere le sue immagini originali posizionate nella cartella /images/gallery/origin/XX_nomegalleria.
+* posizionarsi con la shell nella cartella sorgente del sito
 
-All'interno della cartella /images/gallery/origin/XX_nomegalleria/, oltre alle immagini jpg, deve essere presente il file data.txt.
+  @cd ~/myfairitaly.com@
 
-Il file data.txt contiene le informazione sulle immagini: descrizione e titolo nelle due lingua italiano ed inglese.
+* creare la cartella images/gallery/input/nomegalleria
 
-Ogni riga di questi files corrisponde ad una immagine, questa è la struttura di ogni riga
+  @mkdir -p images/gallery/input/nomegalleria@
 
-	01.jpg:desc ita:titolo ita:desc eng:titolo eng
+* copiare le immagini originali all'interno della cartella appena creata;
 
-Il file /images/gallery/generate.sh è lo script che genera le immagini per le gallerie ed il codice html da inserire dentro [...]/gallerie.textile.
+  @cp /path/original/images/*.jpg images/gallery/input/nomegalleria@
+
+* posizio
+
 
 Per eseguilrlo si deve entrare con la shell nella certella /images/gallery/, identificare la galleria che si vuole generare (ad esempio origin/XX_nomegalleria/ ) ed eseguire lo script,
 
