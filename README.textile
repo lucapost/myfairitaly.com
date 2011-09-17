@@ -8,11 +8,11 @@ Le immagini originali di input devono avere dimensione 420x300 oppure 300x420 in
 
 Per elaborare le immagini seguire la seguente procedura:
 
-* posizionarsi con la shell nella cartella sorgente del sito 
+* posizionarsi con la shell nella cartella sorgente del sito:
 
-  @cd ~/myfairitaly.com@;
+  @cd ~/myfairitaly.com@
 
-* creare la cartella _originals/nomegalleria 
+* creare la cartella _originals/nomegalleria:
   
   @mkdir -p _originals/nomegalleria@
 
@@ -24,9 +24,7 @@ Per elaborare le immagini seguire la seguente procedura:
 
   @./generate.sh _originals/nomegalleria@
 
-* al termine dello script le immagini elaborate vengono posizionate direttamente nella cartella destinazione @images/gallery/nomegalleria@
-
-Capit?!
+* al termine dello script le immagini elaborate vengono posizionate direttamente nella cartella destinazione @images/gallery/nomegalleria@.
 
 h2. comandi utili
 
