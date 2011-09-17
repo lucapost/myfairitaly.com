@@ -8,26 +8,23 @@ Le immagini originali di input devono avere dimensione 420x300 oppure 300x420 in
 
 Per elaborare le immagini seguire la seguente procedura:
 
-* posizionarsi con la shell nella cartella sorgente del sito
+* posizionarsi con la shell nella cartella sorgente del sito 
 
-  @cd ~/myfairitaly.com@
+  @cd ~/myfairitaly.com@;
 
-* creare la cartella images/gallery/input/nomegalleria
+* creare la cartella _originals/nomegalleria 
+  
+  @mkdir -p _originals/nomegalleria@
 
-  @mkdir -p images/gallery/input/nomegalleria@
+* copiare le immagini originali all'interno della cartella appena creata:
 
-* copiare le immagini originali all'interno della cartella appena creata;
+  @cp /path/original/images/*.jpg _originals/nomegalleria@
 
-  @cp /path/original/images/*.jpg images/gallery/input/nomegalleria@
+* eseguire lo script ./generate.sh avendo cura di indicare precisamente la cartella delle immagini originali da elaborare:
 
-* posizio
+  @./generate.sh _originals/nomegalleria@
 
-
-Per eseguilrlo si deve entrare con la shell nella certella /images/gallery/, identificare la galleria che si vuole generare (ad esempio origin/XX_nomegalleria/ ) ed eseguire lo script,
-
-	./generate.sh origin/XX_nomegalleria
-
-Una volta eseguito lo script, sul terminale comparirà il testo html da inserire nel file *.textile.
+* al termine dello script le immagini elaborate vengono posizionate direttamente nella cartella destinazione @images/gallery/nomegalleria@
 
 Capit?!
 
@@ -37,7 +34,7 @@ rimuovere branch remote
 
 	git push origin :branchremota
 
-rimuovere btanch locale
+rimuovere branch locale
 
 	git br -D branchlocale
 
