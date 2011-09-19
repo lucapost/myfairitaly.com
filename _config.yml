@@ -1,11 +1,16 @@
+safe:           true
 auto:           true
+pygments:       true
 markdown:       rdiscount
 rdiscount
   extensions:   [smart]
 
-source:         .
-destination:    _site
+source:         ./
+destination:    ./_site
+plugins:        ./_plugins
 
 exclude: 
-- generate.sh
+- gallery.sh
 - README.textile
+- config.rb
+- sass

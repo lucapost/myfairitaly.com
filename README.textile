@@ -20,9 +20,9 @@ Per elaborare le immagini seguire la seguente procedura:
 
   @cp /path/original/images/*.jpg _originals/nomegalleria@
 
-* eseguire lo script ./generate.sh avendo cura di indicare precisamente la cartella delle immagini originali da elaborare:
+* eseguire lo script ./gallery.sh avendo cura di indicare precisamente la cartella delle immagini originali da elaborare:
 
-  @./generate.sh _originals/nomegalleria@
+  @./gallery.sh _originals/nomegalleria@
 
 * al termine dello script le immagini elaborate vengono posizionate direttamente nella cartella destinazione @images/gallery/nomegalleria@.
 

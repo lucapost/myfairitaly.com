@@ -1,0 +1,51 @@
+/*
+Syntax error: Invalid CSS after ":": expected pseudoclass or pseudoelement, was " {"
+        on line 61 of /home/lucapost/repo/sites/myfairitaly.com/_sass/style.scss
+
+Backtrace:
+/home/lucapost/repo/sites/myfairitaly.com/_sass/style.scss:61
+/var/lib/gems/1.8/gems/sass-3.1.7/lib/sass/../sass/scss/parser.rb:898:in `expected'
+/var/lib/gems/1.8/gems/sass-3.1.7/lib/sass/../sass/scss/parser.rb:841:in `expected'
+/var/lib/gems/1.8/gems/sass-3.1.7/lib/sass/../sass/scss/parser.rb:823:in `expr!'
+/var/lib/gems/1.8/gems/sass-3.1.7/lib/sass/../sass/scss/parser.rb:595:in `pseudo'
+/var/lib/gems/1.8/gems/sass-3.1.7/lib/sass/../sass/scss/parser.rb:486:in `simple_selector_sequence'
+/var/lib/gems/1.8/gems/sass-3.1.7/lib/sass/../sass/scss/parser.rb:466:in `_selector'
+/var/lib/gems/1.8/gems/sass-3.1.7/lib/sass/../sass/scss/parser.rb:445:in `selector'
+/var/lib/gems/1.8/gems/sass-3.1.7/lib/sass/../sass/scss/parser.rb:429:in `selector_sequence'
+/var/lib/gems/1.8/gems/sass-3.1.7/lib/sass/../sass/scss/parser.rb:354:in `ruleset'
+/var/lib/gems/1.8/gems/sass-3.1.7/lib/sass/../sass/scss/parser.rb:379:in `block_child'
+/var/lib/gems/1.8/gems/sass-3.1.7/lib/sass/../sass/scss/parser.rb:372:in `block_contents'
+/var/lib/gems/1.8/gems/sass-3.1.7/lib/sass/../sass/scss/parser.rb:57:in `stylesheet'
+/var/lib/gems/1.8/gems/sass-3.1.7/lib/sass/../sass/scss/parser.rb:26:in `parse'
+/var/lib/gems/1.8/gems/sass-3.1.7/lib/sass/../sass/engine.rb:320:in `_to_tree'
+/var/lib/gems/1.8/gems/sass-3.1.7/lib/sass/../sass/engine.rb:293:in `_render'
+/var/lib/gems/1.8/gems/sass-3.1.7/lib/sass/../sass/engine.rb:241:in `render'
+/var/lib/gems/1.8/gems/sass-3.1.7/lib/sass/../sass/util.rb:297:in `silence_sass_warnings'
+/var/lib/gems/1.8/gems/sass-3.1.7/lib/sass/../sass/engine.rb:241:in `render'
+/var/lib/gems/1.8/gems/compass-0.11.5/lib/compass/compiler.rb:136:in `compile'
+/var/lib/gems/1.8/gems/compass-0.11.5/lib/compass/compiler.rb:122:in `timed'
+/var/lib/gems/1.8/gems/compass-0.11.5/lib/compass/compiler.rb:135:in `compile'
+/var/lib/gems/1.8/gems/compass-0.11.5/lib/compass/logger.rb:45:in `red'
+/var/lib/gems/1.8/gems/compass-0.11.5/lib/compass/compiler.rb:134:in `compile'
+/var/lib/gems/1.8/gems/compass-0.11.5/lib/compass/compiler.rb:114:in `compile_if_required'
+/var/lib/gems/1.8/gems/compass-0.11.5/lib/compass/compiler.rb:99:in `run'
+/var/lib/gems/1.8/gems/compass-0.11.5/lib/compass/compiler.rb:97:in `each'
+/var/lib/gems/1.8/gems/compass-0.11.5/lib/compass/compiler.rb:97:in `run'
+/var/lib/gems/1.8/gems/compass-0.11.5/lib/compass/compiler.rb:122:in `timed'
+/var/lib/gems/1.8/gems/compass-0.11.5/lib/compass/compiler.rb:96:in `run'
+/var/lib/gems/1.8/gems/compass-0.11.5/lib/compass/commands/watch_project.rb:142:in `recompile'
+/var/lib/gems/1.8/gems/compass-0.11.5/lib/compass/commands/watch_project.rb:68:in `perform'
+/var/lib/gems/1.8/gems/compass-0.11.5/lib/compass/commands/base.rb:18:in `execute'
+/var/lib/gems/1.8/gems/compass-0.11.5/lib/compass/commands/project_base.rb:19:in `execute'
+/var/lib/gems/1.8/gems/compass-0.11.5/lib/compass/exec/sub_command_ui.rb:43:in `perform!'
+/var/lib/gems/1.8/gems/compass-0.11.5/lib/compass/exec/sub_command_ui.rb:15:in `run!'
+/var/lib/gems/1.8/gems/compass-0.11.5/bin/compass:25
+/var/lib/gems/1.8/gems/compass-0.11.5/bin/compass:39:in `call'
+/var/lib/gems/1.8/gems/compass-0.11.5/bin/compass:39
+/usr/local/bin/compass:19:in `load'
+/usr/local/bin/compass:19
+*/
+body:before {
+  white-space: pre;
+  font-family: monospace;
+  content: "Syntax error: Invalid CSS after \":\": expected pseudoclass or pseudoelement, was \" {\"\A         on line 61 of /home/lucapost/repo/sites/myfairitaly.com/_sass/style.scss"; }
