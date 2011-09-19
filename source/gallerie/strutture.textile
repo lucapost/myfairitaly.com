@@ -1,0 +1,7 @@
+---
+layout: gallery
+title: Strutture ricettive
+lang: it
+gallerie: current
+path: accomodations
+---

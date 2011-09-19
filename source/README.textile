@@ -1,0 +1,41 @@
+h1. Readme
+
+"www.myfairitaly.com":http://www.myfairitaly.com.
+
+h2. Gallery
+
+Le immagini originali di input devono avere dimensione 420x300 oppure 300x420 in formato *.jpg.
+
+Per elaborare le immagini seguire la seguente procedura:
+
+* posizionarsi con la shell nella cartella sorgente del sito:
+
+  @cd ~/myfairitaly.com@
+
+* creare la cartella _originals/nomegalleria:
+  
+  @mkdir -p _originals/nomegalleria@
+
+* copiare le immagini originali all'interno della cartella appena creata:
+
+  @cp /path/original/images/*.jpg _originals/nomegalleria@
+
+* eseguire lo script ./gallery.sh avendo cura di indicare precisamente la cartella delle immagini originali da elaborare:
+
+  @./gallery.sh _originals/nomegalleria@
+
+* al termine dello script le immagini elaborate vengono posizionate direttamente nella cartella destinazione @images/gallery/nomegalleria@.
+
+h2. comandi utili
+
+rimuovere branch remote
+
+	git push origin :branchremota
+
+rimuovere branch locale
+
+	git br -D branchlocale
+
+creare branch remote
+
+	git push --all

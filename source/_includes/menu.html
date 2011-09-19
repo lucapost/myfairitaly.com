@@ -1,0 +1,21 @@
+			<menu>
+				<ul> 
+					{% if page.lang == 'en' %}
+						<li><a href="/en/contacts.html#content" class="{{ page.contacts }}">contacts</a></li> 
+						<li><a href="/en/index.html#content" class="{{ page.home }}">home</a></li> 
+						<li><a href="/en/events.html#content" class="{{ page.events }}">events</a></li> 
+						<li><a href="/en/travels.html#content" class="{{ page.travels }}">travels</a></li> 
+						<li><a href="/en/proposals/#content" class="{{ page.proposal }}">proposal</a></li> 
+						<li><a href="/en/galleries/#content" class="{{ page.galleries }}">galleries</a></li> 
+						<li><a href="/en/whoweare.html#content" class="{{ page.whoweare }}">who we are</a></li> 
+					{% else%}
+						<li><a href="/contatti.html#content" class="{{ page.contatti }}">contatti</a></li> 
+						<li><a href="/index.html#content" class="{{ page.home }}">home</a></li> 
+						<li><a href="/eventi.html#content" class="{{ page.eventi }}">eventi</a></li> 
+						<li><a href="/viaggi.html#content" class="{{ page.viaggi }}">viaggi</a></li> 
+						<li><a href="/proposte/#content" class="{{ page.proposte }}">proposte</a></li> 
+						<li><a href="/gallerie/#content" class="{{ page.gallerie }}">gallerie</a></li> 
+						<li><a href="/chisiamo.html#content" class="{{ page.chisiamo }}">chi siamo</a></li> 
+					{% endif %}
+				</ul> 
+			</menu>

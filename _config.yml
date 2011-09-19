@@ -5,12 +5,5 @@ markdown:       rdiscount
 rdiscount
   extensions:   [smart]
 
-source:         ./
-destination:    ./_site
-plugins:        ./_plugins
-
-exclude: 
-- gallery.sh
-- README.textile
-- config.rb
-- sass
+source:         ./source
+destination:    ./www
