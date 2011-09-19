@@ -14,12 +14,12 @@
 	<meta name="keywords" content="{{ page.keywords }}" /> 
 	<meta name="viewport" content="width=device-width,initial-scale=1">
 	<link rel="stylesheet" href="/css/screen.css">
-  	<script src="/js/libs/modernizr-2.0.6.min.js"></script>
+  	<script defer src="/js/libs/modernizr-2.0.6.min.js"></script>
 </head>
 <body>
-	<div class="container_12 top">
+	<div class="container_12 top20">
 		<div class="grid_8 prefix_1">
-			<div class="barra">
+			<div class="bar">
 				{% if page.lang == 'en' %}
 					<p>Organization of holiday's accomodations and events in Tuscany</p>
 				{% else%}
@@ -27,14 +27,14 @@
 				{% endif %}
 			</div>
 		</div>
-		<div class="grid_1 flagit">
+		<div class="grid_1 flag ita">
 			<a href="/" title="lingua italiana">
-				<p class="hide">lingua italiana</p>
+				<p class="hidden">lingua italiana</p>
 			</a>
 		</div>
-		<div class="grid_1 flagen">
+		<div class="grid_1 flag eng">
 			<a href="/en" title="english language">
-				<p class="hide">english language</p>
+				<p class="hidden">english language</p>
 			</a>
 		</div>
 		<div class="clear"></div>
@@ -45,14 +45,14 @@
 				{% else%}
 					<a href="/" title="home">
 				{% endif %}
-					<h1 class="hide">My Fair Italy</h1>
+					<h1 class="hidden">My Fair Italy</h1>
 					<p>&reg;</p>
 					</a>
 			</div>
 		</header>
 		<div class="clear"></div>
 		<div class="grid_10 prefix_1">
-			<div class="barra">
+			<div class="bar">
 				{% if page.lang == 'en' %}
 					<p>God sends good people to Paradise and very, very good people to Tuscany</p>
 				{% else%}
@@ -61,8 +61,8 @@
 			</div>
 		</div>
 		<div class="clear"></div>
-	</div><!-- end top -->
-	<div id="content" class="container_12 middle">
+	</div>
+	<div id="content" class="container_12 top20">
 		<section class="grid_6 prefix_1">
 			{{ content }}
 		</section><!-- end boxsx -->
@@ -72,10 +72,10 @@
 		</nav><!-- end nav -->
 		<div class="clear"></div>
 	</div><!-- end middle -->
-	<div class="container_12 bottom">
+	<div class="container_12 bottom20">
 		<div class="grid_10 prefix_1">
-			<div class="barra">
-				<p class="hide">my fair italy</p>
+			<div class="bar">
+				<p class="hidden">my fair italy</p>
 			</div>
 		</div>
 		<div class="clear"></div>
