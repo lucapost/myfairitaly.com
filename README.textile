@@ -12,19 +12,19 @@ Per elaborare le immagini seguire la seguente procedura:
 
   @cd ~/myfairitaly.com@
 
-* creare la cartella _gallerysource/nomegalleria:
+* creare la cartella gallerysource/nomegalleria:
   
-  @mkdir -p _gallerysource/nomegalleria@
+  @mkdir -p gallerysource/nomegalleria@
 
 * copiare le immagini originali all'interno della cartella appena creata:
 
-  @cp /path/original/images/*.jpg _gallerysource/nomegalleria@
+  @cp /path/original/images/*.jpg gallerysource/nomegalleria@
 
 * eseguire lo script ./gallery.sh avendo cura di indicare precisamente la cartella delle immagini originali da elaborare:
 
-  @./gallery.sh _gallerysource/nomegalleria@
+  @./gallery.sh gallerysource/nomegalleria@
 
-* al termine dello script le immagini elaborate vengono posizionate direttamente nella cartella destinazione @./_src/images/gallery/nomegalleria@.
+* al termine dello script le immagini elaborate vengono posizionate direttamente nella cartella destinazione @./source/images/gallery/nomegalleria@.
 
 h2. comandi utili
 

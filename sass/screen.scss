@@ -16,8 +16,8 @@ $bordercolor: 	#7a7a7a; /* border color */
 $radius: 	10px;
 
 * {
-  	margin: 0;
-  	padding: 0;
+	margin: 0;
+	padding: 0;
     	text-decoration: none;
     	color: $fg; 
 }
@@ -38,7 +38,7 @@ h2, h3, h4 {
 
 a {
   	color: $fg;
-  	&:hover, &:visited {
+&:hover, &:visited {
     	color: $fg; 
 }}
 
@@ -52,13 +52,12 @@ a {
 
 .container_12 {
   	background-color: white; 
-	&.top20 {
-  		padding-top: 20px; 
-	}
-	&.bottom20 {
-  		padding-bottom: 20px; 
-	}
+&.top20 {
+	padding-top: 20px; 
 }
+&.bottom20 {
+	padding-bottom: 20px; 
+}}
 
 .bar {
   	font-size: 16px;
@@ -75,10 +74,10 @@ a {
   	width: 58px;
   	border-radius: $radius;
   	border: 1px solid $bordercolor; 
-	&.ita {
-  		background: url(/images/it.jpg) no-repeat center; 
-	}
-	&.eng {
+&.ita {
+	background: url(/images/it.jpg) no-repeat center; 
+}
+&.eng {
 	  	background: url(/images/en.jpg) no-repeat center; 
 }}
 
@@ -101,40 +100,31 @@ header {
 }}
 
 section {
-  	p {
-    		margin-bottom: 20px; 
-		&.back {
-    			line-height: 40px;
-		}
+	p {
+		margin-bottom: 20px; 
 	}
-  	h2, h3, h4 {
-    		font-size: 40px;
-    		line-height: 40px;
-    		text-transform: uppercase;
-    		margin-bottom: 20px; 
+	h2, h3, h4 {
+		font-size: 40px;
+		line-height: 40px;
+		text-transform: uppercase;
+		margin-bottom: 20px; 
 	}
-  	h3 {
-    		font-size: 24px; 
+	h3 {
+		font-size: 24px; 
 	}
-  	h4 {
-    		font-size: 20px; 
+	h4 {
+		font-size: 20px; 
 	}
-  	img {
-    		width: 460px;
-    		height: 300px;
-    		border-radius: $radius;
-    		&.thumb {
-      			float: left;
-      			margin: 0 20px 20px 0;
-      			height: 140px;
-      			width: 140px;
-	       	}
-    		&.back {
-      			height: 40px;
-      			width: 40px;
-    			float: left;
-	       	}
-       	}
+	img {
+		width: 460px;
+		height: 300px;
+		border-radius: $radius;
+	&.thumb {
+		float: left;
+		margin: 0 20px 20px 0;
+		height: 140px;
+		width: 140px;
+       	}}
   	a {
 		color: #000000;
     		text-decoration: underline;
@@ -146,17 +136,17 @@ section {
     		-moz-transition-duration: 4000ms;
     		-o-transition: color;
     		-o-transition-duration: 4000ms;
-    		&:hover {
-      			color: $selected;
-      			transition: color;
-      			transition-duration: 400ms;
-      			-webkit-transition: color;
-      			-webkit-transition-duration: 400ms;
-      			-moz-transition: color;
-      			-moz-transition-duration: 400ms;
-      			-o-transition: color;
-      			-o-transition-duration: 400ms; 
-	} }
+    	&:hover {
+      		color: $selected;
+      		transition: color;
+      		transition-duration: 400ms;
+      		-webkit-transition: color;
+      		-webkit-transition-duration: 400ms;
+      		-moz-transition: color;
+      		-moz-transition-duration: 400ms;
+      		-o-transition: color;
+      		-o-transition-duration: 400ms; 
+	}}
   	ul {
     		margin: 20px;
     		padding: 0 0 0 20px;
@@ -165,12 +155,18 @@ section {
       			text-transform: uppercase;
       			a {
         		&:hover {
-          			color: $fg; 
+         			color: $fg; 
 }}}}}
 
-.controls {
-	text-align: center;
-}
+figure {
+	img {
+		height: 40px;
+		width: 40px;
+		float: left;
+	}
+	p {
+		line-height: 40px;
+}}
 
 #slider {
   	width: 460px;
@@ -187,8 +183,8 @@ section {
 	      		text-indent: 10000px;
 	      		width: 8px;
 	      		height: 8px;
-      			&.current {
-        			background-color: $selected;
+      		&.current {
+        		background-color: $selected;
 }}}}
 
 menu {
@@ -207,27 +203,27 @@ menu {
 		    		background-color: $bg;
 	  			border: 1px solid $bordercolor;
 				border-top: 0px;
-		    		&:hover {
-		      			text-decoration: underline;
-			       	}
-		    		&.current {
-		      			background-color: $selected;
-		       	}}
-	    		&:nth-child(1) > a {
-	      			line-height: 38px;
-				margin-bottom: 20px;
-	  			border-top: 1px solid $bordercolor;
-  				border-radius: $radius;
-	 		}
-	    		&:nth-child(2) > a {
-	      			line-height: 38px;
-	  			border-top: 1px solid $bordercolor;
-  				border-top-left-radius: $radius;
-  				border-top-right-radius: $radius;
-			}
-	    		&:nth-child(7) > a {
-  				border-bottom-left-radius: $radius;
-  				border-bottom-right-radius: $radius;
+	    		&:hover {
+	      			text-decoration: underline;
+		       	}
+	    		&.current {
+	      			background-color: $selected;
+	       	}}
+	 	&:nth-child(1) > a {
+	      		line-height: 38px;
+			margin-bottom: 20px;
+	  		border-top: 1px solid $bordercolor;
+  			border-radius: $radius;
+	 	}
+	    	&:nth-child(2) > a {
+	      		line-height: 38px;
+	  		border-top: 1px solid $bordercolor;
+  			border-top-left-radius: $radius;
+  			border-top-right-radius: $radius;
+		}
+	    	&:nth-child(7) > a {
+  			border-bottom-left-radius: $radius;
+  			border-bottom-right-radius: $radius;
 }}}}
 
 .banner {
@@ -237,8 +233,8 @@ menu {
   	text-align: center;
   	background-color: $bg;
   	height: 38px;
-  	&.facebook {
-    		background-color: #3b5999;
+&.facebook {
+	background-color: #3b5999;
 }}
 
 footer {

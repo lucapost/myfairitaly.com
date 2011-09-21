@@ -56,19 +56,19 @@ accomodations:
 
 {{ content }} 
 
-<a href="./#middle">
-	<div class="back">
+<a href="./#content">
+	<figure>
 		<img src="/images/back.png" title="back" alt="back" />
 			{% if page.lang == 'en' %}
 				<p>galleries list</p>
 			{% else %}
 				<p>elenco delle gallerie</p>
 			{% endif %}
-	</div>
+	<figure>
 </a>
 
 <h3 class="center">{{ page.title }}</h3>
-<div class="controls"> 
+<div class="controls center"> 
 	<a href="#" onclick="window.slider.start();return false;">play</a> |
 	<a href="#" onclick="window.slider.stop();return false;">stop</a> | 
 	<a href="#" onclick="window.slider.prev();return false;">prev</a> |
