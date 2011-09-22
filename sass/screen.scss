@@ -68,12 +68,13 @@ a {
   	width: 58px;
   	border-radius: $radius;
   	border: 1px solid $bordercolor; 
-&.ita {
-	background: url(/images/it.jpg) no-repeat center; 
-}
-&.eng {
+	&.ita {
+		background: url(/images/it.jpg) no-repeat center; 
+	}
+	&.eng {
 	  	background: url(/images/en.jpg) no-repeat center; 
-}}
+	}
+}
 
 header {
   	margin: 20px 0 20px 0; 
