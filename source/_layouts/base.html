@@ -8,7 +8,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<title>{{ page.title}} | My Fair Italy</title>
+	<title>{{ page.title }} | My Fair Italy</title>
 	<meta name="author" content="Luca Postregna" />
 	<meta name="description" content="{{ page.description }}" /> 
 	<meta name="keywords" content="{{ page.keywords }}" /> 
@@ -22,74 +22,86 @@
   	<script defer src="/js/libs/modernizr-2.0.6.min.js"></script>
 </head>
 <body>
-	<div class="container_12 top20">
-		<div class="grid_8 prefix_1">
-			<div class="bar">
-				{% if page.lang == 'en' %}<p>Organization of holiday's accomodations and events in Tuscany</p>
-				{% else%}<p>Agenzia di viaggio ed organizzazione eventi in Toscana</p>{% endif %}
+	<header class="container_12 clearfix">
+		<div class="push_1 grid_10">
+			<div class="alpha grid_8 bar">{% if page.lang == 'en' %}
+				<p>Organization of holiday's accomodations and events in Tuscany</p>{% else%}
+				<p>Agenzia di viaggio ed organizzazione eventi in Toscana</p>{% endif %}
 			</div>
-		</div>
-		<div class="grid_1">
-			<div class="flag ita">
-			<a href="/" title="lingua italiana" class="flag">
-				<p class="hidden">lingua italiana</p>
+			<a href="/en" title="english language">
+				<img class="grid_1 flag" title="english language" alt="english flag" src="/images/en.jpg" />
 			</a>
-			</div>
-		</div>
-		<div class="grid_1">
-			<div class="flag eng">
-			<a href="/en" title="english language" class="flag">
-				<p class="hidden">english language</p>
+			<a href="/" title="lingua italiana">
+				<img class="omega grid_1 flag" title="lingua italiana" alt="bandiera italiana" src="/images/it.jpg" />
 			</a>
-			</div>
-		</div>
-		<div class="clear"></div>
-		<header class="grid_10 prefix_1">
-			<div class="title">
+			<div class="grid_10 alpha omega title">
 				{% if page.lang == 'en' %}
 					<a href="/en" title="home">
 				{% else%}
 					<a href="/" title="home">
 				{% endif %}
-					<h1 class="hidden">My Fair Italy</h1>
-					<p>&reg;</p>
+						<h1 class="visuallyhidden">My Fair Italy</h1>
+						<p>&reg;</p>
 					</a>
 			</div>
-		</header>
-		<div class="clear"></div>
-		<div class="grid_10 prefix_1">
-			<div class="bar">
-				{% if page.lang == 'en' %}
-					<p>God sends good people to Paradise and very, very good people to Tuscany</p>
-				{% else%}
-					<p>Dio manda gli uomini buoni in Paradiso e quelli molto, molto buoni in Toscana</p>
-				{% endif %}
+			<div class="grid_10 alpha omega bar">{% if page.lang == 'en' %}
+				<p>God sends good people to Paradise and very, very good people to Tuscany</p>{% else%}
+				<p>Dio manda gli uomini buoni in Paradiso e quelli molto, molto buoni in Toscana</p>{% endif %}
 			</div>
 		</div>
-		<div class="clear"></div>
-	</div>
-	<div id="content" class="container_12 top20">
-		<section class="grid_6 prefix_1">
-			{{ content }}
-		</section><!-- end boxsx -->
-		<nav class="grid_4 suffix_1">
-			{% include menu.html %}
-			{% include banner.html %}
-		</nav><!-- end nav -->
-		<div class="clear"></div>
-	</div><!-- end middle -->
-	<div class="container_12 bottom20">
-		<div class="grid_10 prefix_1">
-			<div class="bar">
-				<p class="hidden">my fair italy</p>
+	</header>
+	<div class="clear"></div>
+	<article id="content" class="container_12 clearfix">
+		<div class="push_1 grid_10">
+			<section class="alpha grid_6">
+				{{ content }}
+			</section>
+			<nav class="omega grid_4">
+				<menu>
+					<ul>{% if page.lang == 'en' %}
+						<li><a href="/en/contacts.html#content" class="{{ page.contacts }}">contacts</a></li> 
+						<li><a href="/en/index.html#content" class="{{ page.home }}">home</a></li> 
+						<li><a href="/en/events.html#content" class="{{ page.events }}">events</a></li> 
+						<li><a href="/en/travels.html#content" class="{{ page.travels }}">travels</a></li> 
+						<li><a href="/en/proposals/#content" class="{{ page.proposal }}">proposal</a></li> 
+						<li><a href="/en/galleries/#content" class="{{ page.galleries }}">galleries</a></li> 
+						<li><a href="/en/whoweare.html#content" class="{{ page.whoweare }}">who we are</a></li>{% else%}
+						<li><a href="/contatti.html#content" class="{{ page.contatti }}">contatti</a></li> 
+						<li><a href="/index.html#content" class="{{ page.home }}">home</a></li> 
+						<li><a href="/eventi.html#content" class="{{ page.eventi }}">eventi</a></li> 
+						<li><a href="/viaggi.html#content" class="{{ page.viaggi }}">viaggi</a></li> 
+						<li><a href="/proposte/#content" class="{{ page.proposte }}">proposte</a></li> 
+						<li><a href="/gallerie/#content" class="{{ page.gallerie }}">gallerie</a></li> 
+						<li><a href="/chisiamo.html#content" class="{{ page.chisiamo }}">chi siamo</a></li>{% endif %}
+					</ul> 
+				</menu>
+				<a href="http://www.booking.com/index.html?aid=339074" title="booking">
+					<img src="/images/booking.png" alt="booking" title="booking" />
+				</a>
+				<a href="http://twitter.com/myfairitaly" title="twitter">
+					<img src="/images/twitter.png" title="twitter" />
+				</a>
+				<a href="https://www.facebook.com/pages/My-Fair-Italy/102008026501737" title="facebook">
+					<img src="/images/facebook.jpg" alt="facebook" title="facebook" class="facebook" />
+				</a>
+			</nav>
+		</div>
+	</article>
+	<div class="clear"></div>
+	<footer class="container_12">
+		<div class="push_1 grid_10">
+			<div class="alpha omega grid_10 bar">
+				<p class="visuallyhidde">&star;</p>
+			</div>
+			<div class="grid_10">
+				<p>My Fair Italy di Feel Italy snc di Giuditta Presenti, Allegra La Rosa, Paola Barsanti &amp; C. </p>
+				<p>Registered Office: v. 25 Aprile 1/A 56024 Ponte a Egola (Pi) :: C.F. 01956590507 :: REA: PI - 0168615</p>
+			        <p>Logo design: Arch. Pietro Dani - DNA STUDIO :: <a href="privacy.html">privacy</a> :: <a href="info.html">info</a></p>
+				<p>&copy; 2011 <a href="http://luca.postregna.name">Luca Postregna</a> :: <a href="http://validator.w3.org/check?uri=referer">xhtml</a> :: <a href="http://jigsaw.w3.org/css-validator/check/referer">css</a></p>
 			</div>
 		</div>
-		<div class="clear"></div>
-		<footer class="grid_10 prefix_1">
-			{% include footer.html %}
-		</footer>
-		<div class="clear"></div>
-	</div><!--end bottom -->
+	</footer>
+	<div class="clear"></div>
   	<script defer src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js"></script>
   	<script>window.jQuery || document.write('<script src="/js/libs/jquery-1.6.3.min.js"><\/script>')</script>
   	<script defer src="/js/plugins.js"></script>
