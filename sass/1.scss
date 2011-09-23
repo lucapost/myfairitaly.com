@@ -1,0 +1,311 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+@import url(/css/style.css);
+
+/* HTML5 Boilerplate style CSS */
+@import url(/css/960_12_col.css);
+
+/* 960.gs CSS Framework */
+@import url(http://fonts.googleapis.com/css?family=Playfair+Display&v1);
+
+@import url(http://fonts.googleapis.com/css?family=Droid+Serif);
+
+/* grey */
+/* black */
+/* yellow */
+/* border color */
+/* line 18, ../../sass/screen.scss */
+
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  color: black; }
+
+/* line 25, ../../sass/screen.scss */
+
+html, body {
+  font-size: 16px;
+  line-height: 20px;
+  font-family: 'Droid Serif', arial, serif;
+  width: 100%;
+  height: 100%;
+  background-color: #dcdcdc; }
+
+/* line 34, ../../sass/screen.scss */
+
+h2, h3, h4 {
+  color: black;
+  font-family: 'Playfair Display', arial, serif; }
+
+/* line 39, ../../sass/screen.scss */
+
+a {
+  color: black;
+  &:hover, &:visited {
+    color: black; } }
+
+/* line 41, ../../sass/screen.scss */
+
+/* line 45, ../../sass/screen.scss */
+
+.hidden {
+  visibility: hidden; }
+
+/* line 49, ../../sass/screen.scss */
+
+.center {
+  text-align: center; }
+
+/* line 53, ../../sass/screen.scss */
+
+.container_12 {
+  background-color: white;
+  &.top20 {
+    padding-top: 20px; }
+  &.bottom20 {
+    padding-bottom: 20px; } }
+
+/* line 55, ../../sass/screen.scss */
+
+/* line 58, ../../sass/screen.scss */
+
+/* line 62, ../../sass/screen.scss */
+
+.bar {
+  font-size: 16px;
+  line-height: 18px;
+  height: 18px;
+  background-color: #ffd71d;
+  border-radius: 10px;
+  border: 1px solid #7a7a7a;
+  text-align: center; }
+
+/* line 72, ../../sass/screen.scss */
+
+.flag {
+  height: 18px;
+  width: 58px;
+  border-radius: 10px;
+  border: 1px solid #7a7a7a;
+  &.ita {
+    background: url(/images/it.jpg) no-repeat center; }
+  &.eng {
+    background: url(/images/en.jpg) no-repeat center; } }
+
+/* line 77, ../../sass/screen.scss */
+
+/* line 80, ../../sass/screen.scss */
+
+/* line 84, ../../sass/screen.scss */
+
+header {
+  margin: 20px 0 20px 0; }
+
+/* line 88, ../../sass/screen.scss */
+
+.title {
+  height: 278px;
+  width: 778px;
+  border-radius: 10px;
+  border: 1px solid #7a7a7a;
+  background: url("/images/header.png") center no-repeat;
+  background-color: #dcdcdc;
+  text-align: right;
+  p {
+    padding-top: 200px;
+    padding-right: 80px;
+    color: #7a7a7a; } }
+
+/* line 96, ../../sass/screen.scss */
+
+/* line 103, ../../sass/screen.scss */
+
+section {
+  p {
+    margin-bottom: 20px; }
+  h2, h3, h4 {
+    font-size: 40px;
+    line-height: 40px;
+    text-transform: uppercase;
+    margin-bottom: 20px; }
+  h3 {
+    font-size: 24px; }
+  h4 {
+    font-size: 20px; }
+  img {
+    width: 460px;
+    height: 300px;
+    border-radius: 10px;
+    &.thumb {
+      float: left;
+      margin: 0 20px 20px 0;
+      height: 140px;
+      width: 140px; } }
+  a {
+    color: #000000;
+    text-decoration: underline;
+    transition: #400020;
+    transition-duration: 4000ms;
+    -webkit-transition: color;
+    -webkit-transition-duration: 4000ms;
+    -moz-transition: color;
+    -moz-transition-duration: 4000ms;
+    -o-transition: color;
+    -o-transition-duration: 4000ms;
+    &:hover {
+      color: #ffd71d;
+      transition: color;
+      transition-duration: 400ms;
+      -webkit-transition: color;
+      -webkit-transition-duration: 400ms;
+      -moz-transition: color;
+      -moz-transition-duration: 400ms;
+      -o-transition: color;
+      -o-transition-duration: 400ms; } }
+  ul {
+    margin: 20px;
+    padding: 0 0 0 20px;
+    li.active {
+      font-weight: bold;
+      text-transform: uppercase;
+      a:hover {
+        color: black; } } } }
+
+/* line 106, ../../sass/screen.scss */
+
+/* line 112, ../../sass/screen.scss */
+
+/* line 115, ../../sass/screen.scss */
+
+/* line 118, ../../sass/screen.scss */
+
+/* line 122, ../../sass/screen.scss */
+
+/* line 128, ../../sass/screen.scss */
+
+/* line 139, ../../sass/screen.scss */
+
+/* line 150, ../../sass/screen.scss */
+
+/* line 153, ../../sass/screen.scss */
+
+/* line 157, ../../sass/screen.scss */
+
+/* line 162, ../../sass/screen.scss */
+
+figure {
+  img {
+    height: 40px;
+    width: 40px;
+    float: left; }
+  p {
+    line-height: 40px; } }
+
+/* line 167, ../../sass/screen.scss */
+
+/* line 171, ../../sass/screen.scss */
+
+#slider {
+  width: 460px;
+  margin-bottom: 20px;
+  .pagination {
+    list-style: none outside none;
+    padding-right: 15px;
+    overflow: hidden;
+    li {
+      cursor: pointer;
+      display: inline-block;
+      background-color: #7a7a7a;
+      border-radius: 10px;
+      text-indent: 10000px;
+      width: 8px;
+      height: 8px;
+      &.current {
+        background-color: #ffd71d; } } } }
+
+/* line 174, ../../sass/screen.scss */
+
+/* line 178, ../../sass/screen.scss */
+
+/* line 186, ../../sass/screen.scss */
+
+/* line 190, ../../sass/screen.scss */
+
+menu {
+  width: 300px;
+  color: #000;
+  text-align: center;
+  text-transform: capitalize;
+  margin-bottom: 20px;
+  ul {
+    display: block;
+    li {
+      list-style-type: none;
+      a {
+        display: block;
+        line-height: 39px;
+        background-color: #dcdcdc;
+        border: 1px solid #7a7a7a;
+        border-top: 0px;
+        &:hover {
+          text-decoration: underline; }
+        &.current {
+          background-color: #ffd71d; } }
+      &:nth-child(1) > a {
+        line-height: 38px;
+        margin-bottom: 20px;
+        border-top: 1px solid #7a7a7a;
+        border-radius: 10px; }
+      &:nth-child(2) > a {
+        line-height: 38px;
+        border-top: 1px solid #7a7a7a;
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px; }
+      &:nth-child(7) > a {
+        border-bottom-left-radius: 10px;
+        border-bottom-right-radius: 10px; } } } }
+
+/* line 196, ../../sass/screen.scss */
+
+/* line 198, ../../sass/screen.scss */
+
+/* line 200, ../../sass/screen.scss */
+
+/* line 206, ../../sass/screen.scss */
+
+/* line 209, ../../sass/screen.scss */
+
+/* line 212, ../../sass/screen.scss */
+
+/* line 218, ../../sass/screen.scss */
+
+/* line 224, ../../sass/screen.scss */
+
+/* line 229, ../../sass/screen.scss */
+
+.banner {
+  border-radius: 10px;
+  border: 1px solid #7a7a7a;
+  margin-bottom: 20px;
+  text-align: center;
+  background-color: #dcdcdc;
+  height: 38px;
+  &.facebook {
+    background-color: #3b5999; } }
+
+/* line 236, ../../sass/screen.scss */
+
+/* line 240, ../../sass/screen.scss */
+
+footer {
+  text-align: center;
+  font-size: 12px;
+  line-height: 20px;
+  margin-top: 20px;
+  a {
+    text-decoration: underline; } }
+
+/* line 245, ../../sass/screen.scss */

@@ -22,6 +22,12 @@ $radius: 	10px;
 	@include rounded;
 }
 
+@mixin shadow {
+	-moz-box-shadow: 0 0 5px #888;
+	-webkit-box-shadow: 0 0 5px#888;
+	box-shadow: 0 0 5px #888;
+}
+
 * {
 	margin: 0;
 	padding: 0;
@@ -31,9 +37,15 @@ $radius: 	10px;
 
 a {
   	color: $fg;
-		&:hover, &:visited {
-	    	color: $fg; 
-	}
+		&:visited {
+		    	color: $fg; 
+		}
+		&:hover {
+		    	color: $fg; 
+			-moz-box-shadow: 0 0 10px #888;
+			-webkit-box-shadow: 0 0 10px#888;
+			box-shadow: 0 0 10px #888;
+		}
 }
 
 html, body {
@@ -51,6 +63,7 @@ header.container_12 {
 		&.bar {
 			width: 778px;
 			@include barragialla;
+			@include shadow;
 		}
 		&.title {
 			width: 778px;
@@ -59,6 +72,7 @@ header.container_12 {
 	  		background-color: $bg;
   			height: 278px;
 			@include rounded;
+			@include shadow;
 		  	p {
 				text-align: right;
 		   		padding-top: 240px;
@@ -70,11 +84,13 @@ header.container_12 {
 	.grid_8.bar {
 		width: 618px;
 		@include barragialla;
+		@include shadow;
 	}
 	.grid_1.flag {
 		width: 58px;
 	  	height: 18px;
 		@include rounded;
+		@include shadow;
 	}
 }
 
@@ -93,6 +109,7 @@ section {
 		font-size: 40px;
 		line-height: 40px;
 		margin-bottom: 20px; 
+		text-shadow: #999 4px 4px 6px;
 	}
 	h3 {
 		font-size: 24px; 
@@ -103,6 +120,7 @@ section {
 	img {
 		height: 300px;
 		border-radius: $radius;
+		@include shadow;
 		&.thumb {
 			float: left;
 			margin: 0 20px 20px 0;
@@ -187,6 +205,7 @@ nav {
 		width: 298px;
   		height: 38px;
 		@include rounded;
+		@include shadow;
 		margin-top: 0;
 		margin-bottom: 20px;
 		&.facebook {
@@ -197,7 +216,6 @@ nav {
 
 menu {
   	width: 300px;
-  	color: #000;
   	text-align: center;
   	text-transform: capitalize;
   	margin-bottom: 20px;
@@ -211,6 +229,7 @@ menu {
 		    		background-color: $bg;
 	  			border: 1px solid $bordercolor;
 				border-top: 0px;
+				@include shadow;
 		    		&:hover {
 		      			text-decoration: underline;
 			       	}
@@ -221,8 +240,7 @@ menu {
 		 	&:nth-child(1) > a {
 		      		line-height: 38px;
 				margin-bottom: 20px;
-		  		border-top: 1px solid $bordercolor;
-	  			border-radius: $radius;
+				@include rounded;
 		 	}
 		    	&:nth-child(2) > a {
 		      		line-height: 38px;
@@ -247,6 +265,7 @@ footer {
 	.grid_10.bar {
 		width: 778px;
 		@include barragialla;
+		@include shadow;
 		margin-top: 0;
 		margin-bottom: 20px;
 	}
