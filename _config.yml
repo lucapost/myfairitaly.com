@@ -5,5 +5,5 @@ markdown:       rdiscount
 rdiscount
   extensions:   [smart]
 
-source:         ./source
-destination:    ./www
+source:         .
+exclude: ["config.rb", "sass", ".sass-cache"]
