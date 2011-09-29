@@ -57,41 +57,36 @@ html, body {
   	background-color: $bg;
 }
 
-header.container_12 {
+header {
   	background-color: white; 
-	.grid_10 {
-		&.bar {
-			width: 778px;
-			@include barragialla;
-			@include shadow;
-		}
-		&.title {
-			width: 778px;
-			margin-top: 20px;
-			background: url('/images/header.png') center no-repeat;
-	  		background-color: $bg;
-  			height: 278px;
-			@include rounded;
-			@include shadow;
-		  	p {
-				text-align: right;
-		   		padding-top: 240px;
-		    		padding-right: 80px;
-		    		color: $bordercolor; 
-			}
-		}
+}
+
+.bar {
+	@include barragialla;
+	@include shadow;
+}
+
+.title {
+	margin-top: 20px;
+	background: url('/images/header.png') center no-repeat;
+	background-color: $bg;
+  	height: 278px;
+	@include rounded;
+	@include shadow;
+  	p {
+		text-align: right;
+   		padding-top: 240px;
+    		padding-right: 80px;
+    		color: $bordercolor; 
 	}
-	.grid_8.bar {
-		width: 618px;
-		@include barragialla;
-		@include shadow;
-	}
-	.grid_1.flag {
-		width: 58px;
-	  	height: 18px;
-		@include rounded;
-		@include shadow;
-	}
+}
+
+img.flag {
+	width: 58px;
+  	height: 18px;
+	display: block;
+	@include rounded;
+	@include shadow;
 }
 
 article {
@@ -199,26 +194,24 @@ section {
 	}
 }
 
-nav {
-	img {
+img.banner {
+	background-color: $bg;
+	width: 298px;
+	height: 38px;
+	@include rounded;
+	@include shadow;
+	margin-top: 0;
+	margin-bottom: 20px;
+	&.facebook {
 		background-color: $bg;
-		width: 298px;
-  		height: 38px;
-		@include rounded;
-		@include shadow;
-		margin-top: 0;
-		margin-bottom: 20px;
-		&.facebook {
-			background-color: $bg;
-		}
 	}
 }
 
 menu {
-  	width: 300px;
   	text-align: center;
   	text-transform: capitalize;
   	margin-bottom: 20px;
+  	padding: 0;
   	ul {
 	    	display: block;
 	  	li {
@@ -262,8 +255,7 @@ footer {
 	text-align: center;
  	font-size: 12px;
   	line-height: 20px;
-	.grid_10.bar {
-		width: 778px;
+	.bar {
 		@include barragialla;
 		@include shadow;
 		margin-top: 0;
