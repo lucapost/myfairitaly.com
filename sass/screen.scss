@@ -93,6 +93,7 @@ article {
 	padding-top: 20px;
   	background-color: white; 
 }
+
 section {
 	p {
 		margin-bottom: 20px; 
@@ -172,6 +173,11 @@ section {
 	.center {
 		text-align: center;
 	}
+	.maps {
+		width: 458px;
+		height: 320px;
+		margin-bottom: 20px;
+	}
 	#slider {
 	  	margin-bottom: 20px;
 	  	.pagination {
@@ -207,7 +213,7 @@ img.banner {
 	}
 }
 
-menu {
+nav {
   	text-align: center;
   	text-transform: capitalize;
   	margin-bottom: 20px;
@@ -232,8 +238,9 @@ menu {
 			}
 		 	&:nth-child(1) > a {
 		      		line-height: 38px;
-				margin-bottom: 20px;
 				@include rounded;
+				margin-top:0;
+				margin-bottom: 20px;
 		 	}
 		    	&:nth-child(2) > a {
 		      		line-height: 38px;
