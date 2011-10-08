@@ -1,6 +1,6 @@
 $(function(){
 	if(!flux.browser.supportsTransitions)
-		alert("Flux Slider requires a browser that supports CSS3 transitions, please update to Firefox5+ or Chrome12+");
+		alert("Flux Slider requires a browser that supports CSS3 transitions, please update to Firefox5+, Chrome12+ or Explorer9+");
 	window.slider1 = new flux.slider('#slider1', {
         	pagination: false,
                 autoplay: false
