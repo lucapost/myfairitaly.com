@@ -7,9 +7,7 @@ description: My Fair Italy propone soggiorni di una giornata oppure più giorni
 keywords: San Miniato, Toscana, Italia, Vacanza, Relax
 ---
 
-h3. {{ page.title }}
-
-"!(back)/images/back.png(back)! ritorna all'elenco delle proposte":./#middle 
+h3. Nel Chianti in bici
 
 !(thumb)/images/proposal/bicichianti.jpg(Bici verso Monteriggioni)!
 
