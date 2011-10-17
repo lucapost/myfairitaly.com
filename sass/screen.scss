@@ -39,6 +39,15 @@ $radius: 	10px;
     	color: $fg; 
 }
 
+html, body {
+  	font-size: 16px;
+	line-height: 20px;
+  	font-family: 'Droid Serif', arial, serif;
+  	width: 100%;
+  	height: 100%;
+  	background-color: $bg;
+}
+
 a {
   	color: $fg;
 		&:visited {
@@ -50,15 +59,6 @@ a {
 			-webkit-box-shadow: 0 0 10px#888;
 			box-shadow: 0 0 10px #888;
 		}
-}
-
-html, body {
-  	font-size: 16px;
-	line-height: 20px;
-  	font-family: 'Droid Serif', arial, serif;
-  	width: 100%;
-  	height: 100%;
-  	background-color: $bg;
 }
 
 header {
