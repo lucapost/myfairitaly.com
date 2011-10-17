@@ -119,14 +119,17 @@ section {
 	}
 	img {
 		height: 300px;
-		border-radius: $radius;
-		@include shadow;
 		&.thumb {
 			float: left;
 			margin: 0 20px 20px 0;
 			height: 140px;
 			width: 140px;
+			border-radius: $radius;
+			@include shadow;
 	       	}
+		&.noborder {
+			border: 0;
+		}
 	}
   	a {
 		color: #000000;
