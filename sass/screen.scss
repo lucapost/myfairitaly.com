@@ -205,6 +205,13 @@ section {
 			}
 		}
 	}
+	#sliderhome {
+	  	margin-bottom: 20px;
+		border-radius: $radius;
+		img {
+			border-radius: $radius;
+		}
+	}
 }
 
 img.banner {

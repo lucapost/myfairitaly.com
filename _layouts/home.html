@@ -1,53 +1,47 @@
 ---
-layout: base
-home:
-   - name: 'home01.jpg'
+layout: default
+slider:
+   - name: '1.jpg'
      title: 
        it: 'matrimonio a San Miniato'
        en: 'wedding in San Miniato'
      alt:
        it: 'palazzo del seminario a San Miniato'
        en: 'palazzo del seminario in San Miniato'
-   - name: 'home02.jpg'
+   - name: '2.jpg'
      title: 
        it: 'villa con piscina'
-       en: 'villa's swimmingpool'
+       en: 'swimmingpool'
      alt:
        it: 'piscina con vista sui colli toscani'
        en: 'swimmingpool and tuscans landascape'
-   - name: 'home03.jpg'
+   - name: '3.jpg'
      title: 
        it: 'mongolfiera sul Chianti'
        en: 'hotairbaloon over Chianti hills'
      alt:
        it: 'volare in mongolfiera sulle colline toscane'
        en: 'flying with hotairbaloon over tuscany'
-   - name: 'home04.jpg'
+   - name: '4.jpg'
      title: 
        it: 'allestimento locale'
        en: 'renderings'
      alt:
        it: 'rendering con installazioni in gesso'
-       en: 'rendering with plaster's installations'
-   - name: 'home05.jpg'
+       en: 'rendering with installations plaster'
+   - name: '5.jpg'
      title: 
        it: 'ricevimento a San Miniato'
        en: 'party in San Miniato'
      alt:
        it: 'allestimento buffet e degustazioni a San Miniato'
        en: 'party and tasting in San Miniato'
-
 ---
 
-<h3 class="center">{{ page.title }}</h3>
-<div class="controls center"> 
-	<a href="#" onclick="window.slider.start();return false;">play</a> |
-	<a href="#" onclick="window.slider.stop();return false;">stop</a> | 
-	<a href="#" onclick="window.slider.prev();return false;">prev</a> |
-	<a href="#" onclick="window.slider.prev();return false;">next</a> 
-</div> 
-<div id="slider"> 
-{% case page.path %}{% when 'accomodations' %}{% capture fullpath %}/images/gallery/{{ page.path }}{% endcapture %}{% for target in page.accomodations %}	{% if page.lang == 'en' %}<img src="{{ fullpath }}/{{ target.name }}" alt="{{ target.alt.en }}" title="{{ target.title.en }}" />
-{% else %}<img src="{{ fullpath }}/{{ target.name }}" alt="{{ target.alt.it }}" title="{{ target.title.it }}" />{% endif %}
-{% endfor %}{% else %}<p>no path in template</p>
-{% endcase %}</div>
+<h2>{{ page.title }}</h2>
+<div id="sliderhome">{% for target in page.slider %}{% if page.lang == 'en' %}
+	<img src="/images/home/{{ target.name }}" alt="{{ target.alt.en }}" title="{{ target.title.en }}" />{% else %}
+	<img src="/images/home/{{ target.name }}" alt="{{ target.alt.it }}" title="{{ target.title.it }}" />{% endif %}{% endfor %}
+</div>
+
+{{ content }}

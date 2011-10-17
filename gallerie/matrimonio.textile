@@ -1,6 +1,0 @@
----
-layout: gallery
-title: Matrimonio
-path: weddings
-lang: it
----

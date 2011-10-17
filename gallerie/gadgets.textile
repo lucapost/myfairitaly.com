@@ -1,6 +1,0 @@
----
-layout: gallery
-title: Gadgets
-path: gadgets
-lang: it
----

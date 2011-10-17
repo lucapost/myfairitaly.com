@@ -5,4 +5,8 @@ $(function(){
         	pagination: true,
                 autoplay: true
 	});
+	window.slider = new flux.slider('#sliderhome', {
+        	pagination: false,
+                autoplay: true
+	});
 });
