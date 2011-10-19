@@ -1,0 +1,6 @@
+---
+layout: gallerylocationscorporate
+gallerie: current
+lang: it
+title: Locations aziendali
+---

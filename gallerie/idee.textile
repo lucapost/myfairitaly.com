@@ -1,0 +1,6 @@
+---
+layout: galleryideas
+gallerie: current
+lang: it
+title: Idee
+---

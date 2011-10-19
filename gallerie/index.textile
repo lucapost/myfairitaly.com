@@ -15,7 +15,7 @@ h3. Turismo
 
 h3. Cerimonie
 
-* "Matrimoni(Galleria Matrimoni)":matrimonio.html#content
+* "Matrimoni(Galleria Matrimoni)":matrimoni.html#content
 * "Idee per le cerimonie(Galleria Idee per allestimenti)":idee.html#content
 * "Locations cerimonie(Galleria locations per cerimonie)":locationscerimonie.html#content
 

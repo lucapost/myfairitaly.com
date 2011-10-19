@@ -18,7 +18,7 @@ layout: default
 	<a href="#" onclick="window.slider.prev();return false;">prev</a> |
 	<a href="#" onclick="window.slider.prev();return false;">next</a> 
 </div> 
-<div id="slider">{% for target in page.slider %}{% capture fullpath %}/images/gallery/{{ page.path }}/{{ target.name }}{% endcapture %}
+<div id="slider">{% for target in page.slider %}{% capture fullpath %}{{ page.path }}/{{ target.name }}{% endcapture %}
 	<img src="{{ fullpath }}"{% if page.lang == 'en' %}
        		alt="{{ target.alt.en }}" title="{{ target.title.en }}"{% else %}
 		alt="{{ target.alt.it }}" title="{{ target.title.it }}" />{% endif %}{% endfor %}

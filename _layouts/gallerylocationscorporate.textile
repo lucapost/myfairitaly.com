@@ -1,0 +1,104 @@
+---
+layout: gallery
+path: '/images/gallery/locationscorporate'
+slider:
+   - name: '01.jpg'
+     title: 
+       it: 'San Martino'
+       en: 'San Martino'
+     alt:
+       it: 'sala meetings Hotel San Miniato'
+       en: 'meeting room hotel san miniato'
+   - name: '02.jpg'
+     title: 
+       it: 'Villa Sonnino'
+       en: 'Villa Sonnino'
+     alt:
+       it: 'panoramica struttura per meetings a San Miniato'
+       en: 'wide shot of a meeting room in San Miniato'
+   - name: '03.jpg'
+     title: 
+       it: 'meeting a Firenze'
+       en: 'meeting in Florence'
+     alt:
+       it: 'sala meetings maxischermo'
+       en: 'meeting room with maxi screen'
+   - name: '04.jpg'
+     title: 
+       it: 'sala conferenze'
+       en: 'meeting room'
+     alt:
+       it: 'sala conferenze a Firenze'
+       en: 'meeting room in Florence'
+   - name: '05.jpg'
+     title: 
+       it: 'sala meetings aziendali'
+       en: 'corporate meeting'
+     alt:
+       it: 'sala meetings circolare'
+       en: 'circular meeting room'
+   - name: '06.jpg'
+     title: 
+       it: 'meeting in agriturismo'
+       en: 'farmhouse meeting room'
+     alt:
+       it: 'sala meeting agriturismo in Toscana'
+       en: 'meeting room in a farmhouse in Tuscany'
+   - name: '07.jpg'
+     title: 
+       it: 'meeting in hotel'
+       en: 'hotel meeting room'
+     alt:
+       it: 'sala conferenze interno hotel in toscana'
+       en: 'Meeting room in a hotel in Tuscany'
+   - name: '08.jpg'
+     title: 
+       it: 'sala riunioni'
+       en: 'assembly room'
+     alt:
+       it: 'allestimento sala workshop'
+       en: 'set up of a workshop room'
+   - name: '09.jpg'
+     title: 
+       it: 'sala conferenze'
+       en: 'meeting room'
+     alt:
+       it: 'meeting aziendale sala moderna'
+       en: 'Modern meeting room'
+   - name: '10.jpg'
+     title: 
+       it: 'sala riunioni'
+       en: 'assembly room'
+     alt:
+       it: 'allestimento sala riunioni'
+       en: 'set up of a meeting room'
+   - name: '11.jpg'
+     title: 
+       it: 'Villa Sonnino'
+       en: 'Villa Sonnino'
+     alt:
+       it: 'sala meeting Villa Sonnino a San Miniato'
+       en: 'meeting room in Villa Sonnino in San Miniato area'
+   - name: '12.jpg'
+     title: 
+       it: 'vista su Roma'
+       en: 'roman landscape'
+     alt:
+       it: 'panorama dalla terrazza panoramica'
+       en: 'landscape from an observation platform'
+   - name: '13.jpg'
+     title: 
+       it: 'hotel San Miniato'
+       en: 'hotel San Miniato'
+     alt:
+       it: 'reception struttura per meetings a San Miniato'
+       en: 'reception of a business hotel in San Miniato'
+   - name: '14.jpg'
+     title: 
+       it: 'Hotel Miravalle'
+       en: 'Hotel Miravalle'
+     alt:
+       it: 'location per meetings a San Miniato'
+       en: 'meetings area in San Miniato'
+
+---
