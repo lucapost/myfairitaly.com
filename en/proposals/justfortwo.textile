@@ -1,0 +1,17 @@
+---
+layout: nextprev
+lang: en
+maintitle: Proposals
+title: Just for two
+proposals: current
+prev: gimignano
+next: ferrari
+description: FIX
+keywords: FIX
+---
+
+h3. Just for two
+
+!(thumb)/images/proposal/soloperdue.jpg(FIX)!
+
+Do you desire to celebrate a special occasion or would you like a special declaration of love for your fiancé? Have you never thought about the special effect an exclusive location can generate in your partner? And if time is very short, you can savour a dinner in a romantic restaurant which will be opened just for your partner and you… Contact us and we will make your dream come true!

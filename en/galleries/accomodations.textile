@@ -1,0 +1,11 @@
+---
+layout: galleryaccomodations
+gallerie: current
+lang: en
+title: Accomodations
+keywords:
+descriptions: 
+maintitle: Galleries
+prev: locationscorporate
+next: weddings
+---

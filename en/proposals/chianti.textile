@@ -1,0 +1,26 @@
+---
+layout: nextprev
+lang: en
+proposals: current
+prev: wellnessweekend
+next: volterra
+maintitle: Proposals
+title: Chianti area with bike
+description: FIX
+keywords: FIX
+---
+
+h3. CHIANTI AREA WITH BIKE 
+
+!(thumb)/images/proposal/bicichianti.jpg(FIX)!
+
+3 day tour in the Chianti area for sport-enthusiasts, in particular wheelers/cyclists. Period: from spring to autumn. Included: meals, accommodation, bicycle rent.
+
+*Day 1:* Meeting point at the hotel in Greve in Chianti. The hotel is situated in the main square of the town in an old tower, that dates back to the year 1000; but nevertheless it offer all the modern comforts. Dinner in the hotel, with typical products-based menu.
+
+*Day 2:* The tour brings you through the beautiful countryside from where the popular Chianti Classico and well-known Tuscan olive oil are produced. The care for farming and ancient traditions witness the high quality of local products which are not considered merely food or drink but even a masterpiece of “gourmet handicraft”. The stages will be: Castellina – Radda and then again Greve in Chianti. The tour is quite demanding, more for the length then for its difficulty. This means that in the evening the participants really need a good and gorgeous dinner which can not miss Chianti Wine and typical local products!
+
+*Day 3:* The tour passes through Gaiole to reach Castello di Brolio, where (on request) you can visit the castle, the cellars and have lunch. The castle is surrounded by 240 hectares of vineyards, forming part of the land of the farm, making it the largest in the Chianti Classico area: 1,200 hectares in the communes of Gaiole and Castelnuovo Berardenga. This area is covered with wide valleys, rolling hills, woods of oak, chestnut trees, 26 hectares of olive groves and owes its beauty also to the huge variety of soils and climate in this central Chianti area. In the nearby avant-garde cellars, today they undertake the same pursuit of excellence that drove Bettino Ricasoli to invent the Chianti formula in 1872. After this visit and a restoring break you will go back to Greve in Chianti where (on request) you can visit the castello di Verrazzano.
+
+The level of difficulty is *intermediate*.
+

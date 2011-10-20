@@ -1,0 +1,11 @@
+---
+layout: gallerygadgets
+gallerie: current
+lang: en
+title: Gadgets
+keywords:
+descriptions: 
+maintitle: Galleries
+prev: locationscerimonies
+next: renderings
+---

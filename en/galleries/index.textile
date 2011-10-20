@@ -1,0 +1,26 @@
+---
+layout: default
+lang: en
+title: Galleries
+gallerie: current
+description: FIX
+keywords: FIX
+---
+
+h2. GALLERIES
+
+h3. TOURISM 
+
+* "accomodations(accomodations)":accomodations.html#content
+
+h3. CEREMONIES 
+
+* "weddings(weddings)":weddings.html#content
+* "ideas(ideas)":ideas.html#content
+* "locations(locations)":locationscerimonies.html#content
+
+h3. BUSINESS
+
+* "gadgets(gadgets)":gadgets.html#content
+* "renderings(renderings)":renderings.html#content
+* "locations(locations)":locationscorporate.html#content

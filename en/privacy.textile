@@ -1,3 +1,11 @@
+---
+layout: default
+lang: en
+title: privacy
+description: My Fair Italy and your privacy
+keywords: San Miniato, Tuscany, Italiy, privacy
+---
+
 h2. Privacy Policy
 
 We highly value your trust in choosing MyFairItaly. Therefore, we will duly and diligently safeguard and protect the privacy and confidentiality of your personal details (including your credit card details). This privacy policy applies to all of our services.

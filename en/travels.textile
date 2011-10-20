@@ -1,0 +1,29 @@
+---
+layout: default
+lang: en
+title: Travels
+travels: current
+description: FIX
+keywords: FIX
+---
+
+h2. my fair travels
+
+h3. incoming
+
+!(thumb)/images/travels/rotoballe.jpg(FIX)!
+
+*My Fair Italy®*  is a travel agency specialized in incoming services and in planning special events in Tuscany, such as wedding parties for couples and holidays for groups, families or single travelers. We will offer you a customized option to meet your needs and budget.
+
+h3. outgoing
+
+!(thumb)/images/travels/spiaggie.jpg(FIX)!
+
+*My Fair Italy®* cooperates with the best Tour Operators: Alpitour, Eden Viaggi, Francorosso, Bravo, Margò, Karambola, Viaggidea, Volandoviaggi. We will find the best option according to your interests and pockets!
+
+* *Tailor-made holidays:* for singles, families, groups of friends. There is a Tuscany for every taste!
+* *Learning Stay:* for your language learning holiday you can choose to stay in a college or in a foreingn language speaking family.
+* *Religious tours:* for a very intimate experience, or a tour visiting places you will hardly see again ...
+
+Click on "proposals(proposals)":/en/proposals.html to get an idea of some of our deals but keep in mind that *My Fair Italy(r)* can tailor make your own experience in Tuscany to your specific requirements and budget.
+

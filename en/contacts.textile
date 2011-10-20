@@ -1,18 +1,29 @@
+---
+layout: default
+lang: en
+title: Contacts
+contacts: current
+description: FIX
+keywords: FIX
+---
+
 h2. contacts
 
 "info@myfairitaly.com(email info)":mailto:info@myfairitaly.com
 "reservations@myfairitaly.com(email reservations)":mailto:reservations@myfairitaly.com
 "weddings@myfairitaly.com(email weddings)":mailto:weddings@myfairitaly.com
 
-tel: (+39)0571 49571
-fax: (+39)0571 451059
+Tel: +39 0571 49571
+Fax: +39 0571 451059
 
 Via 25 Aprile 1/a, Ponte a Egola, Pisa (IT).
 
-<iframe width="460" height="320" src="http://maps.google.it/maps/ms?ie=UTF8&amp;t=h&amp;panoid=9qWezTk4F9VBxqioCDBmlA&amp;oe=UTF8&amp;showlabs=1&amp;msa=0&amp;msid=205079284204601881585.0004806f78b279540975c&amp;ll=43.685556,10.79529&amp;spn=0.002483,0.004925&amp;z=17&amp;output=embed"></iframe>
-
-h3. where we are
+h3. Where we are
 
 *From the motorway (SGC Fi-Pi-Li):* exit at Santa Croce S / A, follow signs for Ponte a Egola. You get to a roundabout. Turn right and continue until the second roundabout, take the third exit. After a few hundred meters turn right (towards Ponte a Egola) and the traffic lights. At the traffic lights go straight (towards La Serra) and then take the first left (by via 25 Aprile). The offices are on the right at 1A.
 
 *From La Serra:* once at Ponte a Egola, before the only traffic light in town is a road on the right is by via 25 Aprile.
+
+h3. map
+
+notextile. <div class="maps"><iframe width="100%" height="100%" src="http://maps.google.it/maps/ms?ie=UTF8&amp;t=h&amp;panoid=9qWezTk4F9VBxqioCDBmlA&amp;oe=UTF8&amp;showlabs=1&amp;msa=0&amp;msid=205079284204601881585.0004806f78b279540975c&amp;ll=43.685556,10.79529&amp;spn=0.002483,0.004925&amp;z=17&amp;output=embed"></iframe></div>

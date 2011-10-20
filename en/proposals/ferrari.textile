@@ -1,0 +1,17 @@
+---
+layout: nextprev
+lang: en
+proposals: current
+prev: justfortwo
+next: flying
+maintitle: Proposals
+title: Driving a Ferrari
+description: FIX
+keywords: FIX
+---
+
+h3. DRIVING A FERRARI
+
+!(thumb)/images/proposal/ferrari.jpg(Ferrari)!
+
+If you dream to be a Ferrari pilot for a day, do not hesitate to contact us! We propose you to enjoy a tour at Maranello Circuit, to visit the Ferrari Museum and drive one of their fantastic cars with a real pilot by your side! We will also book dinners and select your accommodation among the best hotels in the surrounding…so that you will just have to enjoy your magic trip!

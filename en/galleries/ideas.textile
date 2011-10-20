@@ -1,0 +1,11 @@
+---
+layout: galleryideas
+gallerie: current
+lang: en
+title: Ideas
+keywords:
+descriptions: 
+maintitle: Galleries
+prev: weddings
+next: locationscerimonies
+---

@@ -1,0 +1,11 @@
+---
+layout: galleryrenderings
+gallerie: current
+lang: en
+title: Renderings
+keywords:
+descriptions: 
+maintitle: Galleries
+prev: gadgets
+next: locationscorporate
+---

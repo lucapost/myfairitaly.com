@@ -1,0 +1,18 @@
+---
+layout: home
+lang: en
+title: Welcome
+welcome: current
+description: FIX
+keywords: FIX
+---
+
+*My Fair Italy®* is a travel agency specialized in planning holidays, activities and tasting tours for groups and single travellers in Tuscany and in Italy in general.
+
+*My Fair Italy®* is also your events planner in Tuscany and Italy; our meeting and wedding planners work for privates, companies and associations to coordinate every detail of wedding ceremonies and conventions, customizing location logistics/set-up and services according to their needs and budget.
+
+*My Fair Italy®* develops around 3 focal points:
+
+* "environmentally sustainable tourism(Sustainable tourism on wikipedia)":http://en.wikipedia.org/wiki/Sustainable_tourism
+* "eco-party(organic farming on wikipedia)":http://en.wikipedia.org/wiki/Organic_farming
+* "products at zero miles, possibly  organic(organic food on wikipedia)":http://en.wikipedia.org/wiki/Organic_food

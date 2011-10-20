@@ -1,0 +1,25 @@
+---
+layout: nextprev
+lang: en
+proposals: current
+prev: cooking
+next: chianti
+maintitle: Proposals
+title: Romantic wellness weekend
+description: FIX
+keywords: FIX
+---
+
+h3. ROMANTIC WELLNESS WEEKEND
+
+!(thumb)/images/proposal/coppiabenessere.jpg(FIX)!
+
+Romantic wellness weekend for couples in spa resort located in San Miniato. Period: through the all year.
+
+*Day 1:* Arrival in the Hotel in San Miniato in the evening, and accommodation in a wonderful Junior Suite with whirlpool bath to spend an unforgettable night with your sweet heart. Welcome cocktail and private dinner in the suite at candle lights.
+
+*Day 2:* Breakfast in the suite. Morning in the hotel spa. 
+1 pm: Lunch at an organic restaurant with a tasting local products menu. In the afternoon English speaking guided visit to the old town of San Miniato to sightsee the historical and cultural places of interest. Aperitif in the romantic hotel veranda. 
+8.30 pm: Dinner in an exclusive typical restaurant to savour the old Tuscan flavours. Ingredients will be elaborated in a modern and original key by the chef.
+
+*Day 3:* Breakfast in the suite. Relaxing day in a well-known thermal resort nearby. Thermal treatments included.

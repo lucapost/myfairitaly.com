@@ -63,14 +63,14 @@
 				<nav> 
 					<ul>{% if page.lang == 'en' %}
 						<li><a href="/en/contacts.html#content" class="{{ page.contacts }}">contacts</a></li> 
-						<li><a href="/en/index.html#content" class="{{ page.home }}">welcome</a></li> 
+						<li><a href="/en/index.html#content" class="{{ page.welcome }}">welcome</a></li> 
 						<li><a href="/en/travels.html#content" class="{{ page.travels }}">travels</a></li> 
 						<li><a href="/en/events.html#content" class="{{ page.events }}">events</a></li> 
-						<li><a href="/en/proposals/#content" class="{{ page.proposal }}">proposal</a></li> 
-						<li><a href="/en/galleries/#content" class="{{ page.galleries }}">galleries</a></li> 
+						<li><a href="/en/proposals/#content" class="{{ page.proposals }}">proposals</a></li> 
+						<li><a href="/en/galleries/#content" class="{{ page.gallerie }}">galleries</a></li> 
 						<li><a href="/en/whoweare.html#content" class="{{ page.whoweare }}">who we are</a></li>{% else%}
 						<li><a href="/contatti.html#content" class="{{ page.contatti }}">contatti</a></li> 
-						<li><a href="/index.html#content" class="{{ page.home }}">benvenuti</a></li> 
+						<li><a href="/index.html#content" class="{{ page.benvenuti }}">benvenuti</a></li> 
 						<li><a href="/viaggi.html#content" class="{{ page.viaggi }}">viaggi</a></li> 
 						<li><a href="/eventi.html#content" class="{{ page.eventi }}">eventi</a></li> 
 						<li><a href="/proposte/#content" class="{{ page.proposte }}">proposte</a></li> 
@@ -115,7 +115,7 @@
   	<script>window.jQuery || document.write('<script src="/js/libs/jquery-1.6.3.min.js"><\/script>')</script>
   	<script defer src="/js/plugins.js"></script>
   	<script defer src="/js/script.js"></script>
-	<script defer src="/js/mylibs/hashgrid.js"></script>{% if page.gallerie == 'current' or page.home == 'current' %}
+	<script defer src="/js/mylibs/hashgrid.js"></script>{% if page.gallerie == 'current' or page.benvenuti == 'current' or page.welcome == 'current' %}
 	<script defer src="/js/mylibs/flux.min.js"></script>  
 	<script defer src="/js/mylibs/slider.js"></script>{% endif %}
   	<script>

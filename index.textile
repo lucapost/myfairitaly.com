@@ -2,7 +2,7 @@
 layout: home
 lang: it
 title: Benvenuti
-home: current
+benvenuti: current
 description: My Fair Italy, presentazione attività
 keywords: San Miniato, Toscana, Italia, Turismo, Viaggi, Gruppi, Soggiorno, Privati, Aziende, Eventi, Cerimonie
 ---

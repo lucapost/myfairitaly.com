@@ -1,0 +1,25 @@
+---
+layout: nextprev
+lang: en
+proposte: current
+prev: wineolive
+next: wellnessweekend
+maintitle: Proposals
+title: Cooking lessons
+description: FIX
+keywords: FIX
+---
+
+h3. COOKING LESSONS
+
+!(thumb)/images/proposal/cucina.jpg(Sottoli in barattolo)!
+
+Cooking lessons for beginners and skilled participants. For both individuals and groups.Length: half day - one week. Period: all through the year.
+
+All over the world food enthusiasts appreciate Tuscan cuisine. Tuscan dishes are delicious and they are cooked using natural herbs, extra virgin olive oil, vegetables, fish, meat and obviously pasta. If you stay in Tuscany and relish these dishes, you will surely try to learn the essence of Tuscan cuisine and if you have only a few spare hours to spend, our cooking school will teach you what you exactly want to learn in a single session cooking course.
+
+The cooking courses are of two kinds: introductory class and immersion class. In both of the classes the cook will be a well-known chef who studied on Pellegrino Artusi’s book.
+
+*My Fair Italy®* can arrange a private driver to pick you up directly at your accommodation in Tuscany and bring you to the school where you can choose to spend a half day experience or a full day one. At the end of the course you will eat the dishes you made and it will be a deep satisfaction! You can even choose to attend a cooking course longer than just one day. You can have a one week course with sessions in the mornings and in the afternoons. 
+
+You do not need any pot or saucepan. You will find everything you need directly in your school kitchen. On request, *My Fair Italy®* can also organize a tour to the market in order to show and give you the ideas that lies behind the word “food” for Italians.

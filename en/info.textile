@@ -1,3 +1,11 @@
+---
+layout: default
+lang: en
+title: info
+description: My Fair Italy - informations
+keywords: San Miniato, Toscana, Italia, informations
+---
+
 h2. Useful Infos
 
 My Fair Italy di Feel Italy s.n.c.

@@ -1,0 +1,11 @@
+---
+layout: gallerylocationscorporate
+gallerie: current
+lang: en
+title: Locations corporate
+keywords:
+descriptions: 
+maintitle: Galleries
+prev: renderings
+next: accomodations
+---

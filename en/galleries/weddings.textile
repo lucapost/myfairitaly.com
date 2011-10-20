@@ -1,0 +1,11 @@
+---
+layout: galleryweddings
+gallerie: current
+lang: en
+title: Weddings
+keywords:
+descriptions: 
+maintitle: Galleries
+prev: accomodations
+next: ideas
+---
