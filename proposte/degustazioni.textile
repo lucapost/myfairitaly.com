@@ -1,13 +1,16 @@
 ---
-layout: proposte
+layout: nextprev
 lang: it
 proposte: current
+prev: tartufo
+next: corsidicucina
+maintitle: Proposte
 title: degustazioni di vino ed olio
 description: My Fair Italy propone soggiorni di una giornata oppure più giorni
 keywords: San Miniato, Toscana, Italia, Vacanza, Relax
 ---
 
-h3. {{ page.title }}
+h3. Degustazioni di vino ed olio
 
 !(thumb)/images/proposal/degustazioni.jpg(Cantina toscana)!
 

@@ -1,7 +1,10 @@
 ---
-layout: proposte
+layout: nextprev
 lang: it
 proposte: current
+prev: corsidicucina
+next: chianti
+maintitle: Proposte
 title: Weekend di benessere
 description: My Fair Italy propone soggiorni di una giornata oppure più giorni
 keywords: San Miniato, Toscana, Italia, Vacanza, Relax
