@@ -3,4 +3,7 @@ layout: gallerylocationscorporate
 gallerie: current
 lang: it
 title: Locations aziendali
+maintitle: Gallerie
+prev: renderings
+next: strutture
 ---

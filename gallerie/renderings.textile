@@ -3,4 +3,7 @@ layout: galleryrenderings
 gallerie: current
 lang: it
 title: Renderings
+maintitle: Gallerie
+prev: gadgets
+next: locationsaziende
 ---

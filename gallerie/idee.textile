@@ -3,4 +3,7 @@ layout: galleryideas
 gallerie: current
 lang: it
 title: Idee
+maintitle: Gallerie
+prev: matrimoni
+next: locationscerimonie
 ---

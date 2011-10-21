@@ -3,4 +3,7 @@ layout: galleryweddings
 gallerie: current
 lang: it
 title: Matrimoni
+maintitle: Gallerie
+prev: strutture
+next: idee
 ---

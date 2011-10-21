@@ -3,4 +3,7 @@ layout: galleryaccomodations
 gallerie: current
 lang: it
 title: Strutture ricettive
+maintitle: Gallerie
+prev: locationsaziende
+next: matrimoni
 ---
