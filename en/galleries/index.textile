@@ -11,16 +11,16 @@ h2. GALLERIES
 
 h3. TOURISM 
 
-* "accomodations(accomodations)":accomodations.html#content
+* "Accomodations(accomodations)":accomodations.html#content
 
 h3. CEREMONIES 
 
-* "weddings(weddings)":weddings.html#content
-* "ideas(ideas)":ideas.html#content
-* "locations(locations)":locationscerimonies.html#content
+* "Weddings(weddings)":weddings.html#content
+* "Ideas(ideas)":ideas.html#content
+* "Locations(locations)":locationscerimonies.html#content
 
 h3. BUSINESS
 
-* "gadgets(gadgets)":gadgets.html#content
-* "renderings(renderings)":renderings.html#content
-* "locations(locations)":locationscorporate.html#content
+* "Gadgets(gadgets)":gadgets.html#content
+* "Renderings(renderings)":renderings.html#content
+* "Locations(locations)":locationscorporate.html#content
