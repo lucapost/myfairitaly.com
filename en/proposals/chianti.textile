@@ -6,13 +6,13 @@ prev: wellnessweekend
 next: volterra
 maintitle: Proposals
 title: Chianti area with bike
-description: FIX
-keywords: FIX
+description: bike tour in chianti area
+keywords: bike, chianti, tuscany
 ---
 
 h3. CHIANTI AREA WITH BIKE 
 
-!(thumb)/images/proposal/bicichianti.jpg(FIX)!
+!(thumb)/images/proposal/bicichianti.jpg(chianti hills)!
 
 3 day tour in the Chianti area for sport-enthusiasts, in particular wheelers/cyclists. Period: from spring to autumn. Included: meals, accommodation, bicycle rent.
 
