@@ -8,34 +8,30 @@ Le immagini originali di input devono avere dimensione 420x300 oppure 300x420 in
 
 Per elaborare le immagini seguire la seguente procedura:
 
-* posizionarsi con la shell nella cartella sorgente del sito:
+* posizionarsi con la shell nella cartella dove sono raccolte le immagini delle gallerie:
 
-  @cd ~/myfairitaly.com@
+  @cd ~/myfairitaly.com/images/gallery@
 
-* creare la cartella gallerysource/nomegalleria:
-  
-  @mkdir -p gallerysource/nomegalleria@
+* creare la cartella contenente le immagini originali della galleria, il nome di questa cartella *deve* iniziare con in carattere underscore, "nomegalleria" è il percorso /images/galleries/nomegalleria/*.jpg dove sono raggiungibili le immagini sul sito.
+ 
+  @mkdir _nomegalleria@
 
-* copiare le immagini originali all'interno della cartella appena creata:
+* eseguire il comando di generazione delle immagini:
 
-  @cp /path/original/images/*.jpg gallerysource/nomegalleria@
+  @./_gallery.sh _nomegalleria@
 
-* eseguire lo script ./gallery.sh avendo cura di indicare precisamente la cartella delle immagini originali da elaborare:
-
-  @./gallery.sh gallerysource/nomegalleria@
-
-* al termine dello script le immagini elaborate vengono posizionate direttamente nella cartella destinazione @./source/images/gallery/nomegalleria@.
+al termine viene creata la directory /images/galleries/nomegalleria/.
 
 h2. comandi utili
 
 rimuovere branch remote
 
-	git push origin :branchremota
+  @git push origin :branchremota@
 
 rimuovere branch locale
 
-	git br -D branchlocale
+  @git br -D branchlocale@
 
 creare branch remote
 
-	git push --all
+  @git push --all@
