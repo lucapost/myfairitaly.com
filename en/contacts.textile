@@ -3,8 +3,8 @@ layout: default
 lang: en
 title: Contacts
 contacts: current
-description: FIX
-keywords: FIX
+description: how to contact My Fair Italy Travel Agency
+keywords: contacts, phone, e-mail, address, maps
 ---
 
 h2. contacts

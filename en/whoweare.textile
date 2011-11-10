@@ -3,8 +3,8 @@ layout: default
 lang: en
 title: Who we are
 whoweare: current
-description: FIX
-keywords: FIX
+description: CEOs at My Fair Italy
+keywords: CEOs, My Fair Italy
 ---
 
 h2. Who we are

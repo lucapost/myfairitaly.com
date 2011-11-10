@@ -3,8 +3,8 @@ layout: home
 lang: en
 title: Welcome
 welcome: current
-description: FIX
-keywords: FIX
+description: Wedding and business events planner, tours for groups in San Miniato
+keywords: wedding planners, travels, event organizations, groups
 ---
 
 *My Fair Italy®* is a travel agency specialized in planning holidays, activities and tasting tours for groups and single travellers in Tuscany and in Italy in general.

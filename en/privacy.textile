@@ -3,7 +3,7 @@ layout: default
 lang: en
 title: privacy
 description: My Fair Italy and your privacy
-keywords: San Miniato, Tuscany, Italiy, privacy
+keywords: San Miniato, Tuscany, Italy, privacy
 ---
 
 h2. Privacy Policy
