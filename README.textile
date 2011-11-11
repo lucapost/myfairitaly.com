@@ -16,22 +16,43 @@ Per elaborare le immagini seguire la seguente procedura:
  
   @mkdir _nomegalleria@
 
+* copiare le immaini delle dimensioni corrette nella cartella _nomegalleria
+
+  @cp ~/path/of/images/*.jpg _nomegalleria@
+
 * eseguire il comando di generazione delle immagini:
 
   @./_gallery.sh _nomegalleria@
 
 al termine viene creata la directory /images/galleries/nomegalleria/.
 
-h2. comandi utili
+h2. Comandi utili
 
-rimuovere branch remote
+rimuovere branch remote:
 
   @git push origin :branchremota@
 
-rimuovere branch locale
+rimuovere branch locale:
 
   @git br -D branchlocale@
 
-creare branch remote
+creare branch remote:
 
   @git push --all@
+
+creare branch locale e spostarsi dentro:
+ 
+  @git co -b branchlocale@
+
+lista delle branch:
+
+  @git br -a@
+
+salvataggio delle modifiche nella branch corrente:
+
+  @git commit -am "testo sulla modifica"@
+
+aggiornamento di una branch locale a partire da un branch già aggiornata:
+
+  @git co branch_da_aggiornare@
+  @git merge branch_aggiornata@
