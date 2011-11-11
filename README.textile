@@ -4,6 +4,10 @@ h1. Readme
 
 h2. Gallery
 
+Per elaborare le immagini è necessario installare il pacchetto imagemagick: 
+
+  @sudo apt-get install imagemagick@
+
 Le immagini originali di input devono avere dimensione 420x300 oppure 300x420 in formato *.jpg.
 
 Per elaborare le immagini seguire la seguente procedura:
