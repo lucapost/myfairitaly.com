@@ -6,15 +6,15 @@ prev: chianti
 next: gimignano
 maintitle: proposals
 title: S. Miniato/Volterra with bike
-description: FIX
-keywords: FIX
+description: bike tour between san miniato and volterra
+keywords: bike, san miniato, volterra, tuscany, wheelers
 ---
 
 h3. SAN MINIATO/VOLTERRA WITH BIKE
 
 !(thumb)/images/proposal/bicivolterra.jpg(Palazzo dei Priori a Volterra)!
 
-3 day tour between San Miniato and Volterra for sport-enthusiasts, in particular wheelers/cyclists. Period: from spring to autumn. Included: meals, accommodation, bicycle rent.
+3 day tour between San Miniato and Volterra for sport-enthusiasts, in particular wheelers. Period: from spring to autumn. Included: meals, accommodation, bicycle rent.
 
 *Day 1:* Meeting point at the hotel in San Miniato historical centre. The hotel was previously a Monastery built during the XII Century. It combines the ancient structure history and the medieval atmosphere with the new and efficient standards of comforts. Dinner in the hotel with typical products.
 

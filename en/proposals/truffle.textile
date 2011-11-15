@@ -6,8 +6,8 @@ prev: flying
 next: wineolive
 title: White truffle hunting
 maintitle: Proposals
-description: FIX
-keywords: FIX
+description: truffle hunting an d tasting tour in san miniato
+keywords: truffle, tasting, san miniato, hunting
 ---
 
 h3. WHITE TRUFFLE HUNTING

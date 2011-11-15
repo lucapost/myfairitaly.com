@@ -6,13 +6,13 @@ prev: truffle
 next: cooking
 maintitle: Proposals
 title: Wine and olive oil tasting tours
-description: FIX
-keywords: FIX
+description: wine and olive oil tasting tour in san miniato
+keywords: wine, olive oil, tasting, san miniato, tuscany
 ---
 
 h3. WINE AND OLIVE OIL TASTING TOURS
 
-!(thumb)/images/proposal/degustazioni.jpg(Cantina toscana)!
+!(thumb)/images/proposal/degustazioni.jpg(tuscan winecellar)!
 
 These activities are suitable for groups and single travelers, and whenever through the year.
 
