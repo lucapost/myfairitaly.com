@@ -19,7 +19,7 @@ h3. CEREMONIES
 
 * "Weddings(weddings)":weddings.html#content
 * "Ideas(ideas)":ideas.html#content
-* "Locations(locations)":locationscerimonies.html#content
+* "Locations(locations)":locationsceremonies.html#content
 
 h3. BUSINESS
 
