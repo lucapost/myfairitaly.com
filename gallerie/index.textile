@@ -9,6 +9,9 @@ keywords: San Miniato, Toscana, Italia, Foto, Immagini, Galleria
 
 h2. gallerie
 
+Vuoi vedere altre immagini? Scegli la galleria che ti interessa!
+
+
 h3. Turismo
 
 * "Strutture ricettive(galleria strutture)":strutture.html#content

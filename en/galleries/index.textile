@@ -3,11 +3,13 @@ layout: default
 lang: en
 title: Galleries
 gallerie: current
-description: FIX
-keywords: FIX
+description: our works and structures galleries 
+keywords: photos, galleries, structures, organization, set ups. tuscany
 ---
 
 h2. GALLERIES
+
+Do you want to see more images? Choose the gallery you are interested in!
 
 h3. TOURISM 
 
