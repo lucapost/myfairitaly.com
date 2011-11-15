@@ -5,14 +5,14 @@ proposals: current
 prev: volterra
 next: justfortwo
 maintitle: proposals
-title: San Miniato / San Gimignano with bike
-description:3 day tour between san miniato and san gimignano with bike
+title: San Miniato/San Gimignano with bike
+description: 3 day tour between san miniato and san gimignano with bike
 keywords: bike, wheelers, cyclists, tuscany
 ---
 
 h3. SAN MINIATO/ SAN GIMIGNANO WITH BIKE
 
-!(thumb)/images/proposal/bicigimignano.jpg(bike)!
+!(thumb)/images/proposal/bicigimignano.jpg(bike in San Gimignano)!
 
 3 day tour between San Miniato and San Gimignano for sport-enthusiasts, in particular cyclists. Period: from spring to autumn. Included: meals, accommodation, bicycle rent.
 

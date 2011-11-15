@@ -1,7 +1,7 @@
 ---
 layout: nextprev
 lang: en
-proposte: current
+proposals: current
 prev: chianti
 next: gimignano
 maintitle: proposals
