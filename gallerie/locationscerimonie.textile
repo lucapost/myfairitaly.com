@@ -1,5 +1,5 @@
 ---
-layout: gallerylocationscerimonies
+layout: gallerylocationsceremonies
 gallerie: current
 lang: it
 title: Locations cerimonie

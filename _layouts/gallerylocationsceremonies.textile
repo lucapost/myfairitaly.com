@@ -1,6 +1,6 @@
 ---
 layout: gallery
-path: '/images/gallery/locationscerimonies'
+path: '/images/gallery/locationsceremonies'
 slider:
    - name: '01.jpg'
      title: 

@@ -1,8 +1,8 @@
 ---
-layout: gallerylocationscerimonies
+layout: gallerylocationsceremonies
 gallerie: current
 lang: en
-title: Locations cerimonies
+title: Locations ceremonies
 keywords: locations, ceremonies, weddings, tuscany, villas 
 descriptions: a gallery of our ceremonies locations
 maintitle: Galleries

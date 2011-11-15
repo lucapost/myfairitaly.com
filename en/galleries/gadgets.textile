@@ -6,6 +6,6 @@ title: Gadgets
 keywords: gadgets, busines, personalized
 descriptions: a gallery of our corporate gadgets
 maintitle: Galleries
-prev: locationscerimonies
+prev: locationsceremonies
 next: renderings
 ---

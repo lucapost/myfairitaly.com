@@ -7,5 +7,5 @@ keywords: set ups, locations, ceremonies, mounting, organization, wedding
 descriptions: a gallery of our works
 maintitle: Galleries
 prev: weddings
-next: locationscerimonies
+next: locationsceremonies
 ---
