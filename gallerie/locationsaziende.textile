@@ -6,4 +6,6 @@ title: Locations aziendali
 maintitle: Gallerie
 prev: renderings
 next: strutture
+description: Galleria delle nostre locations per eventi aziendali
+keywords: busines, meetings, incentive, locations
 ---
