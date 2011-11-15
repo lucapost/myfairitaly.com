@@ -3,8 +3,8 @@ layout: galleryweddings
 gallerie: current
 lang: en
 title: Weddings
-keywords:
-descriptions: 
+keywords: weddings, locations, tuscany, ceremonies, bouquets, photos
+descriptions: a gallery of our weddings
 maintitle: Galleries
 prev: accomodations
 next: ideas

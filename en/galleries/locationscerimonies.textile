@@ -3,8 +3,8 @@ layout: gallerylocationscerimonies
 gallerie: current
 lang: en
 title: Locations cerimonies
-keywords:
-descriptions: 
+keywords: locations, ceremonies, weddings, tuscany, villas 
+descriptions: a gallery of our ceremonies locations
 maintitle: Galleries
 prev: ideas
 next: gadgets

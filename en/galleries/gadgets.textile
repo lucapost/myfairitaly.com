@@ -3,8 +3,8 @@ layout: gallerygadgets
 gallerie: current
 lang: en
 title: Gadgets
-keywords:
-descriptions: 
+keywords: gadgets, busines, personalized
+descriptions: a gallery of our corporate gadgets
 maintitle: Galleries
 prev: locationscerimonies
 next: renderings
