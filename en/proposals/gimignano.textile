@@ -6,15 +6,15 @@ prev: volterra
 next: justfortwo
 maintitle: proposals
 title: San Miniato / San Gimignano with bike
-description: FIX
-keywords: FIX
+description:3 day tour between san miniato and san gimignano with bike
+keywords: bike, wheelers, cyclists, tuscany
 ---
 
 h3. SAN MINIATO/ SAN GIMIGNANO WITH BIKE
 
-!(thumb)/images/proposal/bicigimignano.jpg(FIX)!
+!(thumb)/images/proposal/bicigimignano.jpg(bike)!
 
-3 day tour between San Miniato and San Gimignano for sport-enthusiasts, in particular cyclists/wheelers. Period: from spring to autumn. Included: meals, accommodation, bicycle rent.
+3 day tour between San Miniato and San Gimignano for sport-enthusiasts, in particular cyclists. Period: from spring to autumn. Included: meals, accommodation, bicycle rent.
 
 *Day 1:* Meeting point at the hotel in San Miniato. The hotel was previously a monastery built during the XII Century. It combines the ancient structure history and the medieval atmosphere with the new and efficient standards of comforts. Dinner in the hotel with typical products.
 

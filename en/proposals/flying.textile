@@ -6,13 +6,13 @@ maintitle: Proposals
 prev: ferrari
 next: truffle
 title: Flying on Tuscany
-description: FIX
-keywords: FIX
+description: flying with airballoon over the tuscan hills
+keywords: airballoon, tuscany, hills, fly
 ---
 
 h3. FLYING ON TUSCANY
 
-!(thumb)/images/proposal/mongolfiere.jpg(FIX)!
+!(thumb)/images/proposal/mongolfiere.jpg(airballoon in tuscany)!
 
 Do you wish to experience the exclusive emotion of a flight over the Tuscan hills? Would you like to admire the Tuscan historical cities and Chianti vineyards from a very unusual point of view? 
 

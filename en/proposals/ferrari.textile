@@ -6,8 +6,8 @@ prev: justfortwo
 next: flying
 maintitle: Proposals
 title: Driving a Ferrari
-description: FIX
-keywords: FIX
+description: driving a ferrari for a day
+keywords: ferrari, tuscany, incentive
 ---
 
 h3. DRIVING A FERRARI
