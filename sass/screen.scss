@@ -139,13 +139,13 @@ section {
 		color: #000000;
     		text-decoration: underline;
     		transition: #400020;
-    		transition-duration: 4000ms;
+    		transition-duration: 2000ms;
     		-webkit-transition: color;
-		-webkit-transition-duration: 4000ms;
+		-webkit-transition-duration: 2000ms;
    		-moz-transition: color;
-    		-moz-transition-duration: 4000ms;
+    		-moz-transition-duration: 2000ms;
     		-o-transition: color;
-    		-o-transition-duration: 4000ms;
+    		-o-transition-duration: 2000ms;
 	    	&:hover {
       			color: $selected;
 	      		transition: color;
