@@ -7,7 +7,6 @@ $(function(){
 	});
 	window.slider = new flux.slider('#sliderhome', {
         	pagination: false,
-		transitions: [ 'zip' ],
                 autoplay: true
 	});
 });
