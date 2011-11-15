@@ -1,0 +1,25 @@
+---
+layout: nextprev
+lang: it
+proposte: current
+prev: benessere
+next: volterra
+maintitle: Proposte
+title: Nel Chianti in bici
+description: My Fair Italy propone soggiorni di una giornata oppure più giorni
+keywords: San Miniato, Toscana, Italia, Vacanza, Relax
+---
+
+h3. Nel Chianti in bici
+
+!(thumb)/images/proposal/bicichianti.jpg(Bici verso Monteriggioni)!
+
+Tour di tre giorni nel Chianti per amanti del cicloturismo compresi pasti, pernottamenti e noleggio bici. Periodo: da primavera ad autunno.
+
+*Giorno 1*: arrivo in hotel a "Greve in Chianti(Greve in Chianti su wikipedia)":http://it.wikipedia.org/wiki/Greve_in_Chianti. La struttura è situata in una torre risalente all'anno mille che si trova nella piazza storica di Greve in Chianti, la torre, ristrutturata secondo la tradizione toscana è però dotata di tutti i comforts. La sera cena a base di prodotti tipici in hotel.
+
+*Giorno 2*: Il tour si snoda nelle meravigliose campagne dalle quali nascono il Chianti Classico e l'olio d'oliva, denominazioni rinomate in tutta la penisola italiana. La cura per le colture e la tradizione ormai antica tracciano il profilo qualitativo dei prodotti che non vengono considerati solo frutto del lavoro dei campi ma veri e propri capolavori dell'"artigianato" eno-gastronomico. Le tappe saranno: "Castellina(Castellina in Chianti su wikipedia)":http://it.wikipedia.org/wiki/Castellina_in_Chianti - "Radda(Radda in Chianti su wikipedia)":http://it.wikipedia.org/wiki/Radda_in_Chianti e di nuovo "Greve(Greve in Chianti su wikipedia)":http://it.wikipedia.org/wiki/Greve_in_Chianti. Il tour è abbastanza impegnativo, più per la lunghezza che per la difficoltà; la sera è quindi d'obbligo una sostanziosa cena a base di Chianti e prodotti tipici.
+
+*Giorno 3*: il tour previsto passa per "Gaiole(Gaiole in Chianti su wikipedia)":http://it.wikipedia.org/wiki/Gaiole_in_Chianti, per poi arrivare al "Castello di Brolio(Castello di Brolio su wikipedia)":http://it.wikipedia.org/wiki/Castello_di_Brolio, dove, su prenotazione, è possibile fare una visita del castello, delle cantine e una sosta all'enoteca per pranzare. Circondano il castello i 240 ettari di vigneti che fanno parte dei terreni dell'azienda, la più grande del Chianti Classico: 1.200 ettari tra i comuni di "Gaiole(Gaiole in Chianti su wikipedia)":http://it.wikipedia.org/wiki/Gaiole_in_Chianti e di "Castelnuovo Berardenga(Castelnuovo Berardenga su wikipedia)":http://it.wikipedia.org/wiki/Castelnuovo_Berardenga - valli, colline, boschi di querce e castagni, con 26 ettari coltivati a olivi, che godono della bellezza e della grande varietà della terra e del clima di questa area centrale del Chianti. Nei pressi del castello, nelle cantine all’avanguardia, si persegue oggi la stessa missione di eccellenza che nel 1872 portò "Bettino Ricasoli(Bettino Ricasoli su wikipedia)":http://it.wikipedia.org/wiki/Bettino_Ricasoli ad inventare la formula del Chianti. Il tour prosegue poi fino a tornare a "Greve(Greve in Chianti su wikipedia)":http://it.wikipedia.org/wiki/Greve_in_Chianti dove, se il tempo e le energie lo consentono, potrete effettuare, sempre su prenotazione, la visita del "castello di Verrazzano(Castello di Verrazzano su wikipedia)":http://it.wikipedia.org/wiki/Castello_di_Verrazzano
+
+*Il livello di difficoltà del tour proposto è INTERMEDIO.*

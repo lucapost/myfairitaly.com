@@ -1,0 +1,11 @@
+---
+layout: galleryweddings
+gallerie: current
+lang: it
+title: Matrimoni
+maintitle: Gallerie
+prev: strutture
+next: idee
+description: Galleria dei nostri matrimoni e cerimonie
+keywords: matrimonio, cerimonia, locations, abiti su misura
+---

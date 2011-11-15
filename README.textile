@@ -1,43 +1,66 @@
 h1. Readme
 
+<<<<<<< HEAD
 Please visit "www.myfairitaly.com":http://www.myfairitaly.com.
+=======
+"www.myfairitaly.com":http://www.myfairitaly.com.
+>>>>>>> master
 
-h2. gestione galleria
+h2. Gallery
 
-Le immagini delle gallerie si trovato nella cartella /images/gallery/.
+Per elaborare le immagini è necessario installare il pacchetto imagemagick: 
 
-Le immagini originali devono avere dimensione 420x300 oppure 300x420 in formato *.jpg.
+  @sudo apt-get install imagemagick@
 
-Ciascuna galleria deve avere le sue immagini originali posizionate nella cartella /images/gallery/origin/XX_nomegalleria.
+Le immagini originali di input devono avere dimensione 420x300 oppure 300x420 in formato *.jpg.
 
-All'interno della cartella /images/gallery/origin/XX_nomegalleria/, oltre alle immagini jpg, deve essere presente il file data.txt.
+Per elaborare le immagini seguire la seguente procedura:
 
-Il file data.txt contiene le informazione sulle immagini: descrizione e titolo nelle due lingua italiano ed inglese.
+* posizionarsi con la shell nella cartella dove sono raccolte le immagini delle gallerie:
 
-Ogni riga di questi files corrisponde ad una immagine, questa è la struttura di ogni riga
+  @cd ~/myfairitaly.com/images/gallery@
 
-	01.jpg:desc ita:titolo ita:desc eng:titolo eng
+* creare la cartella contenente le immagini originali della galleria, il nome di questa cartella *deve* iniziare con in carattere underscore, "nomegalleria" è il percorso /images/galleries/nomegalleria/*.jpg dove sono raggiungibili le immagini sul sito.
+ 
+  @mkdir _nomegalleria@
 
-Il file /images/gallery/generate.sh è lo script che genera le immagini per le gallerie ed il codice html da inserire dentro [...]/gallerie.textile.
+* copiare le immaini delle dimensioni corrette nella cartella _nomegalleria
 
-Per eseguilrlo si deve entrare con la shell nella certella /images/gallery/, identificare la galleria che si vuole generare (ad esempio origin/XX_nomegalleria/ ) ed eseguire lo script,
+  @cp ~/path/of/images/*.jpg _nomegalleria@
 
-	./generate.sh origin/XX_nomegalleria
+* eseguire il comando di generazione delle immagini:
 
-Una volta eseguito lo script, sul terminale comparirà il testo html da inserire nel file *.textile.
+  @./_gallery.sh _nomegalleria@
 
-Capit?!
+al termine viene creata la directory /images/galleries/nomegalleria/.
 
-h2. comandi utili
+h2. Comandi utili
 
-rimuovere branch remote
+rimuovere branch remote:
 
-	git push origin :branchremota
+  @git push origin :branchremota@
 
-rimuovere btanch locale
+rimuovere branch locale:
 
-	git br -D branchlocale
+  @git br -D branchlocale@
 
-creare branch remote
+creare branch remote:
 
-	git push --all
+  @git push --all@
+
+creare branch locale e spostarsi dentro:
+ 
+  @git co -b branchlocale@
+
+lista delle branch:
+
+  @git br -a@
+
+salvataggio delle modifiche nella branch corrente:
+
+  @git commit -am "testo sulla modifica"@
+
+aggiornamento di una branch locale a partire da un branch già aggiornata:
+
+  @git co branch_da_aggiornare@
+  @git merge branch_aggiornata@

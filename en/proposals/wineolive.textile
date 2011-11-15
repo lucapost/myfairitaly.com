@@ -1,0 +1,27 @@
+---
+layout: nextprev
+lang: en
+proposals: current
+prev: truffle
+next: cooking
+maintitle: Proposals
+title: Wine and olive oil tasting tours
+description: wine and olive oil tasting tour in san miniato
+keywords: wine, olive oil, tasting, san miniato, tuscany
+---
+
+h3. WINE AND OLIVE OIL TASTING TOURS
+
+!(thumb)/images/proposal/degustazioni.jpg(tuscan winecellar)!
+
+These activities are suitable for groups and single travelers, and whenever through the year.
+
+Tuscany is the wine country. Italians drink at lunch a little, and at dinner mostly, The wine is an everyday presence, like bread, pasta or olive oil. You get to know the wine by sampling and experiencing. So what about tasting wine directly in the farm where it is produced? A private transfer will pick you up near your accommodation at the time agreed and will take you to the farm where you will spend the whole day or half day just enjoying nature and learning about wines and their production. You will get in touch with a real Tuscan farm and the real farmers who work and live there.
+
+*My Fair Italy®* offers a wine tour that starts meeting the farmer. This is very important in order to understand his philosophy and his way of producing wine. Then come the visit to the vineyards. According to the season, you will experience the different phases of the cultivation and if you are in the right period of the year (summer-end or autumn-start) you can also pick the grapes directly from the plants participating in the grape harvest!
+
+After that you can visit the cellars were the grapes start undergoing the process to become wine and you will be taught about all the phases from the grape harvest up to the bottling. Then, finally you will taste all the wines you have seen in the cellars together with Tuscan bread, salami, olive oil and all the typical Tuscan products. 
+
+After the visit to the wine farm you will move to an authentic olive oil mill where you will discover the process of making extra virgin olive oil. Homer called olive oil liquid gold. In ancient Greece, athletes ritually rubbed it all over their body. Its mystical glow illuminated history. Drops of it seeped into the bones of dead saints and martyrs through holes in their tombs. Olive oil has been more than mere food to the peoples of the Mediterranean: it has been medicinal and the fountain of great wealth and power. Olive oil’s use in so many dishes and its mounting health benefits make it a must in home pantries and while it is now possible to find good olive oil everywhere, olive oils from Italy and Tuscany in particular, remain the ones by which all others are measured.
+
+After the visit to the olive trees groves and to the mill, you will finally taste the real extra virgin Tuscan oil! After each visit and tasting tour you will have the chance to buy wine and oil at the farm and mill shop. Then you will be picked up back to your accommodation.

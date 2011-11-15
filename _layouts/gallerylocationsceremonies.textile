@@ -1,0 +1,90 @@
+---
+layout: gallery
+path: '/images/gallery/locationsceremonies'
+slider:
+   - name: '01.jpg'
+     title: 
+       it: 'ricevimento all aperto'
+       en: 'open air party'
+     alt:
+       it: 'disposizione tavoli in giardino'
+       en: 'tables setting in the garden'
+   - name: '02.jpg'
+     title: 
+       it: 'matrimonio in giallo'
+       en: 'yellow wedding'
+     alt:
+       it: 'allestimento tavolo girasoli e palloncini'
+       en: 'sunflower and balloon table'
+   - name: '03.jpg'
+     title: 
+       it: 'viale illuminato'
+       en: 'lightened path'
+     alt:
+       it: 'faretti ingresso Villa in Toscana'
+       en: 'tuscany villa lights'
+   - name: '04.jpg'
+     title: 
+       it: 'ricevimento nel parco'
+       en: 'party in the park'
+     alt:
+       it: 'angolo aperitivo location all aperto'
+       en: 'open air aperitif corner'
+   - name: '05.jpg'
+     title: 
+       it: 'Cerimonia in giardino'
+       en: 'garden ceremony'
+     alt:
+       it: 'allestimento matrimonio bianco e vimini'
+       en: 'white and wicker wedding'
+   - name: '06.jpg'
+     title: 
+       it: 'ricevimento nella villa'
+       en: 'party in villa'
+     alt:
+       it: 'allestimento tavoli in bianco e rosso'
+       en: 'white and red tables'
+   - name: '07.jpg'
+     title: 
+       it: 'interni villa'
+       en: 'villa'
+     alt:
+       it: 'zona relax villa Dianella'
+       en: 'relax zone at villa'
+   - name: '08.jpg'
+     title: 
+       it: 'Interno Cattedrale'
+       en: 'cathedral dome inside'
+     alt:
+       it: 'Duomo a San Miniato'
+       en: 'san miniato cathedral'
+   - name: '09.jpg'
+     title: 
+       it: 'Sala degli stemmi'
+       en: 'Sala degli stemmi'
+     alt:
+       it: 'sala cerimonie Comune San Miniato'
+       en: 'ceremony hall at san miniato city hall'
+   - name: '10.jpg'
+     title: 
+       it: 'Sala delle sette Virtù'
+       en: 'Sala delle sette Virtù'
+     alt:
+       it: 'sala cerimonie Comune San Miniato'
+       en: 'ceremony hall at san miniato city hall'
+   - name: '11.jpg'
+     title: 
+       it: 'Santissimo Crocifisso'
+       en: 'Santissimo Crocifisso'
+     alt:
+       it: 'chiesa a San Miniato'
+       en: 'san miniato church'
+   - name: '12.jpg'
+     title: 
+       it: 'Duomo'
+       en: 'cathedral dome'
+     alt:
+       it: 'cattedrale a San Miniato'
+       en: 'san miniato cathedral'
+
+---

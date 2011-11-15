@@ -1,0 +1,28 @@
+---
+layout: default
+lang: it
+title: Gallerie
+gallerie: current
+description: My Fair Italy ed il suo album fotografico per aiutarti nelle tue scelte
+keywords: San Miniato, Toscana, Italia, Foto, Immagini, Galleria
+---
+
+h2. gallerie
+
+Vuoi vedere altre immagini? Scegli la galleria che ti interessa!
+
+h3. Turismo
+
+* "Strutture ricettive(galleria strutture)":strutture.html#content
+
+h3. Cerimonie
+
+* "Matrimoni(Galleria Matrimoni)":matrimoni.html#content
+* "Idee per le cerimonie(Galleria Idee per allestimenti)":idee.html#content
+* "Locations cerimonie(Galleria locations per cerimonie)":locationscerimonie.html#content
+
+h3. Aziendali
+
+* "Gadgets(Galleria gadgets)":gadgets.html#content
+* "Renderings(Galleria renderings)":renderings.html#content
+* "Locations aziendali(Galleria locations aziendali)":locationsaziende.html#content

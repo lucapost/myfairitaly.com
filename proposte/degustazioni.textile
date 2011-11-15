@@ -1,0 +1,25 @@
+---
+layout: nextprev
+lang: it
+proposte: current
+prev: tartufo
+next: corsidicucina
+maintitle: Proposte
+title: degustazioni di vino ed olio
+description: My Fair Italy propone soggiorni di una giornata oppure più giorni
+keywords: San Miniato, Toscana, Italia, Vacanza, Relax
+---
+
+h3. Degustazioni di vino ed olio
+
+!(thumb)/images/proposal/degustazioni.jpg(Cantina toscana)!
+
+Attività di degustazione di vino e olio a San Miniato in Toscana. Sia per singoli che per gruppi. Periodo: tutto l'anno.
+
+La Toscana è la patria del vino. Gli italiani bevono un po' a pranzo e un pochino di più a cena, il vino è una presenza quotidiana, come il pane, pasta o olio d'oliva. Si impara a conoscere il vino tramite la degustazione e l'esperienza. Perchè non concedersi questo piacere direttamente nelle fattorie  dove i vini vengono prodotti? *My Fair Italy®* organizza tours con transfer privato che passerà a prendervi all'orario stabilito e vi porterà alla fattoria dove passerete mezza giornata o tutta godendovi la natura e scoprendo i vini e la loro produzione. Sarete a contatto con la vera fattoria toscana e i veri contadini che lavorano e vivono lì.
+
+Il tour del vino comincia incontrando il contadino. Questo è molto importante per poterne conoscere la filosofia e il suo metodo di produzione del vino. Si passa poi alla visita delle vigne. In base alla stagione, potrete sperimentare diverse fasi delle coltivazioni e se siete nel giusto periodo dell'anno (fine estate o inizio autunno) potrete cogliere i grappoli direttamente dalla vite. Visiterete poi le cantine dove inizia il processo che trasformerà gli acini in vino, scoprendo tutte le fasi dal momento della raccolta a quello dell'imbottigliamento. Alla fine assaggerete tutti i vini che avete visto nella cantina insieme al pane toscano, affettati, olio di oliva e altri prodotti tipici toscani.
+
+Dopo la visita alla fattoria vi recherete ad un autentico frantoio dove vedrete il processo di produzione dell'olio. Omero chiamavo l'olio d'oliva oro liquido. Nell'antica grecia, come rituale, gli atleti lo utilizzavano per cospargersi il corpo. Il suo bagliore mistico illuminava la storia. Alcune gocce filtravano nelle ossa dei santi e martiri attraverso dei buchi nelle loro tombe. L'olio d'oliva è stato più di mero cibo per gli abitanti del mediterraneo: è stato un medicinale, fonte di salute e potere. L'uso dell'olio d'oliva in molti piatti e i suoi effetti benefici sulla salute lo hanno reso d'obbligo nelle dispense. E mentre adesso è possibile trovare l'olio buono ovunque, gli oli d'oliva italiani e soprattutto quello toscano sono il termine di paragone per tutti gli altri.
+
+Dopo la visita all'oliveta e al frantoio, gusterete, finalmente, il vero olio extra vergine toscano! Al termine di ogni visita e degustazione avrete la possibilità di comprare il vino e l'olio presso la fattoria e presso il frantoio. Sarete infine riaccompagnati dove alloggiate.

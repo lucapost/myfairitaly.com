@@ -1,0 +1,82 @@
+---
+layout: gallery
+path: '/images/gallery/renderings'
+slider:
+   - name: '01.jpg'
+     title: 
+       it: 'Rendering bacardi'
+       en: 'rendering for bacardi'
+     alt:
+       it: 'rendering per allestimento bacardi'
+       en: 'rendering for the set up of bacardi'
+   - name: '02.jpg'
+     title: 
+       it: 'rendering salone del mobile'
+       en: 'rendering salone del mobile'
+     alt:
+       it: 'rendering con installazioni verticali'
+       en: 'rendering for the set up of salone del mobile'
+   - name: '03.jpg'
+     title: 
+       it: 'rendering ingresso hotel'
+       en: 'rendering hotel hall'
+     alt:
+       it: 'rendering per installazione in legno'
+       en: 'rendering for wooden the setting up'
+   - name: '04.jpg'
+     title: 
+       it: 'bolle di vetro'
+       en: 'gazing ball'
+     alt:
+       it: 'allestimento mostra fotografica'
+       en: 'set up for the photographic exibition'
+   - name: '05.jpg'
+     title: 
+       it: 'particolare di divano'
+       en: 'details of sofa'
+     alt:
+       it: 'copertura divano con fiori di stoffa'
+       en: 'coach covered  with fabric flowers'
+   - name: '06.jpg'
+     title: 
+       it: 'rendering palco radio dj'
+       en: 'radio dj stand'
+     alt:
+       it: 'rendering per realizzazione palco'
+       en: 'rendering for the creation of a stage'
+   - name: '07.jpg'
+     title: 
+       it: 'banco coktail bar'
+       en: 'bar counter'
+     alt:
+       it: 'rendering con installazioni statue gesso'
+       en: 'rendering with plaster statues'
+   - name: '08.jpg'
+     title: 
+       it: 'zona relax'
+       en: 'spa area'
+     alt:
+       it: 'rendering installazioni in bianco'
+       en: 'rendering white set ups'
+   - name: '09.jpg'
+     title: 
+       it: 'divanetti bianchi'
+       en: 'white sofas'
+     alt:
+       it: 'rendering con struttura centrale rotonda'
+       en: 'rendering with central round frame'
+   - name: '10.jpg'
+     title: 
+       it: 'mostra mobili'
+       en: 'furniture showroom'
+     alt:
+       it: 'rendering per esposizione mobili'
+       en: 'rendering for the showroom of furniture'
+   - name: '11.jpg'
+     title: 
+       it: 'gondole'
+       en: 'gondolas'
+     alt:
+       it: 'rendering per installazioni gondole legno'
+       en: 'rendering for the set up of gondolas'
+---

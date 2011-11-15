@@ -1,0 +1,11 @@
+---
+layout: gallerygadgets
+gallerie: current
+lang: it
+title: Gadgets
+maintitle: Gallerie
+prev: locationscerimonie
+next: renderings
+description: Galleria dei nostri gadgets aziendali personalizzati
+keywords: gadgets, busines, personalizzazione, aziende
+---

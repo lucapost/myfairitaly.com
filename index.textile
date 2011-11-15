@@ -1,0 +1,18 @@
+---
+layout: home
+lang: it
+title: Benvenuti
+benvenuti: current
+description: My Fair Italy, presentazione attività
+keywords: San Miniato, Toscana, Italia, Turismo, Viaggi, Gruppi, Soggiorno, Privati, Aziende, Eventi, Cerimonie
+---
+
+*My Fair Italy®* è un'agenzia di viaggi specializzata  nell'organizzazione di tours, soggiorni, attività e degustazioni per gruppi e singoli in Toscana e in  Italia.
+
+*My Fair Italy®* è anche organizzazione eventi, cerimonie e matrimoni. Si indirizza ad aziende e privati, con un'attenzione particolare agli allestimenti  ed al budget stabilito. 
+
+*My Fair Italy®* si sviluppa intorno a 3 punti:
+
+* "turismo ecosostenibile(turismo ecosostenibile su wikipedia)":http://it.wikipedia.org/wiki/Turismo_ecosostenibile
+* "eco-party(prodotti ecologici su wikipedia)":http://it.wikipedia.org/wiki/Prodotto_ecologico
+* "prodotti a km zero, possibilimente bio(agricoltura biologica su wikipedia)":http://it.wikipedia.org/wiki/Agricoltura_biologica

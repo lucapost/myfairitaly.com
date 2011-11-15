@@ -1,0 +1,11 @@
+---
+layout: galleryaccomodations
+gallerie: current
+lang: it
+title: Strutture ricettive
+maintitle: Gallerie
+prev: locationsaziende
+next: matrimoni
+description: galleria delle nostre strutture ricettive
+keywords: strutture ricettive, agriturismo, villa, toscana, san miniato
+---

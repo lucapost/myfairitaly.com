@@ -1,0 +1,29 @@
+---
+layout: default
+lang: it
+title: Contatti
+contatti: current
+description: My Fair Italy può essere contattata per telefono ed email, inoltre puoi raggiungerci presso i nostri uffici
+keywords: San Miniato, Toscana, Italia, Turismo, Viaggi, Gruppi, Eventi, Cerimonie, Recapiti
+---
+
+h2. contatti
+
+"info@myfairitaly.com(email info)":mailto:info@myfairitaly.com
+"reservations@myfairitaly.com(email reservations)":mailto:reservations@myfairitaly.com
+"weddings@myfairitaly.com(email weddings)":mailto:weddings@myfairitaly.com
+
+Tel: +39 0571 49571
+Fax: +39 0571 451059
+
+Via 25 Aprile 1/a, Ponte a Egola, Pisa (IT).
+
+h3. come raggiungerci
+
+*Dalla superstrada (SGC Fi-Pi-Li):* uscire a Santa Croce s/a, proseguire per Ponte a Egola. Si incontra una prima rotatoria. Svoltare a destra e proseguire fino alla seconda rotatoria, quindi prendere la terza uscita. Dopo poche centinaia di metri svoltare a destra (sempre in direzione Ponte a Egola) e raggiungere il semaforo. Al semaforo andare dritti (direzione La Serra) e infine imboccare la prima strada sulla sinistra (via 25 Aprile). Gli uffici si trovano sulla destra al numero 1/a di Via 25 Aprile.
+
+*Da La Serra:* una volta raggiunta Ponte a Egola, prima dell’unico semaforo del paese c’è una strada sulla destra: è via 25 Aprile.
+
+h3. mappa
+
+notextile. <div class="maps"><iframe width="100%" height="100%" src="http://maps.google.it/maps/ms?ie=UTF8&amp;t=h&amp;panoid=9qWezTk4F9VBxqioCDBmlA&amp;oe=UTF8&amp;showlabs=1&amp;msa=0&amp;msid=205079284204601881585.0004806f78b279540975c&amp;ll=43.685556,10.79529&amp;spn=0.002483,0.004925&amp;z=17&amp;output=embed"></iframe></div>

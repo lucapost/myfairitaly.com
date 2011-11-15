@@ -1,0 +1,19 @@
+---
+layout: nextprev
+lang: en
+proposals: current
+maintitle: Proposals
+prev: ferrari
+next: truffle
+title: Flying on Tuscany
+description: flying with airballoon over the tuscan hills
+keywords: airballoon, tuscany, hills, fly
+---
+
+h3. FLYING ON TUSCANY
+
+!(thumb)/images/proposal/mongolfiere.jpg(airballoon in tuscany)!
+
+Do you wish to experience the exclusive emotion of a flight over the Tuscan hills? Would you like to admire the Tuscan historical cities and Chianti vineyards from a very unusual point of view? 
+
+Thanks to the cooperation with the best professionals in the zone, you will fly on the most romantic and adventurous mean of air-transport: The Hot Air Balloon! Then you can end your trip with a wine or local typical products tasting tour directly in the farm where it is produced so that pleasure would be guaranteed.

@@ -1,0 +1,22 @@
+---
+layout: nextprev
+lang: it
+proposte: current
+prev: mongolfiera
+next: degustazioni
+title: Caccia al tartufo
+maintitle: Proposte
+description: My Fair Italy propone soggiorni di una giornata oppure più giorni
+keywords: San Miniato, Toscana, Italia, Vacanza, Relax
+---
+
+h3. Caccia al tartufo
+
+!(thumb)/images/proposal/tartufo.jpg(Tartufo bianco)!
+
+Attività di ricerca del Tartufo e degustazione a San Miniato in Toscana. Sia per singoli che per gruppi. Periodo: tutto l'anno.
+
+Le colline di San Miniato sono famose per il tartufo bianco e *My Fair Italy®* può organizzare una vera caccia al tartufo con un tartufaio e il suo cane. Il Tuber Magnatum Pico è il tesoro sotterraneo principale del territorio di San Miniato. Ogni anno si svolge, in novembre, la Mostra Mercato Nazionale del Tartufo bianco di San Miniato. 
+
+*My Fair Italy®* organizza attività  di mezza giornata che saranno un'esperienza per il tuo naso e la tua bocca!
+su richiesta è possibile avere una degustazione a base di tartufo dopo l'esperienza della ricerca del magnifico tubero.

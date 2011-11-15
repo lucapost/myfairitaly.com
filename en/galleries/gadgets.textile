@@ -1,0 +1,11 @@
+---
+layout: gallerygadgets
+gallerie: current
+lang: en
+title: Gadgets
+keywords: gadgets, busines, personalized
+descriptions: a gallery of our corporate gadgets
+maintitle: Galleries
+prev: locationsceremonies
+next: renderings
+---

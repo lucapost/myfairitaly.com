@@ -1,0 +1,9 @@
+safe:           true
+auto:           false
+pygments:       true
+markdown:       rdiscount
+rdiscount
+  extensions:   [smart]
+
+source:         .
+exclude: ["config.rb", "sass", ".sass-cache"]

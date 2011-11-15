@@ -1,0 +1,11 @@
+---
+layout: galleryideas
+gallerie: current
+lang: it
+title: Idee
+maintitle: Gallerie
+prev: matrimoni
+next: locationscerimonie
+description: Galleria delle nostre idee per gli allestimenti
+keywords: allestimenti, idee, addobbi, tavoli
+---

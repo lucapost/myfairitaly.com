@@ -1,0 +1,11 @@
+---
+layout: galleryrenderings
+gallerie: current
+lang: it
+title: Renderings
+maintitle: Gallerie
+prev: gadgets
+next: locationsaziende
+description: galleria dei nostri renderings
+keywords: renderings, allestimenti, inaugurazioni, meetings
+---

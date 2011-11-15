@@ -1,0 +1,11 @@
+---
+layout: gallerylocationsceremonies
+gallerie: current
+lang: it
+title: Locations cerimonie
+maintitle: Gallerie
+prev: idee 
+next: gadgets
+description: galleria delle nostre locations per cerimonie
+keywords: locations, cerimonie, matrimonio, allestimenti
+---

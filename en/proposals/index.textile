@@ -1,0 +1,28 @@
+---
+layout: default
+lang: en
+title: Proposals
+proposals: current
+description: our activities and proposals
+keywords: proposals, activities, tasting, tour, tuscany, tuscan dish, olive oil, truffle
+---
+
+h2. proposals
+
+*My Fair Italy®* can make your experience in Tuscany unique. We assure you to spend unforgettable themed tours, taste delicious delicatessen and enjoy relaxed walking through beautiful natural landscapes. 
+
+Our proposals include *one day tours:*
+
+* "Just for two(weekend for two)":justfortwo.html#content
+* "Driving a Ferrari(driving a ferrari)":ferrari.html#content
+* "Flying on Tuscany(airballoon around tuscany)":flying.html#content
+* "White truffle hunting(truffle hunting)":truffle.html#content
+* "Wine tasting and olive oil tasting tour(tasting tour)":wineolive.html#content
+* "Cooking classes(cooking courses)":cooking.html#content
+
+And *more than one day* trip in Tuscany:
+
+* "Romantic Wellness Weekend(wellness weekend)":wellnessweekend.html#content
+* "Chianti Area with bike(bike tour in chianti area)":chianti.html#content
+* "S. Miniato/Volterra with bike(bike tour between san miniato and volterra)":volterra.html#content
+* "S. Miniato/S. Gimignano with bike(bike tour between san miniato and san gimignano)":gimignano.html#content

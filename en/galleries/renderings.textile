@@ -1,0 +1,11 @@
+---
+layout: galleryrenderings
+gallerie: current
+lang: en
+title: Renderings
+keywords: renderings, corporate, set ups, busines, meetings
+descriptions: a gallery of our renderings
+maintitle: Galleries
+prev: gadgets
+next: locationscorporate
+---

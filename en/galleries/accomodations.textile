@@ -1,0 +1,11 @@
+---
+layout: galleryaccomodations
+gallerie: current
+lang: en
+title: Accommodations
+keywords: accommodations, structures, agriturismo, locations, tuscany
+descriptions: gallery of our accommodations 
+maintitle: Galleries
+prev: locationscorporate
+next: weddings
+---
