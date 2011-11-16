@@ -6,7 +6,7 @@ prev: justfortwo
 next: flying
 maintitle: Proposals
 title: Driving a Ferrari
-description: driving a ferrari for a day
+description: driving a ferrari for one day
 keywords: ferrari, tuscany, incentive
 ---
 
@@ -14,4 +14,4 @@ h3. DRIVING A FERRARI
 
 !(thumb)/images/proposal/ferrari.jpg(Ferrari)!
 
-If you dream to be a Ferrari pilot for a day, do not hesitate to contact us! We propose you to enjoy a tour at Maranello Circuit, to visit the Ferrari Museum and drive one of their fantastic cars with a real pilot by your side! We will also book dinners and select your accommodation among the best hotels in the surrounding…so that you will just have to enjoy your magic trip!
+If you dream to be a Ferrari pilot for one day, do not hesitate to contact us! We propose you to enjoy a tour at Maranello Circuit, to visit the Ferrari Museum and drive one of their fantastic cars with a real pilot by your side! We will also book dinners and select your accommodation among the best hotels in the surroundings…so that you will just have to enjoy your magic trip!
