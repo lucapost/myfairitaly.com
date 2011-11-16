@@ -1,5 +1,5 @@
 ---
-layout: galleryaccomodations
+layout: galleryaccommodations
 gallerie: current
 lang: it
 title: Strutture ricettive
