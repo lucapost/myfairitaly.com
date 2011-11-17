@@ -68,7 +68,7 @@
 						<li><a href="/en/events.html#content" class="{{ page.events }}">events</a></li> 
 						<li><a href="/en/proposals/#content" class="{{ page.proposals }}">proposals</a></li> 
 						<li><a href="/en/galleries/#content" class="{{ page.gallerie }}">galleries</a></li> 
-						<li><a href="/en/whoweare.html#content" class="{{ page.whoweare }}">who we are</a></li>{% else%}
+						<li><a href="/en/whoweare.html#content" class="{{ page.whoweare }}">who we are</a></li>{% else %}
 						<li><a href="/contatti.html#content" class="{{ page.contatti }}">contatti</a></li> 
 						<li><a href="/index.html#content" class="{{ page.benvenuti }}">benvenuti</a></li> 
 						<li><a href="/viaggi.html#content" class="{{ page.viaggi }}">viaggi</a></li> 
@@ -105,7 +105,8 @@
 			<div>
 				<p>My Fair Italy di Feel Italy snc di Giuditta Presenti, Allegra La Rosa, Paola Barsanti &amp; C. </p>
 				<p>Registered Office: v. 25 Aprile 1/A 56024 Ponte a Egola (Pi) :: C.F. 01956590507 :: REA: PI - 0168615</p>
-			        <p>Logo design: Arch. Pietro Dani - DNA STUDIO :: <a href="privacy.html">privacy</a> :: <a href="info.html">info</a></p>
+				<p>Logo design: Arch. Pietro Dani - DNA STUDIO :: {% if page.lang == 'en' %}
+				<a href="/en/privacy.html" title="privacy">privacy</a> :: <a href="/en/info.html" title="info">info</a>{% else %}<a href="/privacy.html" title="privacy">privacy</a> :: <a href="/info.html" title="info">info</a>{% endif %}</p>
 				<p>&copy; 2011 <a href="http://luca.postregna.name">Luca Postregna</a> :: <a href="http://validator.w3.org/check?uri=referer">xhtml</a> :: <a href="http://jigsaw.w3.org/css-validator/check/referer">css</a></p>
 			</div>
 		</div>
