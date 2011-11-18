@@ -1,10 +1,6 @@
 h1. Readme
 
-<<<<<<< HEAD
-Please visit "www.myfairitaly.com":http://www.myfairitaly.com.
-=======
-"www.myfairitaly.com":http://www.myfairitaly.com.
->>>>>>> master
+Source of "www.myfairitaly.com":http://www.myfairitaly.com.
 
 h2. Gallery
 
