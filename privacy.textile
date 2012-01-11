@@ -1,9 +1,9 @@
 ---
 layout: default
 lang: it
-title: privacy
+title: Privacy
 privacy: current
-description: My Fair Italy e la tutela della privacy
+description: Normative per la tutela della privacy dei clienti di My Fair Italy
 keywords: San Miniato, Toscana, Italia, privacy
 ---
 

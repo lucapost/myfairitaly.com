@@ -1,9 +1,9 @@
 ---
 layout: default
 lang: it
-title: info
+title: Informazioni generali e condizioni di Contratto
 info: current
-description: My Fair Italy - informazioni
+description: My Fair Italy - informazioni generali e clausole contrattuali
 keywords: San Miniato, Toscana, Italia, informazioni
 ---
 

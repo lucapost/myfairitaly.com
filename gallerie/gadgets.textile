@@ -2,7 +2,7 @@
 layout: gallerygadgets
 gallerie: current
 lang: it
-title: Gadgets
+title: Gadgets e Accessori
 maintitle: Gallerie
 prev: locationscerimonie
 next: renderings
