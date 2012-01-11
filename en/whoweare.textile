@@ -3,7 +3,7 @@ layout: default
 lang: en
 title: Who we are
 whoweare: current
-description: CEOs at My Fair Italy
+description: CEOs at My Fair Italy, Giuditta Presenti, Allegra La Rosa, Paola Barsanti.
 keywords: CEOs, My Fair Italy
 ---
 

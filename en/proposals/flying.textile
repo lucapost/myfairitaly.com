@@ -6,7 +6,7 @@ maintitle: Proposals
 prev: ferrari
 next: truffle
 title: Flying on Tuscany
-description: flying with airballoon over the tuscan hills
+description: flying with airballoon over the tuscan hills, trip with a wine or local typical products tasting at the end.
 keywords: airballoon, tuscany, hills, fly
 ---
 

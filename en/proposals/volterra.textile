@@ -6,7 +6,7 @@ prev: chianti
 next: gimignano
 maintitle: proposals
 title: S. Miniato/Volterra with bike
-description: bike tour between san miniato and volterra
+description: bike tour between san miniato and volterra for sport-enthusiasts, in particular wheelers, from spring to autumn.
 keywords: bike, san miniato, volterra, tuscany, wheelers
 ---
 

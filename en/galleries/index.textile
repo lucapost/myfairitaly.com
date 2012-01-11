@@ -3,7 +3,7 @@ layout: default
 lang: en
 title: Galleries
 gallerie: current
-description: our works and structures galleries 
+description: our works, events and structures photo-galleries 
 keywords: photos, galleries, structures, organization, set ups. tuscany
 ---
 

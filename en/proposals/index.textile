@@ -3,7 +3,7 @@ layout: default
 lang: en
 title: Proposals
 proposals: current
-description: our activities and proposals
+description: our activities and proposals, themed tours, taste delicious delicatessen and enjoy relaxed walking through beautiful natural landscapes.
 keywords: proposals, activities, tasting, tour, tuscany, tuscan dish, olive oil, truffle
 ---
 

@@ -6,7 +6,7 @@ title: Just for two
 proposals: current
 prev: gimignano
 next: ferrari
-description: special occasions for couples 
+description: special occasions for couples, restaurant or SPA reservations.
 keywords: romantic, tuscan dish, couples, restaurant
 ---
 

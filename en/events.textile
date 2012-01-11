@@ -3,7 +3,7 @@ layout: default
 lang: en
 title: Events
 events: current
-description: Wedding and business events planner
+description: Wedding and business events planner, organization of private and corporate events
 keywords: weddings, events, corporate, organizations
 ---
 

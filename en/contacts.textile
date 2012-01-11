@@ -3,7 +3,7 @@ layout: default
 lang: en
 title: Contacts
 contacts: current
-description: how to contact My Fair Italy Travel Agency
+description: how to contact My Fair Italy Travel Agency and My Fair Italy's Owners
 keywords: contacts, phone, e-mail, address, maps
 ---
 

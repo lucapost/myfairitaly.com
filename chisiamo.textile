@@ -3,7 +3,7 @@ layout: default
 lang: it
 title: Chi Siamo
 chisiamo: current
-description: My Fair Italy ed i suoi colloaboratori, le socie
+description: Le tre socie di My Fair Italy, Giuditta Presenti, Allegra La Rosa, Paola Barsanti
 keywords: San Miniato, Toscana, Italia, soci, persone
 ---
 

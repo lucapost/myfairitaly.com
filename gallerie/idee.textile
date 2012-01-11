@@ -6,6 +6,6 @@ title: Idee
 maintitle: Gallerie
 prev: matrimoni
 next: locationscerimonie
-description: Galleria delle nostre idee per gli allestimenti
+description: Galleria delle nostre idee per gli allestimenti personalizzati per eventi per privati e aziende
 keywords: allestimenti, idee, addobbi, tavoli
 ---

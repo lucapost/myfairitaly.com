@@ -6,6 +6,6 @@ title: Matrimoni
 maintitle: Gallerie
 prev: strutture
 next: idee
-description: Galleria dei nostri matrimoni e cerimonie
+description: Galleria delle fotografie dei nostri matrimoni e cerimonie e relativi allestimenti
 keywords: matrimonio, cerimonia, locations, abiti su misura
 ---

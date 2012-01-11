@@ -6,7 +6,7 @@ prev: justfortwo
 next: flying
 maintitle: Proposals
 title: Driving a Ferrari
-description: driving a ferrari for one day
+description: driving a ferrari for one day. A tour at Maranello Circuit, to visit the Ferrari Museum.
 keywords: ferrari, tuscany, incentive
 ---
 

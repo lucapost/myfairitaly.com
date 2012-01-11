@@ -6,7 +6,7 @@ prev: cooking
 next: chianti
 maintitle: Proposals
 title: Romantic wellness weekend
-description: romantic wellness wekend in tuscany
+description: romantic wellness wekend in tuscany for couples in SPA resort located in San Miniato.
 keywords: weekend, tuscany, romantic, wellness
 ---
 

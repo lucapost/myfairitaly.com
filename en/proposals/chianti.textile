@@ -6,7 +6,7 @@ prev: wellnessweekend
 next: volterra
 maintitle: Proposals
 title: Chianti area with bike
-description: bike tour in chianti area
+description: bike tour in chianti area for sport-enthusiasts. Included: meals, accommodation, bicycle rent.
 keywords: bike, chianti, tuscany
 ---
 
