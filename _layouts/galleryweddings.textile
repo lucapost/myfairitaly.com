@@ -121,5 +121,25 @@ slider:
      alt:
        it: 'vialetto accesso Rocca di San Miniato'
        en: 'rocca di san miniato path'
-
+ - name: '18.jpg'
+     title: 
+       it: 'Banchetto in bianco'
+       en: 'White banqueting'
+     alt:
+       it: 'allestimento tavolo imperiale in bianco'
+       en: 'white set up of imperial table'
+   - name: '19.jpg'
+     title: 
+       it: 'centrotavola bamboo e rose bianche'
+       en: 'white roses and bamboo center-piece'
+     alt:
+       it: 'centrotavola su misura per tavolo imperiale matrimonio'
+       en: 'wedding imperial table tailored center-piece'
+   - name: '20.jpg'
+     title: 
+       it: 'angolo buffet con vista'
+       en: 'buffet corner with view'
+     alt:
+       it: 'angolo aperitivi in bianco agriturismo a san miniato'
+       en: 'appetizers white corner in San Miniato Agriturismo'
 ---
