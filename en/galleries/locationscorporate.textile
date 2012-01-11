@@ -7,5 +7,5 @@ keywords: locations, corporate, meetings, busines, tuscany
 descriptions: a gallery of our corporate locations
 maintitle: Galleries
 prev: renderings
-next: accomodations
+next: accommodations
 ---
