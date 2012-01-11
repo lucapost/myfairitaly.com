@@ -121,7 +121,7 @@ slider:
      alt:
        it: 'vialetto accesso Rocca di San Miniato'
        en: 'rocca di san miniato path'
- - name: '18.jpg'
+   - name: '18.jpg'
      title: 
        it: 'Banchetto in bianco'
        en: 'White banqueting'
