@@ -20,6 +20,9 @@
 </head>
 <body>
 	<header class="container_12 clearfix">
+		<div class="button">
+			<g:plusone size="tall"></g:plusone>
+		</div>
 		<div class="push_1 grid_10">
 			<div class="grid_8 alpha">
 				<div class="bar">{% if page.lang == 'en' %}
@@ -36,7 +39,7 @@
 				<a href="/" title="lingua italiana">
 					<img src="/images/it.jpg" title="lingua italiana" alt="bandiera italiana" class="flag" />
 				</a>
-			</figure>
+			</figure> 
 			<div class="grid_10 alpha omega">
 				<div class="title">{% if page.lang == 'en' %}
 					<a href="/en" title="home">{% else%}
@@ -118,6 +121,13 @@
 	<script defer src="/js/mylibs/hashgrid.js"></script>{% if page.gallerie == 'current' or page.benvenuti == 'current' or page.welcome == 'current' %}
 	<script defer src="/js/mylibs/flux.min.js"></script>  
 	<script defer src="/js/mylibs/slider.js"></script>{% endif %}
+	<script type="text/javascript">
+		  (function() {
+		       var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+		           po.src = 'https://apis.google.com/js/plusone.js';
+			       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+			         })();
+	</script>
   	<script>
     		var _gaq=[['_setAccount','UA-6164762-11'],['_trackPageview'],['_trackPageLoadTime']];
     		(function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
