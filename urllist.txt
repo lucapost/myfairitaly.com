@@ -18,8 +18,6 @@ http://myfairitaly.com/en/galleries/
 http://myfairitaly.com/en/whoweare.html
 http://myfairitaly.com/en/privacy.html
 http://myfairitaly.com/en/info.html
-http://myfairitaly.com/proposte.html
-http://myfairitaly.com/gallerie.html
 http://myfairitaly.com/proposte/soloperdue.html
 http://myfairitaly.com/proposte/ferrari.html
 http://myfairitaly.com/proposte/mongolfiera.html
@@ -47,7 +45,7 @@ http://myfairitaly.com/en/proposals/wellnessweekend.html
 http://myfairitaly.com/en/proposals/chianti.html
 http://myfairitaly.com/en/proposals/volterra.html
 http://myfairitaly.com/en/proposals/gimignano.html
-http://myfairitaly.com/en/galleries/accomodations.html
+http://myfairitaly.com/en/galleries/accommodations.html
 http://myfairitaly.com/en/galleries/weddings.html
 http://myfairitaly.com/en/galleries/ideas.html
 http://myfairitaly.com/en/galleries/locationsceremonies.html

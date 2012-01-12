@@ -7,7 +7,7 @@
 <item>
      <link>http://myfairitaly.com/</link>
      <title>Benvenuti - My Fair Italy</title>
-     <description>My Fair Italy, presentazione attivitÃ </description>
+     <description>My Fair Italy, agenzia di viaggi ed organizzazione eventi per privati ed aziende a San Miniato in Toscana</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>0</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
@@ -31,7 +31,7 @@
 <item>
      <link>http://myfairitaly.com/index.html</link>
      <title>Benvenuti - My Fair Italy</title>
-     <description>My Fair Italy, presentazione attivitÃ </description>
+     <description>My Fair Italy, agenzia di viaggi ed organizzazione eventi per privati ed aziende a San Miniato in Toscana</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
@@ -71,23 +71,23 @@
 <item>
      <link>http://myfairitaly.com/chisiamo.html</link>
      <title>Chi Siamo - My Fair Italy</title>
-     <description>My Fair Italy ed i suoi colloaboratori, le socie</description>
+     <description>Le tre socie di My Fair Italy, Giuditta Presenti, Allegra La Rosa, Paola Barsanti</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
      <link>http://myfairitaly.com/privacy.html</link>
-     <title>privacy - My Fair Italy</title>
-     <description>My Fair Italy e la tutela della privacy</description>
+     <title>Privacy - My Fair Italy</title>
+     <description>Normative per la tutela della privacy dei clienti di My Fair Italy</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
      <link>http://myfairitaly.com/info.html</link>
-     <title>info - My Fair Italy</title>
-     <description>My Fair Italy - informazioni</description>
+     <title>Informazioni generali e condizioni di Contratto - My Fair Italy</title>
+     <description>My Fair Italy - informazioni generali e clausole contrattuali</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
@@ -95,7 +95,7 @@
 <item>
      <link>http://myfairitaly.com/en/contacts.html</link>
      <title>Contacts - My Fair Italy</title>
-     <description>how to contact My Fair Italy Travel Agency</description>
+     <description>how to contact My Fair Italy Travel Agency and My Fair Italy's Owners</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
@@ -119,7 +119,7 @@
 <item>
      <link>http://myfairitaly.com/en/events.html</link>
      <title>Events - My Fair Italy</title>
-     <description>Wedding and business events planner</description>
+     <description>Wedding and business events planner, organization of private and corporate events</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
@@ -127,7 +127,7 @@
 <item>
      <link>http://myfairitaly.com/en/proposals/</link>
      <title>Proposals - My Fair Italy</title>
-     <description>our activities and proposals</description>
+     <description>our activities and proposals, themed tours, taste delicious delicatessen and enjoy relaxed walking through beautiful natural landscapes.</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
@@ -135,7 +135,7 @@
 <item>
      <link>http://myfairitaly.com/en/galleries/</link>
      <title>Galleries - My Fair Italy</title>
-     <description>our works and structures galleries</description>
+     <description>our works, events and structures photo-galleries</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
@@ -143,7 +143,7 @@
 <item>
      <link>http://myfairitaly.com/en/whoweare.html</link>
      <title>Who we are - My Fair Italy</title>
-     <description>CEOs at My Fair Italy</description>
+     <description>CEOs at My Fair Italy, Giuditta Presenti, Allegra La Rosa, Paola Barsanti.</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
@@ -151,7 +151,7 @@
 <item>
      <link>http://myfairitaly.com/en/privacy.html</link>
      <title>privacy - My Fair Italy</title>
-     <description>My Fair Italy and your privacy</description>
+     <description>My Fair Italy and our privacy policy</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
@@ -160,22 +160,6 @@
      <link>http://myfairitaly.com/en/info.html</link>
      <title>info - My Fair Italy</title>
      <description>My Fair Italy - informations</description>
-     <ror:updatePeriod></ror:updatePeriod>
-     <ror:sortOrder>2</ror:sortOrder>
-     <ror:resourceOf>sitemap</ror:resourceOf>
-</item>
-<item>
-     <link>http://myfairitaly.com/proposte.html</link>
-     <title></title>
-     
-     <ror:updatePeriod></ror:updatePeriod>
-     <ror:sortOrder>2</ror:sortOrder>
-     <ror:resourceOf>sitemap</ror:resourceOf>
-</item>
-<item>
-     <link>http://myfairitaly.com/gallerie.html</link>
-     <title></title>
-     
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
@@ -263,7 +247,7 @@
 <item>
      <link>http://myfairitaly.com/gallerie/strutture.html</link>
      <title>Strutture ricettive - My Fair Italy</title>
-     <description>galleria delle nostre strutture ricettive</description>
+     <description>galleria delle nostre strutture ricettive, ville, agriturismi, residenze storiche, case vacanza e bed and breakfast a San Miniato e in Toscana.</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
@@ -271,7 +255,7 @@
 <item>
      <link>http://myfairitaly.com/gallerie/matrimoni.html</link>
      <title>Matrimoni - My Fair Italy</title>
-     <description>Galleria dei nostri matrimoni e cerimonie</description>
+     <description>Galleria delle fotografie dei nostri matrimoni e cerimonie e relativi allestimenti</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
@@ -279,7 +263,7 @@
 <item>
      <link>http://myfairitaly.com/gallerie/idee.html</link>
      <title>Idee - My Fair Italy</title>
-     <description>Galleria delle nostre idee per gli allestimenti</description>
+     <description>Galleria delle nostre idee per gli allestimenti personalizzati per eventi per privati e aziende</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
@@ -287,14 +271,14 @@
 <item>
      <link>http://myfairitaly.com/gallerie/locationscerimonie.html</link>
      <title>Locations cerimonie - My Fair Italy</title>
-     <description>galleria delle nostre locations per cerimonie</description>
+     <description>galleria delle nostre locations per cerimonie, Ville e Strutture in Toscana per la celebrazione di cerimonie.</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
      <link>http://myfairitaly.com/gallerie/gadgets.html</link>
-     <title>Gadgets - My Fair Italy</title>
+     <title>Gadgets e Accessori - My Fair Italy</title>
      <description>Galleria dei nostri gadgets aziendali personalizzati</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>2</ror:sortOrder>
@@ -302,8 +286,8 @@
 </item>
 <item>
      <link>http://myfairitaly.com/gallerie/renderings.html</link>
-     <title>Renderings - My Fair Italy</title>
-     <description>galleria dei nostri renderings</description>
+     <title>Renderings e Prospettive - My Fair Italy</title>
+     <description>galleria dei nostri renderings e prospettive per allestimenti di locali ed aziende</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
@@ -319,7 +303,7 @@
 <item>
      <link>http://myfairitaly.com/en/proposals/justfortwo.html</link>
      <title>Just for two - My Fair Italy</title>
-     <description>special occasions for couples</description>
+     <description>special occasions for couples, restaurant or SPA reservations.</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>3</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
@@ -327,7 +311,7 @@
 <item>
      <link>http://myfairitaly.com/en/proposals/ferrari.html</link>
      <title>Driving a Ferrari - My Fair Italy</title>
-     <description>driving a ferrari for a day</description>
+     <description>driving a ferrari for one day. A tour at Maranello Circuit, to visit the Ferrari Museum.</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>3</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
@@ -335,7 +319,7 @@
 <item>
      <link>http://myfairitaly.com/en/proposals/flying.html</link>
      <title>Flying on Tuscany - My Fair Italy</title>
-     <description>flying with airballoon over the tuscan hills</description>
+     <description>flying with airballoon over the tuscan hills, trip with a wine or local typical products tasting at the end.</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>3</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
@@ -343,7 +327,7 @@
 <item>
      <link>http://myfairitaly.com/en/proposals/truffle.html</link>
      <title>White truffle hunting - My Fair Italy</title>
-     <description>truffle hunting an d tasting tour in san miniato</description>
+     <description>truffle hunting and tasting tour in San Miniato, both for individual travellers and groups.</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>3</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
@@ -351,7 +335,7 @@
 <item>
      <link>http://myfairitaly.com/en/proposals/wineolive.html</link>
      <title>Wine and olive oil tasting tours - My Fair Italy</title>
-     <description>wine and olive oil tasting tour in san miniato</description>
+     <description>wine and olive oil tasting tour in san miniato for groups and single travelers, and whenever through the year.</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>3</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
@@ -367,7 +351,7 @@
 <item>
      <link>http://myfairitaly.com/en/proposals/wellnessweekend.html</link>
      <title>Romantic wellness weekend - My Fair Italy</title>
-     <description>romantic wellness wekend in tuscany</description>
+     <description>romantic wellness wekend in tuscany for couples in SPA resort located in San Miniato.</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>3</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
@@ -375,7 +359,7 @@
 <item>
      <link>http://myfairitaly.com/en/proposals/chianti.html</link>
      <title>Chianti area with bike - My Fair Italy</title>
-     <description>bike tour in chianti area</description>
+     <description>Bike tour in chianti area for sport-enthusiasts. Included meals, accommodation, bicycle rent.</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>3</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
@@ -383,7 +367,7 @@
 <item>
      <link>http://myfairitaly.com/en/proposals/volterra.html</link>
      <title>S. Miniato/Volterra with bike - My Fair Italy</title>
-     <description>bike tour between san miniato and volterra</description>
+     <description>bike tour between san miniato and volterra for sport-enthusiasts, in particular wheelers, from spring to autumn.</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>3</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
@@ -397,7 +381,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>http://myfairitaly.com/en/galleries/accomodations.html</link>
+     <link>http://myfairitaly.com/en/galleries/accommodations.html</link>
      <title>Accommodations - My Fair Italy</title>
      <description>Accommodations - My Fair Italy</description>
      <ror:updatePeriod></ror:updatePeriod>
