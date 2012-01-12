@@ -19,9 +19,19 @@
   	<script defer src="/js/libs/modernizr-2.0.6.min.js"></script>
 </head>
 <body>
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		    if (d.getElementById(id)) return;
+		      js = d.createElement(s); js.id = id;
+		        js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+			  fjs.parentNode.insertBefore(js, fjs);
+	  }(document, 'script', 'facebook-jssdk'));</script>
 	<header class="container_12 clearfix">
 		<div class="button">
-			<g:plusone size="tall"></g:plusone>
+			<g:plusone size="tall"></g:plusone><br/>
+			<div class="fb-like" data-href="https://www.facebook.com/pages/My-Fair-Italy/102008026501737" data-send="false" data-layout="box_count" data-width="450" data-show-faces="false"></div><br/>
+			<a href="https://twitter.com/share" class="twitter-share-button" data-lang="en" data-count="vertical">Tweet</a>
 		</div>
 		<div class="push_1 grid_10">
 			<div class="grid_8 alpha">
@@ -122,12 +132,13 @@
 	<script defer src="/js/mylibs/flux.min.js"></script>  
 	<script defer src="/js/mylibs/slider.js"></script>{% endif %}
 	<script type="text/javascript">
-		  (function() {
-		       var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-		           po.src = 'https://apis.google.com/js/plusone.js';
-			       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-			         })();
+	  (function() {
+	       var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+	       po.src = 'https://apis.google.com/js/plusone.js';
+	       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+	   })();
 	</script>
+	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
   	<script>
     		var _gaq=[['_setAccount','UA-6164762-11'],['_trackPageview'],['_trackPageLoadTime']];
     		(function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
