@@ -9,6 +9,7 @@ keywords: San Miniato, Toscana, Italia, Turismo, Viaggi, Gruppi, Eventi, Cerimon
 
 h2. contatti
 
+
 "info@myfairitaly.com(email info)":mailto:info@myfairitaly.com
 "reservations@myfairitaly.com(email reservations)":mailto:reservations@myfairitaly.com
 "weddings@myfairitaly.com(email weddings)":mailto:weddings@myfairitaly.com
@@ -17,6 +18,8 @@ Tel: +39 0571 49571
 Fax: +39 0571 451059
 
 Via 25 Aprile 1/a, Ponte a Egola, Pisa (IT).
+
+!/images/qr-mfi.png(QR Code di My Fair Italy)! 
 
 h3. come raggiungerci
 
