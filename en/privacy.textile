@@ -1,7 +1,7 @@
 ---
 layout: default
 lang: en
-title: privacy
+title: Privacy Policy
 description: My Fair Italy and our privacy policy
 keywords: San Miniato, Tuscany, Italy, privacy
 ---
