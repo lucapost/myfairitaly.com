@@ -25,4 +25,4 @@ h3. outgoing
 * *Soggiorni studio:* per il tuo soggiorno presso una struttura scolastica che una permanenza in famiglia.
 * *Viaggi religiosi:* per un’esperienza spirituale o un viaggio per chi vorrà visitare luoghi che difficilmente avrà occasione di rivedere.
 
-Visita la nostra "sezione proposte(proposte e attività)":proposte.html per avere alcune idee delle nostre offerte.
+Visita la nostra "sezione proposte(proposte e attività)":/proposte/ per avere alcune idee delle nostre offerte.
