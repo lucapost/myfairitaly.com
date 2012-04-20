@@ -1,0 +1,19 @@
+---
+layout: default
+lang: it
+title: Dicono di noi
+diconodinoi: current
+description: Cosa pensano gli altri della nostra azienda
+keywords: San Miniato, Toscana, Italia, soci, persone
+---
+
+h2. Dicono di noi
+
+h3. Video
+
+....
+
+
+h3. Articoli
+
+...

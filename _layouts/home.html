@@ -54,9 +54,11 @@ slider:
 ---
 
 <h2>{{ page.title }}</h2>
+
+{{ content }}
+
 <div id="sliderhome">{% for target in page.slider %}{% if page.lang == 'en' %}
 	<img src="/images/home/{{ target.name }}" alt="{{ target.alt.en }}" title="{{ target.title.en }}" />{% else %}
 	<img src="/images/home/{{ target.name }}" alt="{{ target.alt.it }}" title="{{ target.title.it }}" />{% endif %}{% endfor %}
 </div>
 
-{{ content }}
