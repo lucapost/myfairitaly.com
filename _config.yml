@@ -1,3 +1,4 @@
+server:         true
 safe:           true
 auto:           true
 pygments:       true

@@ -7,10 +7,6 @@ description: My Fair Italy, agenzia di viaggi ed organizzazione eventi per priva
 keywords: San Miniato, Toscana, Italia, Turismo, Viaggi, Gruppi, Soggiorno, Privati, Aziende, Eventi, Cerimonie
 ---
 
-Tel:   +39 0571 49571
-Email: "info@myfairitaly.com(email info)":mailto:info@myfairitaly.com
-Indirizzo: Via 25 Aprile 1/a, Ponte a Egola, Pisa (IT).
-
 *My Fair Italy®* è un'agenzia di viaggi specializzata  nell'organizzazione di tours, soggiorni, attività e degustazioni per gruppi e singoli in Toscana e in  Italia.
 
 *My Fair Italy®* è anche organizzazione eventi, cerimonie e matrimoni. Si indirizza ad aziende e privati, con un'attenzione particolare agli allestimenti  ed al budget stabilito. 
