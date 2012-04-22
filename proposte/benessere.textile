@@ -1,7 +1,7 @@
 ---
 layout: proposal
 lang: it
-proposal: current
+proposals: current
 displayhome: display
 displaymenu: display
 keywords: San Miniato, Toscana, Italia, Vacanza, Relax
