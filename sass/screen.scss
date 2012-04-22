@@ -68,6 +68,15 @@ a {
 	padding-left: 20px;
 }
 
+.bold {
+ 	font-weight: bold;
+}
+
+.proposal {
+	height: 140px;
+	margin-bottom: 20px;
+}
+
 header {
   	background-color: white; 
 }
@@ -127,6 +136,7 @@ section {
 	}
 	h4 {
 		font-size: 20px; 
+		margin-bottom: 0;
 	}
 	img {
 		height: 300px;
