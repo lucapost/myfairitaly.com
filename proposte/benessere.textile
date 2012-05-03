@@ -5,12 +5,12 @@ displayhome: display
 displaymenu: display
 
 lang: it
-keywords: San Miniato, Toscana, Italia, Vacanza, Relax
 title: Weekend di benessere
-type: days
 description: per coppie in hotel con centro benessere a San Miniato
+keywords: San Miniato, Toscana, Italia, Vacanza, Relax
 time: tutto l'anno
 duration: due giorni
+type: days
 image: coppiabenessere.jpg
 ---
 
