@@ -1,11 +1,10 @@
 ---
-layout: galleryrenderings
+layout: gallery
 galleries: current
+
 lang: it
+path: renderings
 title: Renderings e Prospettive
-maintitle: Gallerie
-prev: gadgets
-next: locationsaziende
 description: galleria dei nostri renderings e prospettive per allestimenti di locali ed aziende
 keywords: renderings, allestimenti, inaugurazioni, meetings
 ---

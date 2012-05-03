@@ -1,11 +1,11 @@
 ---
-layout: gallerylocationscorporate
+layout: gallery
 galleries: current
+
 lang: it
 title: Locations aziendali
-maintitle: Gallerie
-prev: renderings
-next: strutture
+path: locationscorporate
+type: turismo
 description: Galleria delle nostre locations per eventi aziendali
 keywords: busines, meetings, incentive, locations
 ---

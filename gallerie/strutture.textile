@@ -1,11 +1,10 @@
 ---
-layout: galleryaccommodations
+layout: gallery
 galleries: current
+
 lang: it
+path: accommodations
 title: Strutture ricettive
-maintitle: Gallerie
-prev: locationsaziende
-next: matrimoni
 description: galleria delle nostre strutture ricettive, ville, agriturismi, residenze storiche, case vacanza e bed and breakfast a San Miniato e in Toscana.
 keywords: strutture ricettive, agriturismo, villa, toscana, san miniato
 ---

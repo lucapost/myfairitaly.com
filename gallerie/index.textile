@@ -18,16 +18,22 @@ le strutture che consigliamo ai nostri clienti, agriturismi, hotel, giardini</di
 
 h3. Cerimonie
 
-<div class="h80">"!(thumbmini)/images/galleries/weddings/01.jpg(galleria matrimoni)! Matrimoni(Galleria Matrimoni)":matrimoni.html#content </div>
+<div class="h80">"!(thumbmini)/images/galleries/weddings/01.jpg(galleria matrimoni)! Matrimoni(Galleria Matrimoni)":matrimoni.html#content
+i nostri matrimoni e relativi allestimenti </div>
 
-<div class="h80">"!(thumbmini)/images/galleries/ideas/01.jpg(galleria idee cerimonie)! Idee per le cerimonie(Galleria Idee per allestimenti)":idee.html#content </div>
+<div class="h80">"!(thumbmini)/images/galleries/ideas/01.jpg(galleria idee cerimonie)! Idee per le cerimonie(Galleria Idee per allestimenti)":idee.html#content 
+le nostre cerimonie ed i loro allestimenti</div>
 
-<div class="h80">"!(thumbmini)/images/galleries/locationsceremonies/01.jpg(galleria locations cerimonie)! Locations cerimonie(Galleria locations per cerimonie)":locationscerimonie.html#content </div>
+<div class="h80">"!(thumbmini)/images/galleries/locationsceremonies/01.jpg(galleria locations cerimonie)! Locations cerimonie(Galleria locations per cerimonie)":locationscerimonie.html#content 
+ville e strutture in Toscana</div>
 
 h3. Aziendali
 
-<div class="h80">"!(thumbmini)/images/galleries/gadgets/01.jpg(galleria gadgets)! Gadgets(Galleria gadgets)":gadgets.html#content </div>
+<div class="h80">"!(thumbmini)/images/galleries/gadgets/01.jpg(galleria gadgets)! Gadgets(Galleria gadgets)":gadgets.html#content 
+idee per gli allestimenti personalizzati per eventi per privati e aziende</div>
 
-<div class="h80">"!(thumbmini)/images/galleries/renderings/01.jpg(galleria renderings)! Renderings(Galleria renderings)":renderings.html#content </div>
+<div class="h80">"!(thumbmini)/images/galleries/renderings/01.jpg(galleria renderings)! Renderings(Galleria renderings)":renderings.html#content 
+i nostri renderings e prospettive per allestimenti di locali ed aziende </div>
 
-<div class="h80">"!(thumbmini)/images/galleries/locationscorporate/01.jpg(galleria locations corporate)! Locations aziendali(Galleria locations aziendali)":locationsaziende.html#content </div>
+<div class="h80">"!(thumbmini)/images/galleries/locationscorporate/01.jpg(galleria locations corporate)! Locations aziendali(Galleria locations aziendali)":locationsaziende.html#content 
+le locations per eventi aziendali</div>

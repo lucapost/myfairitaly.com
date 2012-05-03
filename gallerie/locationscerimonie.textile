@@ -1,11 +1,10 @@
 ---
-layout: gallerylocationsceremonies
+layout: gallery
 galleries: current
+
 lang: it
+path: locationsceremonies
 title: Locations cerimonie
-maintitle: Gallerie
-prev: idee 
-next: gadgets
 description: galleria delle nostre locations per cerimonie, Ville e Strutture in Toscana per la celebrazione di cerimonie.
 keywords: locations, cerimonie, matrimonio, allestimenti
 ---
