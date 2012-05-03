@@ -6,7 +6,7 @@ layout: default
 
 <p>{{ page.daytext }}</p>
 {% for p in site.pages %}
-{% if p.proposals == 'current' and p.displaymenu == 'display' and p.lang == 'it' and p.type == 'day' %}
+{% if p.proposals == 'current' and p.lang == 'it' and p.type == 'day' and p.displaymenu == 'display' %}
 <div class='h80'>
 <a href="{{ p.url }}#content">
 	<img src='/images/proposal/{{ p.image }}' title='{{p.title}}' alt='{{p.title}}' class='thumbmini'/>
@@ -19,7 +19,7 @@ layout: default
 
 <p>{{ page.daystext }}</p>
 {% for p in site.pages %}
-{% if p.proposals == 'current' and p.displaymenu == 'display' and p.lang == 'it' and p.type == 'days' %}
+{% if p.proposals == 'current' and p.lang == 'it' and p.type == 'days' and p.displaymenu == 'display' %}
 <div class='h80'>
 <a href="{{ p.url }}#content">
 	<img src='/images/proposal/{{ p.image }}' title='{{p.title}}' alt='{{p.title}}' class='thumbmini'/>
@@ -32,7 +32,7 @@ layout: default
 
 <p>{{ page.outtext }}</p>
 {% for p in site.pages %}
-{% if p.proposals == 'current' and p.displaymenu == 'display' and p.lang == 'it' and p.type == 'out' %}
+{% if p.proposals == 'current' and p.lang == 'it' and p.type == 'out' and p.displaymenu == 'display' %}
 <div class='h80'>
 <a href="{{ p.url }}#content">
 	<img src='/images/proposal/{{ p.image }}' title='{{p.title}}' alt='{{p.title}}' class='thumbmini'/>

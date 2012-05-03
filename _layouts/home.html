@@ -7,7 +7,7 @@ layout: default
 {{ content }}
 
 {% for p in site.pages %}
-{% if p.proposals == 'current' and p.displayhome == 'display' and p.lang == 'it' %}
+{% if p.proposals == 'current' and p.displayhome == 'display' and p.lang == 'it' p.displayhome == 'display' %}
 <div class='h160'>
 <a href="{{ p.url }}#content">
 	<img src='/images/proposal/{{ p.image }}' title='{{p.title}}' alt='{{p.title}}' class='thumb'/>
