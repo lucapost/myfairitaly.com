@@ -13,27 +13,21 @@ Vuoi vedere altre immagini? Scegli la galleria che ti interessa!
 
 h3. Turismo
 
-!(thumbmini)/images/events/cerimonie.jpg(foto cerimonie)! "Strutture ricettive(galleria strutture)":strutture.html#content 
-le strutture che consigliamo ai nostri clienti, agriturismi, hotel, giardini
+<div class="h80">"!(thumbmini)/images/galleries/accommodations/01.jpg(galleria strutture)! Strutture ricettive(galleria strutture)":strutture.html#content 
+le strutture che consigliamo ai nostri clienti, agriturismi, hotel, giardini</div>
 
 h3. Cerimonie
 
-notextile. <!--
+<div class="h80">"!(thumbmini)/images/galleries/weddings/01.jpg(galleria matrimoni)! Matrimoni(Galleria Matrimoni)":matrimoni.html#content </div>
 
-* "Matrimoni(Galleria Matrimoni)":matrimoni.html#content
-* "Idee per le cerimonie(Galleria Idee per allestimenti)":idee.html#content
-* "Locations cerimonie(Galleria locations per cerimonie)":locationscerimonie.html#content
+<div class="h80">"!(thumbmini)/images/galleries/ideas/01.jpg(galleria idee cerimonie)! Idee per le cerimonie(Galleria Idee per allestimenti)":idee.html#content </div>
 
-notextile. -->
+<div class="h80">"!(thumbmini)/images/galleries/locationsceremonies/01.jpg(galleria locations cerimonie)! Locations cerimonie(Galleria locations per cerimonie)":locationscerimonie.html#content </div>
 
 h3. Aziendali
 
-notextile. <!--
+<div class="h80">"!(thumbmini)/images/galleries/gadgets/01.jpg(galleria gadgets)! Gadgets(Galleria gadgets)":gadgets.html#content </div>
 
-* "Gadgets(Galleria gadgets)":gadgets.html#content
-* "Renderings(Galleria renderings)":renderings.html#content
-* "Locations aziendali(Galleria locations aziendali)":locationsaziende.html#content
+<div class="h80">"!(thumbmini)/images/galleries/renderings/01.jpg(galleria renderings)! Renderings(Galleria renderings)":renderings.html#content </div>
 
-notextile. -->
-
-* "Gadgets(Galleria gadgets)":gadgets.html#content
+<div class="h80">"!(thumbmini)/images/galleries/locationscorporate/01.jpg(galleria locations corporate)! Locations aziendali(Galleria locations aziendali)":locationsaziende.html#content </div>
