@@ -1,6 +1,6 @@
 ---
 layout: gallerylocationsceremonies
-gallerie: current
+galleries: current
 lang: it
 title: Locations cerimonie
 maintitle: Gallerie

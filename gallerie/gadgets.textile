@@ -1,6 +1,6 @@
 ---
 layout: gallerygadgets
-gallerie: current
+galleries: current
 lang: it
 title: Gadgets e Accessori
 maintitle: Gallerie

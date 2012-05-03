@@ -1,8 +1,8 @@
 ---
 layout: default
+travels: current
 lang: it
 title: Viaggi
-viaggi: current
 description: My Fair Italy organizza viaggi di incoming in Toscana ed outgoing nel resto del mondo con i migliori Tour Operator
 keywords: San Miniato, Toscana, Italia, Viaggi, Incoming, Outgoing, Gruppi, Coppie
 ---

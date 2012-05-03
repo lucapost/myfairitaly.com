@@ -1,6 +1,6 @@
 ---
 layout: galleryrenderings
-gallerie: current
+galleries: current
 lang: it
 title: Renderings e Prospettive
 maintitle: Gallerie
