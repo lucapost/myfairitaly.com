@@ -11,7 +11,7 @@ keywords: San Miniato, Toscana, Italia, Vacanza, Relax
 time: da primavera fino all'autunno
 duration: tre giorni
 type: days
-image: bicichianti.jpg
+image: chianti.jpg
 ---
 
 
