@@ -35,3 +35,5 @@ notextile. <!--
 * "Locations aziendali(Galleria locations aziendali)":locationsaziende.html#content
 
 notextile. -->
+
+* "Gadgets(Galleria gadgets)":gadgets.html#content

@@ -1,18 +1,193 @@
 ---
 layout: default
+gadgets:
+   - file: '01.jpg'
+     title: 
+       it: 't-shirt'
+       en: 't-shirt'
+     alt:
+       it: 't-shirts personalizzabili con logo'
+       en: 'personalized t-shirts with a logo'
+   - file: '02.jpg'
+     title: 
+       it: 'penne a sfera'
+       en: 'rollerballs'
+     alt:
+       it: 'penne personalizzabili con logo'
+       en: 'personalized rollerballs with a logo'
+   - file: '03.jpg'
+     title: 
+       it: 'penna con laccetto'
+       en: 'rollerball with lanyard'
+     alt:
+       it: 'penna mini personalizzabile'
+       en: 'perzonalized mini pen'
+   - file: '04.jpg'
+     title: 
+       it: 'penna metallo'
+       en: 'metal rollerball'
+     alt:
+       it: 'penna metallo personalizzabile'
+       en: 'personalized pen'
+   - file: '05.jpg'
+     title: 
+       it: 'orologio'
+       en: 'watch'
+     alt:
+       it: 'orologio personalizzabile con marchio'
+       en: 'personalized watch with a mark'
+   - file: '06.jpg'
+     title: 
+       it: 'portapenne'
+       en: 'pencil box'
+     alt:
+       it: 'portapenne con orologio da tavolo'
+       en: 'pencilbox with desk watch'
+   - file: '07.jpg'
+     title: 
+       it: 'orologio da scrivania'
+       en: 'desk watch'
+     alt:
+       it: 'orologio portafoto digitali'
+       en: 'watch and digital photo frame'
+   - file: '08.jpg'
+     title: 
+       it: 'laccetti per cellulare'
+       en: 'mobile lanyard'
+     alt:
+       it: 'laccetti multicolor personalizzabili'
+       en: 'coloured and personalized lanyards'
+   - file: '09.jpg'
+     title: 
+       it: 'portacellulari'
+       en: 'mobile case'
+     alt:
+       it: 'calzette portacellulari multicolor personalizzabili'
+       en: 'coloured and personalized mobile case'
+   - file: '10.jpg'
+     title: 
+       it: 'set sommelier'
+       en: 'set sommelier'
+     alt:
+       it: 'astuccio sommelier deluxe in legno'
+       en: 'wooden set sommelier'
+   - file: '11.jpg'
+     title: 
+       it: 'confezione vino'
+       en: 'wine box'
+     alt:
+       it: 'astuccio sommelier deluxe pelle'
+       en: 'leather set sommelier'
+   - file: '12.jpg'
+     title: 
+       it: 'penna usb'
+       en: 'pendrive'
+     alt:
+       it: 'penna usb personalizzabile'
+       en: 'personalized pendrives'
+   - file: '13.jpg'
+     title: 
+       it: 'portachiavi'
+       en: 'key-ring'
+     alt:
+       it: 'portachiavi in gomma personalizzabili'
+       en: 'personalized rubber keyrings'
+   - file: '14.jpg'
+     title: 
+       it: 'cappellino'
+       en: 'baseball cap'
+     alt:
+       it: 'cappellino colorato per stampa logo'
+       en: 'coloured and personalized baseball cap'
+   - file: '15.jpg'
+     title: 
+       it: 'ombrelli'
+       en: 'umbrellas'
+     alt:
+       it: 'ombrelli bicolore per stampa marchio'
+       en: 'two-coloured and personalized umbrellas'
+   - file: '16.jpg'
+     title: 
+       it: 'matite colorate'
+       en: 'crayons'
+     alt:
+       it: 'astuccio in legno personalizzabile'
+       en: 'personalized crayonbox'
+   - file: '17.jpg'
+     title: 
+       it: 'shop in tela'
+       en: 'shopper'
+     alt:
+       it: 'borsa in tela stampabile'
+       en: 'printable fabric bag'
+   - file: '18.jpg'
+     title: 
+       it: 'zainetto'
+       en: 'small backpack'
+     alt:
+       it: 'zainetto bicolor stampabile'
+       en: 'two-coloured personalized small backpack'
+   - file: '19.jpg'
+     title: 
+       it: 'porta cd'
+       en: 'cd holder'
+     alt:
+       it: 'porta cd nero personalizzabile'
+       en: 'black personalized cd-caddy'
 ---
 
-{{ content }} 
-
 <h3>{{ page.title }}</h3>
-<!-- <div class="controls center"> 
+{{page.name}}
+<!--
+<div class="controls center"> 
 	<a href="#" onclick="window.slider.start();return false;">play</a> |
 	<a href="#" onclick="window.slider.stop();return false;">stop</a> | 
 	<a href="#" onclick="window.slider.prev();return false;">prev</a> |
 	<a href="#" onclick="window.slider.prev();return false;">next</a> 
 </div> -->
-<div id="slider">{% for target in page.slider %}{% capture fullpath %}{{ page.path }}/{{ target.name }}{% endcapture %}
-	<img src="{{ fullpath }}" {% if page.lang == 'en' %}
+<div id="slider">
+{% case page.path %}
+	{% when 'accommodations' %}
+		{% for target in page.accommodations %}
+	<img src="/images/gallery/accommodations/{{target.file}}" {% if page.lang == 'en' %}
        		alt="{{ target.alt.en }}" title="{{ target.title.en }}" {% else %}
-		alt="{{ target.alt.it }}" title="{{ target.title.it }}" {% endif %} />{% endfor %}
+		alt="{{ target.alt.it }}" title="{{ target.title.it }}" {% endif %} />
+		{% endfor %}
+	{% when 'gadgets' %}
+		{% for target in page.gadgets %}
+	<img src="/images/gallery/gadgets/{{target.file}}" {% if page.lang == 'en' %}
+       		alt="{{ target.alt.en }}" title="{{ target.title.en }}" {% else %}
+		alt="{{ target.alt.it }}" title="{{ target.title.it }}" {% endif %} />
+		{% endfor %}
+	{% when 'ideas' %}
+		{% for target in page.ideas %}
+	<img src="/images/gallery/ideas/{{target.file}}" {% if page.lang == 'en' %}
+       		alt="{{ target.alt.en }}" title="{{ target.title.en }}" {% else %}
+		alt="{{ target.alt.it }}" title="{{ target.title.it }}" {% endif %} />
+		{% endfor %}
+	{% when 'locationsceremonies' %}
+		{% for target in page.locationsceremonies %}
+	<img src="/images/gallery/locationscerimonies/{{target.file}}" {% if page.lang == 'en' %}
+       		alt="{{ target.alt.en }}" title="{{ target.title.en }}" {% else %}
+		alt="{{ target.alt.it }}" title="{{ target.title.it }}" {% endif %} />
+		{% endfor %}
+	{% when 'locationscorporate' %}
+		{% for target in page.locationscorporate %}
+	<img src="/images/gallery/locationscorporate/{{target.file}}" {% if page.lang == 'en' %}
+       		alt="{{ target.alt.en }}" title="{{ target.title.en }}" {% else %}
+		alt="{{ target.alt.it }}" title="{{ target.title.it }}" {% endif %} />
+		{% endfor %}
+	{% when 'rendering' %}
+		{% for target in page.rendering %}
+	<img src="/images/gallery/rendering/{{target.file}}" {% if page.lang == 'en' %}
+       		alt="{{ target.alt.en }}" title="{{ target.title.en }}" {% else %}
+		alt="{{ target.alt.it }}" title="{{ target.title.it }}" {% endif %} />
+		{% endfor %}
+	{% when 'weddings' %}
+		{% for target in page.weddings %}
+	<img src="/images/gallery/weddings/{{target.file}}" {% if page.lang == 'en' %}
+       		alt="{{ target.alt.en }}" title="{{ target.title.en }}" {% else %}
+		alt="{{ target.alt.it }}" title="{{ target.title.it }}" {% endif %} />
+	{% endfor %}
+{% endcase %}
 </div>

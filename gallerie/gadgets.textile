@@ -1,11 +1,10 @@
 ---
-layout: gallerygadgets
+layout: gallery
 galleries: current
+
 lang: it
 title: Gadgets e Accessori
-maintitle: Gallerie
-prev: locationscerimonie
-next: renderings
+path: gadgets
 description: Galleria dei nostri gadgets aziendali personalizzati
 keywords: gadgets, busines, personalizzazione, aziende
 ---
