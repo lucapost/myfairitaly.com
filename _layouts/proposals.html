@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+{{ content }}
+
+<p>{{ page.daytext }}</p>
+{% for p in site.pages %}
+{% if p.proposals == 'current' and p.displaymenu == 'display' and p.lang == 'it' and p.type == 'day' %}
+<a href="{{ p.url }}#content">
+	<img src='/images/proposal/{{ p.image }}' title='{{p.title}}' alt='{{p.title}}' class='thumbmini'/>
+</a>
+<p>
+<a href="{{ p.url }}#content" title='{{p.title}}'>{{ p.title }}</a><br/>{{p.description}}
+</p>
+{% endif %}
+{% endfor %}
+
+<p>{{ page.daystext }}</p>
+{% for p in site.pages %}
+{% if p.proposals == 'current' and p.displaymenu == 'display' and p.lang == 'it' and p.type == 'days' %}
+<a href="{{ p.url }}#content">
+	<img src='/images/proposal/{{ p.image }}' title='{{p.title}}' alt='{{p.title}}' class='thumbmini'/>
+</a>
+<p>
+<a href="{{ p.url }}#content" title='{{p.title}}'>{{ p.title }}</a><br/>{{p.description}}
+</p>
+{% endif %}
+{% endfor %}
+
+<p>{{ page.outtext }}</p>
+{% for p in site.pages %}
+{% if p.proposals == 'current' and p.displaymenu == 'display' and p.lang == 'it' and p.type == 'out' %}
+<a href="{{ p.url }}#content">
+	<img src='/images/proposal/{{ p.image }}' title='{{p.title}}' alt='{{p.title}}' class='thumbmini'/>
+</a>
+<p>
+<a href="{{ p.url }}#content" title='{{p.title}}'>{{ p.title }}</a><br/>{{p.description}}
+</p>
+{% endif %}
+{% endfor %}
