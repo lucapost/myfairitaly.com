@@ -8,7 +8,7 @@ lang: it
 keywords: San Miniato, Toscana, Italia, Vacanza, Relax
 title: Degustazioni vino e olio
 type: days
-description: My Fair Italy propone soggiorni di una giornata oppure più giorni
+description: tour per singoli o gruppi tra le colline di San Miniato in Toscana.
 time: tutto l'anno
 duration: mezza giornata
 image: degustazioni.jpg
