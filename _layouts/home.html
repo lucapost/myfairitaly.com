@@ -8,6 +8,7 @@ layout: default
 
 {% for p in site.pages %}
 {% if p.proposals == 'current' and p.displayhome == 'display' and p.lang == 'it' %}
+<div>
 <a href="{{ p.url }}#content">
 	<img src='/images/proposal/{{ p.image }}' title='{{p.title}}' alt='{{p.title}}' class='thumb'/>
 </a>
@@ -16,6 +17,8 @@ layout: default
 </a>
 <span class='bold'>Periodo</span>: {{p.time}}<br/>
 <span class='bold'>Durata</span>: {{p.duration}}<br/>
-<span class='bold'>Descrizione</span>: {{p.description}}<br/>
+<span class='bold'>Descrizione</span>: {{p.description}}
+</div>
+<br/>
 {% endif %}
 {% endfor %}
