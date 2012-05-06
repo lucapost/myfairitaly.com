@@ -5,7 +5,7 @@ displayhome:
 displaymenu: display
 
 lang: it
-title: corsi di cucina 
+title: Corsi di cucina 
 description: impariamo la vera tradizione della buona cucina tradizionale toscana
 keywords: San Miniato, Toscana, Italia, Vacanza, Mangiare
 time: tutto l'anno
