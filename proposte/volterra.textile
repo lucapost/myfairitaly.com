@@ -1,20 +1,21 @@
 ---
-layout: nextprev
+layout: proposal
+proposals: current
+displayhome: 
+displaymenu: display
+
 lang: it
-proposte: current
-prev: chianti
-next: gimignano
-maintitle: proposte
-title: S. Miniato/Volterra in bici
-description: My Fair Italy propone soggiorni di una giornata oppure più giorni
-keywords: San Miniato, Toscana, Italia, Vacanza, Relax
+keywords: San Miniato, Toscana, cicloturismo, bici, passeggiate
+title: Tour da San Miniato a Volterra in bicicletta
+tipe: days
+description: Un tour di 3 giorni per gli amanti del cicloturismo
+time: da primavera all'autunno
+duration: 3 giorni
+type: days
+image: volterra.jpg
 ---
 
-h3. Tra San Miniato e Volterra in Bici
-
-!(thumb)/images/proposal/bicivolterra.jpg(Palazzo dei Priori a Volterra)!
-
-Tour di tre giorni tra "San Miniato(San Miniato su wikipedia)":http://it.wikipedia.org/wiki/San_Miniato e "Volterra(Volterra su wikipedia)":http://it.wikipedia.org/wiki/Volterra per amanti del cicloturismo compresi pasti, pernottamenti e noleggio bici. Periodo: da primavera ad autunno.
+Tour di tre giorni tra "San Miniato(San Miniato su wikipedia)":http://it.wikipedia.org/wiki/San_Miniato e "Volterra(Volterra su wikipedia)":http://it.wikipedia.org/wiki/Volterra per amanti del cicloturismo (comprende pasti, pernottamenti e noleggio bici). Su richiesta è possibile essere accompagnati da una guida ambientale e/o servizio assistenza bici dedicato.
 
 *Giorno 1*: Arrivo in hotel  a "San Miniato(San Miniato su wikipedia)":http://it.wikipedia.org/wiki/San_Miniato. La struttura, ricavata in un ex convento del secolo XIII, unisce l'atmosfera suggestiva e con i comfort di una struttura nuovissima e funzionale regalando all'ospite l'idea stessa del borgo medievale con i suoi sapori , le sue suggestioni, la sua storia senza perdere di vista gli standard di comfort e di benessere. La sera cena a base di prodotti tipici in hotel.
 

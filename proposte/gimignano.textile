@@ -1,20 +1,20 @@
 ---
-layout: nextprev
+layout: proposal
+proposals:current
+displayhome:
+displamenu: display
+
 lang: it
-proposte: current
-prev: volterra
-next: soloperdue
-maintitle: Proposte
-title: S. Miniato/S. Giminiano in bici
-description: My Fair Italy propone soggiorni di una giornata oppure più giorni
-keywords: San Miniato, Toscana, Italia, Vacanza, Relax
+keywords: San Miniato, Toscana, cicloturismo, natura, attività fisica
+title: Da San Miniato a San Gimignano in bicicletta
+description: Avventura di 3 giorni per gli amanti della bici
+time: da primavera ad autunno
+duration: tre giorni
+type: days
+image: gimignano.jpg
 ---
 
-h3. Tra S.Miniato e S.Gimignano in bici
-
-!(thumb)/images/proposal/bicigimignano.jpg(Piazza del Seminario a San Miniato)!
-
-Tour di tre giorni tra "San Miniato(San Miniato su wikipedia)":http://it.wikipedia.org/wiki/San_Miniato e "San Gimignano(San Gimignano su wikipedia)":http://it.wikipedia.org/wiki/San_Gimignano per amanti del cicloturismo compresi pasti, pernottamenti e noleggio bici. Periodo: da primavera ad autunno.
+Tour di tre giorni tra "San Miniato(San Miniato su wikipedia)":http://it.wikipedia.org/wiki/San_Miniato e "San Gimignano(San Gimignano su wikipedia)":http://it.wikipedia.org/wiki/San_Gimignano per amanti del cicloturismo (comprende pasti, pernottamenti e noleggio bici). Su richiesta è possibile essere accompagnati da una guida ambientale e/o servizio assistenza bici dedicato.
 
 *Giorno 1*: Arrivo in hotel a "San Miniato(San Miniato su wikipedia)":http://it.wikipedia.org/wiki/San_Miniato. La struttura, ricavata in un ex convento del secolo XIII, unisce l'atmosfera suggestiva con i comfort di una struttura nuovissima e funzionale regalando all'ospite l'idea stessa del borgo medievale con i suoi sapori, le sue suggestioni, la sua storia senza perdere di vista gli standard di comfort e di benessere. La sera cena a base di prodotti tipici in hotel.
 
@@ -22,4 +22,4 @@ Tour di tre giorni tra "San Miniato(San Miniato su wikipedia)":http://it.wikiped
 
 *Giorno 3*: Il tour previsto è nelle campagne attorno a San Miniato attraverso il centro della cittadina arriverete al convento di San Francesco,  fondato nel 1211, forse proprio nel luogo ove sorgeva un oratorio dedicato a San Miniato, è un grandioso complesso, frutto di numerosi ampliamenti effettuati nel corso dei secoli. Proseguirete poi per Cigoli, caratteristica frazione del comune, fino ad arrivare a San Miniato Basso, dove è prevista una sosta per un pranzo a degustazione presso una nota azienda agricola della zona, famosa per la produzione di "spumante(Sito ufficiale Cupelli Vini)":http://www.cupellivini.com/ita/spumante.php. Una bella salita vi aspetterà per il ritorno in hotel. Il pomeriggio potrete passarlo in relax presso la Spa dell'Hotel (su prenotazione) o, se preferite, potrete passeggiare per il borgo accompagnati da una guida turistica a voi dedicata (su prenotazione).
 
-*Il livello di difficoltà del tour proposto è INTERMEDIO.*
+Il livello di difficoltà del tour proposto è INTERMEDIO.

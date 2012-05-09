@@ -1,17 +1,18 @@
 ---
-layout: nextprev
+layout: proposal
+proposals: current
+displayhome: 
+displaymenu: display
+
 lang: it
-maintitle: Proposte
+keywords: San Miniato, Toscana, Italia, Spa, occasione romantica
 title: Solo per due
-proposte: current
-prev: gimignano
-next: ferrari
-description: My Fair Italy propone soggiorni di una giornata oppure più giorni
-keywords: San Miniato, Toscana, Italia, Vacanza, Relax
+tipe: day
+description: Vuoi una mano ad organizzare qualcosa di speciale?
+time: tutto l'anno
+duration: da mezza giornata a una giornata intera
+type: day
+image: soloperdue.jpg
 ---
-
-h3. Solo per due
-
-!(thumb)/images/proposal/soloperdue.jpg(Tramonto in Toscana)!
 
 Devi fare una dichiarazione particolare o festeggiare un'occasione speciale? Hai mai pensato all'effetto che potrebbe fare un locale aperto solo per voi due, circondati da una romantica atmosfera e con la discreta presenza di personale a voi dedicato? E se il tempo a disposizione è più che per una cena e magari desiderassi prendere un aperitivo in un centro benessere aperto solo a voi? Chiamaci e sapremo soddisfare il tuo sogno!
