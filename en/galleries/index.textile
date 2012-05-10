@@ -1,28 +1,40 @@
 ---
 layout: default
 lang: en
+galleries: current
 title: Galleries
-gallerie: current
 description: our works, events and structures photo-galleries 
 keywords: photos, galleries, structures, organization, set ups. tuscany
 ---
 
-h2. GALLERIES
+h2. galleries
 
 Do you want to see more images? Choose the gallery you are interested in!
 
-h3. TOURISM 
+h3. tourism
 
-* "Accommodations(accommodations)":accommodations.html#content
+<div class="h80">"!(thumbmini)/images/galleries/accommodations/01.jpg(gallery strutture)! Accommodations(accommodations)":accommodations.html#content
+le strutture che consigliamo ai nostri clienti, agriturismi, hotel, giardini</div>
 
-h3. CEREMONIES 
+h3. ceremonies
 
-* "Weddings(weddings)":weddings.html#content
-* "Ideas(ideas)":ideas.html#content
-* "Locations(locations)":locationsceremonies.html#content
+<div class="h80">"!(thumbmini)/images/galleries/weddings/01.jpg(gallery matrimoni)! Weddings(weddings)":weddings.html#content
+i nostri matrimoni e relativi allestimenti </div>
 
-h3. BUSINESS
+<div class="h80">"!(thumbmini)/images/galleries/ideas/01.jpg(gallery idee cerimonie)! Ideas(ideas)":ideas.html#content
+le nostre cerimonie ed i loro allestimenti</div>
 
-* "Gadgets(gadgets)":gadgets.html#content
-* "Renderings(renderings)":renderings.html#content
-* "Locations(locations)":locationscorporate.html#content
+<div class="h80">"!(thumbmini)/images/galleries/locationsceremonies/01.jpg(gallery locations cerimonie)! Locations(locations)":locationsceremonies.html#content
+ville e strutture in Toscana</div>
+
+h3. businnes
+
+
+<div class="h80">"!(thumbmini)/images/galleries/gadgets/01.jpg(gallery gadgets)! Gadgets(gadgets)":gadgets.html#content
+idee per gli allestimenti personalizzati per eventi per privati e aziende</div>
+
+<div class="h80">"!(thumbmini)/images/galleries/renderings/01.jpg(gallery renderings)! Renderings(renderings)":renderings.html#content
+i nostri renderings e prospettive per allestimenti di locali ed aziende </div>
+
+<div class="h80">"!(thumbmini)/images/galleries/locationscorporate/01.jpg(gallery locations corporate)! Locations(locations)":locationscorporate.html#content
+le locations per eventi aziendali</div>
