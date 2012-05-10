@@ -27,9 +27,9 @@ $radius: 	10px;
 }
 
 @mixin shadow {
-	-moz-box-shadow: 0 0 5px #888;
-	-webkit-box-shadow: 0 0 5px#888;
-	box-shadow: 0 0 5px #888;
+	-moz-box-shadow: 0 0 2px #888;
+	-webkit-box-shadow: 0 0 2px#888;
+	box-shadow: 0 0 2px #888;
 }
 
 * {
@@ -129,7 +129,7 @@ section {
 		font-size: 40px;
 		line-height: 40px;
 		margin-bottom: 20px; 
-		text-shadow: #999 4px 4px 6px;
+		text-shadow: #999 2px 2px 3px;
 	}
 	h3 {
 		font-size: 24px; 
