@@ -6,7 +6,7 @@ displaymenu: display
 
 lang: en
 title: Wellness weekend
-description: romantic wellness wekend in tuscany for couples in SPA resort located in San Miniato.
+description: romantic wellness weekend in tuscany for couples in SPA resort located in San Miniato.
 keywords: weekend, tuscany, romantic, wellness
 time: all the year
 duration: two days
