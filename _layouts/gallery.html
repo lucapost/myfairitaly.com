@@ -280,7 +280,7 @@ ideas:
        it: 'installazione mostra fotografica'
        en: 'photos exhibition' 
        
-locationsceremonies:
+settingsceremonies:
    - file: '01.jpg'
      title: 
        it: 'ricevimento all aperto'
@@ -366,7 +366,7 @@ locationsceremonies:
        it: 'cattedrale a San Miniato'
        en: 'san miniato cathedral'
 
-locationscorporate:
+settingscorporate:
    - file: '01.jpg'
      title: 
        it: 'San Martino'
@@ -716,15 +716,15 @@ weddings:
        		alt="{{ target.alt.en }}" title="{{ target.title.en }}" {% else %}
 		alt="{{ target.alt.it }}" title="{{ target.title.it }}" {% endif %} />
 		{% endfor %}
-	{% when 'locationsceremonies' %}
-		{% for target in page.locationsceremonies %}
-	<img src="/images/galleries/locationsceremonies/{{target.file}}" {% if page.lang == 'en' %}
+	{% when 'settingsceremonies' %}
+		{% for target in page.settingsceremonies %}
+	<img src="/images/galleries/settingsceremonies/{{target.file}}" {% if page.lang == 'en' %}
        		alt="{{ target.alt.en }}" title="{{ target.title.en }}" {% else %}
 		alt="{{ target.alt.it }}" title="{{ target.title.it }}" {% endif %} />
 		{% endfor %}
-	{% when 'locationscorporate' %}
-		{% for target in page.locationscorporate %}
-	<img src="/images/galleries/locationscorporate/{{target.file}}" {% if page.lang == 'en' %}
+	{% when 'settingscorporate' %}
+		{% for target in page.settingscorporate %}
+	<img src="/images/galleries/settingscorporate/{{target.file}}" {% if page.lang == 'en' %}
        		alt="{{ target.alt.en }}" title="{{ target.title.en }}" {% else %}
 		alt="{{ target.alt.it }}" title="{{ target.title.it }}" {% endif %} />
 		{% endfor %}
