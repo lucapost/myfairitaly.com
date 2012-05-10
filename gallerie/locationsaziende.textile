@@ -4,8 +4,8 @@ galleries: current
 
 lang: it
 title: Locations aziendali
-path: locationscorporate
+path: settingscorporate
 type: turismo
-description: Galleria delle nostre locations per eventi aziendali
+description: galleria delle nostre locations per eventi aziendali
 keywords: busines, meetings, incentive, locations
 ---

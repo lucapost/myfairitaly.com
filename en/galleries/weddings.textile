@@ -1,11 +1,10 @@
 ---
-layout: galleryweddings
-gallerie: current
+layout: gallery
+galleries: current
+
 lang: en
+path: weddings
 title: Weddings
-keywords: weddings, locations, tuscany, ceremonies, bouquets, photos
 descriptions: a gallery of our weddings
-maintitle: Galleries
-prev: accomodations
-next: ideas
+keywords: weddings, locations, tuscany, ceremonies, bouquets, photos
 ---

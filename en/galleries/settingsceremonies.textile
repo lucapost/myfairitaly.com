@@ -1,0 +1,10 @@
+---
+layout: gallery
+galleries: current
+
+lang: en
+path: settingsceremonies
+title: Locations ceremonies
+descriptions: a gallery of our ceremonies locations
+keywords: locations, ceremonies, weddings, tuscany, villas 
+---

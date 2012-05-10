@@ -1,0 +1,10 @@
+---
+layout: gallery
+galleries: current
+
+lang: en
+path: settingscorporate
+title: Locations corporate
+descriptions: a gallery of our corporate locations
+keywords: locations, corporate, meetings, busines, tuscany
+---

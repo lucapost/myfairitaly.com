@@ -7,7 +7,7 @@ description: our activities and proposals, themed tours, taste delicious delicat
 keywords: proposals, activities, tasting, tour, tuscany, tuscan dish, olive oil, truffle
 daytext: Our proposals include one day tours,
 daystext: and more than one day trip in Tuscany,
-outtext: and travels offers 
+outtext:
 ---
 
 *My Fair Italy®* can make your Tuscany experience unique. We assure you to spend unforgettable themed tours, taste delicious delicatessen and enjoy relaxed walking through beautiful natural landscapes. 

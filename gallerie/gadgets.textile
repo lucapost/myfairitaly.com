@@ -3,9 +3,8 @@ layout: gallery
 galleries: current
 
 lang: it
-title: Gadgets e Accessori
 path: gadgets
-type: turismo
-description: Galleria dei nostri gadgets aziendali personalizzati
+title: Gadgets e Accessori
+description: galleria dei nostri gadgets aziendali personalizzati
 keywords: gadgets, busines, personalizzazione, aziende
 ---
